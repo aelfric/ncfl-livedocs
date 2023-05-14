@@ -1,0 +1,5 @@
+include.exe
+include.hi
+include.o
+toc.html
+.vscode/tasks.json
