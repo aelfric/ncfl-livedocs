@@ -8,9 +8,11 @@ mustache:
 
 ## Contact Information
 
+**Extemp Prep Room**: U of L, Student Activities Center Ballroom W215
+
 **Speech Judge Lounge**: (Location TBD)
 
-**Speech Tab Room**: (Location TBD)
+**Speech Tab Room**: U of L, Belknap Academic 218
 
 **Speech Tab Room Support** for questions specific to Speech Events, Rules, and Competitors (text only): {{speech_phone}}
 
@@ -23,6 +25,8 @@ mustache:
 - You can also [email](ncflequityadvocates@gmail.com) and ask to speak to an Equity Advocate.
 
 ## Announcements / Updates
+
+Nothing yet.  Check back here during the tournament for important information.
 
 ## Wireless Information
 
@@ -47,7 +51,7 @@ mustache:
     - If missing a competitor - type in Missing + Competitor Code
     - If missing a judge - type in Missing + Judge Code
 - If a student arrives late, have them speak in the closest position to their initial speaker order on the ballot.
-- **NO OBSERVERS:** if a person in the room is not a judge or a speaker, please remind them that all prelim, octafinal, and quarterfinal rounds are not open to observers. Observers are welcome to attend semifinal and final rounds per space availability. This includes any family members of judges or competitors.
+- Observers are allowed in Saturday rounds ONLY with the permission of ALL Competitors & Judges in the Room. Anyone can say NO without penalty or prejudice. 
 
 ### During Rounds
 
@@ -55,7 +59,6 @@ mustache:
   Keep time. Please provide time signals per the student’s request. If time signals are requested and not provided as promised, DO NOT penalize the student if they perform over the grace period of 30 seconds.
 - Record your comments using a ‘hard drive’ program (Word, Notepad, Pages). If the internet becomes unstable in your room or building, you might lose all your comments otherwise.
 - A good judge is a friendly judge - but a quiet judge. The only communication a judge should have with the competitors is to assist the orderly flow of the round. Avoid any extraneous conversation, especially concerning students’ names, schools, hometowns, or other personal information. Friendly ‘hellos’ and a generic, round-wide ‘great job, everyone!’ or ‘thank you, everybody!’ are perfectly fine.
-  Remember, with the masks, students cannot see your facial expressions and encouraging smiles while they are performing. Be sure to nod approvingly and lead the applause in the room.
 - Judges are not permitted to disclose their ranks with any person (including the competitors) or discuss specific performances from the round with any person (including the competitors) until after the tournament.
 - Judges are not permitted to confer with each other on the decision.
 - If a student chooses to wear a mask during a round, Judges should not comment on that (during the round or on the ballot).
@@ -99,6 +102,8 @@ mustache:
 
 ### Judge Training
 
+See the Webinar recorded on Monday: <https://youtu.be/_uqJ0Pc_gBQ>
+
 ### Rule Violations & Protest Procedures
 
 Please consult the TAB Room ({{speech_phone}}) before deciding that something in the round warrants a reduction in rank. Beyond going over the grace period on time, do not penalize a student for a rule infraction until you have discussed the matter with TAB. If you think a speaker should be disqualified, you must talk to the PROTEST committee. You cannot make that decision on your own.
@@ -107,7 +112,6 @@ Please consult the TAB Room ({{speech_phone}}) before deciding that something in
 
 If someone has a question regarding a protest, they can either contact the Speech Tab Room directly, through the text line at {{speech_phone}}, or contact the Tournament Help Desk at:
 
-- Visit the Help Desk Zoom Room (Passcode NCFL)
 - Email the help desk at <ncflhelpdesk@gmail.com>
 - Text the help desk at 413-367-6235
 - Per NCFL bylaws, only a coach or a judge may submit a protest.
