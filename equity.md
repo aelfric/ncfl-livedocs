@@ -15,7 +15,7 @@ Please note: Equity Complaints should be brought to the committee if someone fee
 
 The NCFL is committed to providing safe performance spaces for all competitors and judges. We acknowledge the art of advocacy through performance and debate may be a healing process and/or opportunity to speak on important topics. It is impossible to know all the ways in which content or a performance or debate may unintentionally harm or trigger members of the audience. To better serve our competitors, we will be honoring an open door practice during all rounds.
 
-The open door policy means competitors and other audience members may choose to leave or stay in a room when a performance negatively impacts their wellbeing. Competitors may discreetly leave the room (e.g., before, during, or after someone’s performance) without question or penalty. Judges may also take steps to protect their well-being by contacting the Tab Room or Equity Office before or after a performance.  
+The open door policy means competitors and other audience members may choose to leave or stay in a room when a performance negatively impacts their wellbeing. Competitors may discreetly leave the room (e.g., before, during, or after someone's performance) without question or penalty. Judges may also take steps to protect their well-being by contacting the Tab Room or Equity Office before or after a performance.
 
 We recognize that putting mental and physical well-being above community norms is imperfect but important work.
 
@@ -25,12 +25,14 @@ Over the last few years, there have been many important and necessary conversati
 
 That said, we recognize that words are powerful and can impact our audience in ways we do, and sometimes do not, intend. If competitors would like to optionally give content warnings, that is permitted and encouraged as a thoughtful good practice.
 
-As a best practice, content warnings should: be given prior to the debate round or speech start, be relatively short in nature (1-2 sentences), and highlight the potentially sensitive content appropriately.
-Deployment should be similar to what we are all used to with TV Parental Guidelines prior to the start of a show on network TV.  
-Example: "Today's presentation involves discussion of gun violence in schools and coarse language." The intent here is to allow audience members who cannot listen to these types of arguments for their own deeply personal reasons to be able to remove themselves as appropriate prior to the presentation beginning.
+As a best practice, content warnings should: be given prior to the debate round or speech start, be relatively short in nature (1-2 sentences), and highlight the potentially sensitive content appropriately. Deployment should be similar to what we are all used to with TV Parental Guidelines prior to the start of a show on network TV.  
+
+> Example: "Today's presentation involves discussion of gun violence in schools and coarse language."
+
+The intent here is to allow audience members who cannot listen to these types of arguments for their own deeply personal reasons to be able to remove themselves as appropriate prior to the presentation beginning.
 
 ### Contacting an Equity Advocate
 
-* You can contact an Equity Advocate directly by filling out this form: [NCFL Equity Concern Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSciqY_9YNl_Iw36jZxe8NuhCqxgPDdDOZ_Pd0xEJPtTIXO3Gw/viewform)
-* You can text [(919) 964-0018](sms:+19199640018) and ask to speak to an Equity Advocate.
-* You can also [email](ncflequityadvocates@gmail.com) and ask to speak to an Equity Advocate.
+- You can contact an Equity Advocate directly by filling out this form: [NCFL Equity Concern Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSciqY_9YNl_Iw36jZxe8NuhCqxgPDdDOZ_Pd0xEJPtTIXO3Gw/viewform)
+- You can text [(919) 964-0018](sms:+19199640018) and ask to speak to an Equity Advocate.
+- You can also [email](ncflequityadvocates@gmail.com) and ask to speak to an Equity Advocate.

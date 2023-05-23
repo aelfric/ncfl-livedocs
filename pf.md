@@ -1,4 +1,8 @@
-# Public Forum
+---
+title: 2023 NCFL Public Forum Debate Live Doc
+---
+
+# 2023 NCFL Public Forum Debate Live Doc
 
 ## Contact Information
 

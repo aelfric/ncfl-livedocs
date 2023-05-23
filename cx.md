@@ -1,4 +1,8 @@
-# Policy Debate
+---
+title: 2023 NCFL Policy Debate Live Doc
+---
+
+# 2023 NCFL Policy Debate Live Doc
 
 ## Contact Information
 
