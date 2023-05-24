@@ -8,10 +8,9 @@ mustache:
 
 ## Contact Information
 
+**PF Judge Lounge**: Trinity High School - Convocation Hall (2nd Floor of Communication Arts Building) 
 
-**PF Judge Lounge**: (Location TBD)
-
-**PF Tab Room**: (Location TBD)
+**PF Tab Room**: Trinity High School - Welcome Center
 
 **PF Tab Room Support** (text only): [{{pf_phone}}](sms) or email [{{pf_email}}](email)
 
@@ -22,35 +21,60 @@ mustache:
 
 ## Announcements / Updates
 
-Nothing yet.  Check back here during the tournament for important information.
+Nothing yet. Check back here during the tournament for important information.
 
 ## Wireless Information
 
 ## Round Procedures
 
-- Pairings for all rounds are on Tabroom.com and will be pushed ~30 minutes before the start of the round via judge/competitor notifications. Students must connect their accounts on Tabroom to get notifications or simply look at pairings online.  All rounds are double flighted.
-- All 4 debaters should report to the room.  If flight B is there and ready and flight A is not, the B flight may debate first.  Do NOT mix flights.  
+- Pairings for all rounds are on Tabroom.com and will be pushed ~30 minutes
+  before the start of the round via judge/competitor notifications. Students
+  must connect their accounts on Tabroom to get notifications or simply look at
+  pairings online. All rounds are double flighted.
+- All 4 debaters should report to the room. If flight B is there and ready and
+  flight A is not, the B flight may debate first. Do NOT mix flights.
 - There are 3 judges in every round + 2 teams. Please wait for all three judges
-- FORFEIT is 10 mins after start of round. Tab Chairs are THE ONLY ONES WHO CAN AWARD A FORFEIT. TEXT US
+- FORFEIT is 10 mins after start of round. Tab Chairs are THE ONLY ONES WHO CAN
+  AWARD A FORFEIT. TEXT US AT [{{pf_phone}}](sms).
 
 ## Schedule
+
+| Round        | Pairings Released | In Room Time | Start Time |
+| ------------ | ----------------- | ------------ | ---------- |
+| **Saturday** |                   |              |            |
+| Round 1      | 7:00 AM           | 7:20 AM      | 7:30 AM    |
+| Round 2      | 9:00 AM           | 9:20 AM      | 9:30 AM    |
+| Round 3      | 12:00 PM          | 12:20 PM     | 12:30 PM   |
+| Round 4      | 2:30 PM           | 2:50 PM      | 3:00 PM    |
+| Round 5      | 5:00 PM           | 5:20 PM      | 5:30 PM    |
+| Play-In      | 7:00 AM           | 7:20 AM      | 7:30 AM    |
+| D-Octs       | 9:00 AM           | 9:20 AM      | 9:30 AM    |
+| Octs         | 11:00 AM          | 11:20 AM     | 11:30 AM   |
+| Quart        | 1:00 PM           | 1:20 PM      | 1:30 PM    |
+| Semis        | 2:30 PM           | 2:50 PM      | 3:00 PM    |
+| Finals       | 4:00 PM           | 4:20 PM      | 4:30 PM    |
 
 ## Judge Notes and Expectations
 
 ### Before Rounds
 
 - Move quickly to rounds – strive to be sitting down in round 10 minutes before round start time!
-- If not scheduled - please wait in the judges’ lounge until “released.”  ONLY THE ASSIGNED JUDGE MAY JUDGE THE DEBATE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.
+- If not scheduled - please wait in the judges’ lounge until “released.” ONLY THE ASSIGNED JUDGE MAY JUDGE THE DEBATE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.
 - If you are not scheduled and not used as replacement, do NOT observe other rounds
 
 ### During Rounds
 
-- DO NOT MIX FLIGHTS!!!  If you need to start B flight first, fine, but be sure NOT to switch competitors.  Confirm the teams and sides both before and after the round.
+- DO NOT MIX FLIGHTS!!! If you need to start B flight first, fine, but be sure NOT to switch competitors. Confirm the teams and sides both before and after the round.
+- For round 5:
+  - Because the Coin Flip is pre-set to occur a specific time in each
+    Flight we cannot start B-flight early in Round 5.
+  - Students: A-Flight should go to the floor immediately once Round 5 is
+    posted!
 
 ### After Rounds
 
-- Enter the winner and points on the ballot and Confirm the Ballot (unconfirmed ballots are not complete).  
-- Do NOT disclose the decision.  Do this for the first flight before the second flight begins.
+- Enter the winner and points on the ballot and Confirm the Ballot (unconfirmed ballots are not complete).
+- Do NOT disclose the decision. Do this for the first flight before the second flight begins.
 - RFDs should be given but kept short. There is no need to write an elaborately long ballot.
 
 ### Rules Violations

@@ -1,14 +1,14 @@
 ---
 title: 2023 NCFL Policy Debate Live Doc
 mustache:
-    - vars.yaml
+  - vars.yaml
 ---
 
 # 2023 NCFL Policy Debate Live Doc
 
-**Policy Judge Lounge**: (Location TBD)
+**Policy Judge Lounge**: Mariott Ballroom 5
 
-**Policy Tab Room**: U of L, Belknap Academic 218
+**Policy Tab Room**:  Mariott - Rose Room
 
 **Policy Tab Room Support** (text only): [{{cx_phone}}](sms) or email [{{cx_email}}](email)
 
@@ -19,7 +19,7 @@ mustache:
 
 ## Announcements / Updates
 
-Nothing yet.  Check back here during the tournament for important information.
+Nothing yet. Check back here during the tournament for important information.
 
 ## Wireless Information
 
@@ -27,7 +27,7 @@ Nothing yet.  Check back here during the tournament for important information.
 
 ### How It Works
 
-- Once Pairings are posted, judges should immediately access your ballot by hitting the “I’M ON THE WAY” button
+- Once Pairings are posted, judges should immediately access your ballot by hitting the “{{button}}” button
 - Everyone (competitors and judges) should be in competition rooms no later than 10 minutes before the round is scheduled to start. Contact tab if anyone is missing at start time
 - Evidence Sharing: the Affirmative/Pro team should create a Room on <https://speechdrop.net/> for evidence sharing during the round.
 - The Room Code should be: the Round Number + P + Your Assigned Room Number (e.g., Round 1 in Policy in Room 12 = “1P12”)
@@ -35,11 +35,26 @@ Nothing yet.  Check back here during the tournament for important information.
 ### Judges
 
 - There are three (3) judges per round (5 in Semis and Finals). Please wait for all judges before the round begins.
-- If you are assigned a round: push “I’M ON THE WAY” to acknowledge the ballot as soon as you receive the ballot.
+- If you are assigned a round: push “{{button}}” to acknowledge the ballot as soon as you receive the ballot.
 - If you are not assigned a round: report to the event judge lounge (Saturday: 146-ABC in the Convention Center; Sunday: Shaw room at the Marriott Marquis) and wait until the TAB Room has released you. You will be released when all rounds have started. We may need to ask you to substitute for a missing judge, so it is critical that you report to and remain in the judge lounge if you are not scheduled for a round.
 - You can be fined for not reporting to your room on time. If the TAB Room has to substitute a new/different judge for your assigned round, you will be fined.
 
 ## Schedule
+
+| Round         | Pairings Released | In Room Time | Start Time |
+| ------------- | ----------------- | ------------ | ---------- |
+| **Saturday**  |                   |              |            |
+| Round 1       | 7:00 AM           | 7:20 AM      | 7:30 AM    |
+| Round 2       | 9:00 AM           | 9:20 AM      | 9:30 AM    |
+| Round 3       | 12:30 PM          | 12:50 PM     | 1:00 PM    |
+| Round 4       | 2:45 PM           | 3:05 PM      | 3:15 PM    |
+| Round 5       | 5:55 PM           | 5:35 PM      | 5:45 PM    |
+| **Sunday**    |                   |              |            |
+| Policy D-Octs | 7:00 AM           | 7:20 AM      | 7:30 AM    |
+| Policy Octs   | 9:30 AM           | 9:50 AM      | 10:00 AM   |
+| Policy Quart  | 12:00 PM          | 12:20 PM     | 12:30 PM   |
+| Policy Semi   | 2:30 PM           | 2:50 PM      | 3:00 PM    |
+| Policy Finals | 4:45 PM           | 5:05 PM      | 5:15 PM    |
 
 ## Judge Notes and Expectations
 
@@ -48,10 +63,10 @@ Judges who are not assigned a round are on standby and must be in the judges lou
 ### Before Rounds
 
 - If you received a blast message for your round assignment:
-  - PLEASE CLICK “I’M ON THE WAY” TO ACKNOWLEDGE YOU HAVE RECEIVED THE BALLOT. Tab staff will check all rooms, so do not wait until starting to click start.
+  - PLEASE CLICK “{{button}}” TO ACKNOWLEDGE YOU HAVE RECEIVED THE BALLOT. Tab staff will check all rooms, so do not wait until starting to click start.
   - ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.
 - Once you are in your room:
-    - If debaters are missing at In Room Time, text or email tab or tell a member of tab staff
+  - If debaters are missing at In Room Time, text or email tab or tell a member of tab staff
   - Do not start without three adults looking at ballots that all say the same sides that the debaters think they are on!
 - If you did NOT receive a blast message for your round assignment:
   - Double-check the pairings to be sure you are unassigned!
