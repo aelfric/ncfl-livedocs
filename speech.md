@@ -14,12 +14,12 @@ mustache:
 
 **Speech Tab Room**: U of L, Belknap Academic 218
 
-**Speech Tab Room Support** (text only): {{speech_phone}} or email: {{speech_email}}
+**Speech Tab Room Support** (text only): [{{speech_phone}}](sms) or email: [{{speech_email}}](email)
 
 **Equity Advocates**
 
-- You can text [(919) 964-0018](sms:+19199640018) and ask to speak to an Equity Advocate.
-- You can also [email](ncflequityadvocates@gmail.com) and ask to speak to an Equity Advocate.
+- You can text [{{equity_phone}}](sms) and ask to speak to an Equity Advocate.
+- You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
 
 ## Announcements / Updates
 

@@ -16,8 +16,8 @@ mustache:
 
 **Equity Advocates**
 
-- You can text [(919) 964-0018](sms:+19199640018) and ask to speak to an Equity Advocate.
-- You can also [email](ncflequityadvocates@gmail.com) and ask to speak to an Equity Advocate.
+- You can text [{{equity_phone}}](sms) and ask to speak to an Equity Advocate.
+- You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
 
 ## Announcements / Updates
 
