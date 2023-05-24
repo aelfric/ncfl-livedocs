@@ -1,12 +1,25 @@
 ---
 title: 2023 NCFL Policy Debate Live Doc
+mustache:
+    - vars.yaml
 ---
 
 # 2023 NCFL Policy Debate Live Doc
 
-## Contact Information
+**Policy Judge Lounge**: (Location TBD)
+
+**Policy Tab Room**: U of L, Belknap Academic 218
+
+**Policy Tab Room Support** (text only): {{cx_phone}} or email {{cx_email}}
+
+**Equity Advocates**
+
+- You can text [(919) 964-0018](sms:+19199640018) and ask to speak to an Equity Advocate.
+- You can also [email](ncflequityadvocates@gmail.com) and ask to speak to an Equity Advocate.
 
 ## Announcements / Updates
+
+Nothing yet.  Check back here during the tournament for important information.
 
 ## Wireless Information
 
@@ -38,7 +51,7 @@ Judges who are not assigned a round are on standby and must be in the judges lou
   - PLEASE CLICK “I’M ON THE WAY” TO ACKNOWLEDGE YOU HAVE RECEIVED THE BALLOT. Tab staff will check all rooms, so do not wait until starting to click start.
   - ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.
 - Once you are in your room:
-    -If debaters are missing at In Room Time, text or email tab or tell a member of tab staff
+    - If debaters are missing at In Room Time, text or email tab or tell a member of tab staff
   - Do not start without three adults looking at ballots that all say the same sides that the debaters think they are on!
 - If you did NOT receive a blast message for your round assignment:
   - Double-check the pairings to be sure you are unassigned!

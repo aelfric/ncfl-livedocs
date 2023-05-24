@@ -14,10 +14,7 @@ mustache:
 
 **Speech Tab Room**: U of L, Belknap Academic 218
 
-**Speech Tab Room Support** for questions specific to Speech Events, Rules, and Competitors (text only): {{speech_phone}}
-
-**General Tournament Help** If you are having trouble connecting to Tabroom.com or have any other General Tournament questions or issues - please use the Help Text
-[ncflhelpdesk@gmail.com](mailto:ncflhelpdesk@gmail.com)
+**Speech Tab Room Support** (text only): {{speech_phone}} or email: {{speech_email}}
 
 **Equity Advocates**
 

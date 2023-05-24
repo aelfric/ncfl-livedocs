@@ -1,12 +1,27 @@
 ---
 title: 2023 NCFL Lincoln-Douglas Debate Live Doc
+mustache:
+    - vars.yaml
 ---
 
 # 2023 NCFL Lincoln-Douglas Debate Live Doc
 
 ## Contact Information
 
+**LD Judge Lounge**: (Location TBD)
+
+**LD Tab Room**: U of L, Belknap Academic 218
+
+**LD Tab Room Support** (text only): {{ld_phone}} or email {{ld_email}}
+
+**Equity Advocates**
+
+- You can text [(919) 964-0018](sms:+19199640018) and ask to speak to an Equity Advocate.
+- You can also [email](ncflequityadvocates@gmail.com) and ask to speak to an Equity Advocate.
+
 ## Announcements / Updates
+
+Nothing yet.  Check back here during the tournament for important information.
 
 ## Wireless Information
 
@@ -30,10 +45,10 @@ title: 2023 NCFL Lincoln-Douglas Debate Live Doc
 
 ### How It Works
 
-- Judges = once Pairings are posted, as soon as possible: (1) get to your room; and (2) access your ballot by hitting the “ON MY WAY” button (formerly known as “Start”) on the A-flight ballot immediately.
-  - If you end up running the B-flight first - that’s ok. You can click ON MY WAY on the B-flight ballot and Tabroom can unstart A-flight for you. You can then click ON MY WAY on the A-flight ballot once you run that flight.
-  - We want judges to press the ON MY WAY (formerly known as the "Start Button") on the A-flight ballot as soon as possible so we know you are here and we do not need to find a substitute!
-- Judges = to be very clear: do not wait for the beginning of the A-flight debate to press the ON MY WAY (formerly known as the "Start Button") . Press ON MY WAY on the A-flight ballot the moment you are on your way.
+- Judges = once Pairings are posted, as soon as possible: (1) get to your room; and (2) access your ballot by hitting the “{{button}}” button (formerly known as “Start”) on the A-flight ballot immediately.
+  - If you end up running the B-flight first - that’s ok. You can click {{button}} on the B-flight ballot and Tabroom can unstart A-flight for you. You can then click {{button}} on the A-flight ballot once you run that flight.
+  - We want judges to press the {{button}} (formerly known as the "Start Button") on the A-flight ballot as soon as possible so we know you are here and we do not need to find a substitute!
+- Judges = to be very clear: do not wait for the beginning of the A-flight debate to press the {{button}} (formerly known as the "Start Button") . Press {{button}} on the A-flight ballot the moment you are on your way.
   Reminder: competitors will forfeit their Round if they are not in the competition room 10 mins after the Round is posted to start.
 - Judges - if you need a forfeit declared - Contact Tab!! You cannot declare the forfeit. Only the Tab Chair can declare a forfeit.
 
@@ -54,7 +69,7 @@ title: 2023 NCFL Lincoln-Douglas Debate Live Doc
 - For Lincoln-Douglas - there are three (3) judges per round (5 in Semis and Finals).
   - Please wait for all judges before the round begins.
 - We are very tight on judges - so please plan to judge all 5 rounds (10 flights) on Saturday.
-- If you are assigned a round: push “ON MY WAY” to acknowledge the ballot as soon as you are in the room and able. If it is a double flighted round, press the ON MY WAY (formerly known as the "Start Button") for the A flight ballot.
+- If you are assigned a round: push “{{button}}” to acknowledge the ballot as soon as you are in the room and able. If it is a double flighted round, press the {{button}} (formerly known as the "Start Button") for the A flight ballot.
 - If you are not assigned a round: report to the Judge Lounge and wait until you have been released by the TAB Room Staff. You will be released when all rounds have started.
 - We may need to ask you to substitute for a missing judge, so it is critical that you report to and remain in the Judge Lounge if you are not scheduled for a round.
 - **You can be fined for not reporting to your room on time**. If the TAB Room has to substitute a new/different judge for your assigned round, you will be fined.
@@ -73,7 +88,7 @@ Note: if you are on standby for consecutive preliminary rounds, there might be a
 
 ### Before Each Round
 
-- Once you receive your round assignment, click “ON MY WAY” on your A-Flight ballot.
+- Once you receive your round assignment, click “{{button}}” on your A-Flight ballot.
 - Please report to the room ASAP and no later than ten minutes prior to the scheduled start time if possible.
 
 ### Prep Time

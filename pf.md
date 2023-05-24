@@ -1,12 +1,28 @@
 ---
 title: 2023 NCFL Public Forum Debate Live Doc
+mustache:
+  - vars.yaml
 ---
 
 # 2023 NCFL Public Forum Debate Live Doc
 
 ## Contact Information
 
+
+**PF Judge Lounge**: (Location TBD)
+
+**PF Tab Room**: (Location TBD)
+
+**PF Tab Room Support** (text only): {{pf_phone}} or email {{pf_email}}
+
+**Equity Advocates**
+
+- You can text [(919) 964-0018](sms:+19199640018) and ask to speak to an Equity Advocate.
+- You can also [email](ncflequityadvocates@gmail.com) and ask to speak to an Equity Advocate.
+
 ## Announcements / Updates
+
+Nothing yet.  Check back here during the tournament for important information.
 
 ## Wireless Information
 
