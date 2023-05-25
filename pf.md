@@ -25,12 +25,21 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Wireless Information
 
+### Trinity High School
+The student network is open.  No extra steps or passwords are required to 
+connect.
+
+### Galt House
+There is no splash page and no password required for the Wi-Fi. Attendees will
+simply go to their device Wi-Fi settings and select either GH-GUEST or
+GH-CONFERENCE and they will automatically connect.
+
 ## Round Procedures
 
 - Pairings for all rounds are on Tabroom.com and will be pushed ~30 minutes
   before the start of the round via judge/competitor notifications. Students
   must connect their accounts on Tabroom to get notifications or simply look at
-  pairings online. All rounds are double flighted.
+  pairings online. All prelim rounds are double flighted.
 - All 4 debaters should report to the room. If flight B is there and ready and
   flight A is not, the B flight may debate first. Do NOT mix flights.
 - There are 3 judges in every round + 2 teams. Please wait for all three judges
@@ -41,12 +50,13 @@ Nothing yet. Check back here during the tournament for important information.
 
 | Round        | Pairings Released | In Room Time | Start Time |
 | ------------ | ----------------- | ------------ | ---------- |
-| **Saturday** |                   |              |            |
+| **Saturday**             |
 | Round 1      | 7:00 AM           | 7:20 AM      | 7:30 AM    |
 | Round 2      | 9:00 AM           | 9:20 AM      | 9:30 AM    |
 | Round 3      | 12:00 PM          | 12:20 PM     | 12:30 PM   |
 | Round 4      | 2:30 PM           | 2:50 PM      | 3:00 PM    |
 | Round 5      | 5:00 PM           | 5:20 PM      | 5:30 PM    |
+| **Sunday**               |
 | Play-In      | 7:00 AM           | 7:20 AM      | 7:30 AM    |
 | D-Octs       | 9:00 AM           | 9:20 AM      | 9:30 AM    |
 | Octs         | 11:00 AM          | 11:20 AM     | 11:30 AM   |
@@ -58,8 +68,11 @@ Nothing yet. Check back here during the tournament for important information.
 
 ### Before Rounds
 
-- Move quickly to rounds – strive to be sitting down in round 10 minutes before round start time!
-- If not scheduled - please wait in the judges’ lounge until “released.” ONLY THE ASSIGNED JUDGE MAY JUDGE THE DEBATE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.
+- Move quickly to rounds – strive to be sitting down in round 10 minutes before
+  round start time!
+- If not scheduled - please wait in the judges’ lounge until “released.” ONLY
+  THE ASSIGNED JUDGES MAY JUDGE THE DEBATE. YOU MAY NOT (NEVER EVER) ALLOW
+  SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.
 - If you are not scheduled and not used as replacement, do NOT observe other rounds
 
 ### During Rounds
@@ -95,7 +108,10 @@ Remember that the decision timer is only for **points and the winner**. If you f
 
 ### Coin Flips
 
-**Please note** in NCFL, there is NO coin flip for sides or for speaker order. There is only a coin flip for sides in Round 5 and in any elims when teams have not met before. Pro always goes first.
+**Please note** in NCFL, there is NO coin flip for sides or for speaker order.
+There is only a coin flip for sides in Round 5 and in any elims when teams have
+not met before. The coin flip is managed automatically in tabroom.com. Pro 
+always goes first.
 
 ### Structure of a Round
 
@@ -123,14 +139,14 @@ Speaker points are used to give a holistic measurement of the effectiveness of t
 
 | Points    | Meaning                                                                                  |
 | --------- | ---------------------------------------------------------------------------------------- |
-| 29.5‑30   | I wish I could frame your speeches; your strategic decision-making belongs in a textbook |
-| 29.1‑29.4 | you were consistently excellent                                                          |
-| 28.8‑29.0 | you were effective and strategic, and made only minor mistakes                           |
-| 28.3‑28.7 | you hit all the right notes, but could improve (e.g. depth or efficiency)                |
-| 27.8‑28.2 | you mainly did the right thing, but left something to be desired                         |
-| 27.3‑27.7 | you missed major things and were hard to follow                                          |
-| 27.0‑27.2 | you advanced little in the debate or cost your team the round                            |
-| 26.0‑26.9 | you are not ready for this division/tournament                                           |
+| 29.5&#8209;30   | I wish I could frame your speeches; your strategic decision-making belongs in a textbook |
+| 29.1&#8209;29.4 | you were consistently excellent                                                          |
+| 28.8&#8209;29.0 | you were effective and strategic, and made only minor mistakes                           |
+| 28.3&#8209;28.7 | you hit all the right notes, but could improve (e.g. depth or efficiency)                |
+| 27.8&#8209;28.2 | you mainly did the right thing, but left something to be desired                         |
+| 27.3&#8209;27.7 | you missed major things and were hard to follow                                          |
+| 27.0&#8209;27.2 | you advanced little in the debate or cost your team the round                            |
+| 26.0&#8209;26.9 | you are not ready for this division/tournament                                           |
 | Below 26  | you were offensive, ignorant, rude, or tried to cheat (Judge MUST come to tab)           |
 
 ```{include="equity.md"}

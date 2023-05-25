@@ -25,6 +25,15 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Wireless Information
 
+### Assumption
+There is an open WI-FI network called NCFL - no password is needed.
+
+### Galt House
+There is no splash page and no password required for the Wi-Fi. Attendees will
+simply go to their device Wi-Fi settings and select either GH-GUEST or
+GH-CONFERENCE and they will automatically connect.
+
+
 ## Round Procedures
 
 ### Important Notes
@@ -68,7 +77,7 @@ Nothing yet. Check back here during the tournament for important information.
   {{button}} on the A-flight ballot the moment you are on your way.
   Reminder: competitors will forfeit their Round if they are not in the
   competition room 10 mins after the Round is posted to start.
-- Judges - if you need a forfeit declared - Contact Tab!! You cannot declare
+- Judges - if you need a forfeit declared - Contact Tab at [{{ld_phone}}](sms)!! You cannot declare
   the forfeit. Only the Tab Chair can declare a forfeit.
 
 - Evidence Sharing: If you want to share evidence online, the Affirmative team

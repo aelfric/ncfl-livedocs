@@ -23,6 +23,14 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Wireless Information
 
+### Marriott
+**Network Name**: <!--TODO -->
+**Password**: ncfl2023
+
+### Omni
+**Network Name**: <!--TODO-->
+**Password**: ncfl2023
+
 ## Round Procedures
 
 ### How It Works

@@ -4,3 +4,4 @@ include.o
 toc.html
 .vscode/tasks.json
 *.html
+output/

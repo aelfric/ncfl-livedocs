@@ -27,6 +27,27 @@ Nothing yet.  Check back here during the tournament for important information.
 
 ## Wireless Information
 
+### University of Louisville 
+With the ulvisitor network, you can use the university's wireless network to
+access the Internet while on-campus.
+
+To use the ulvisitor service on campus:
+1.     Select the SSID ulvisitor from your device's list of available wireless
+       networks.
+2.     Open a browser and load any URL; you will be redirected to an access
+       page (on some mobile devices, the access page should open
+       automatically).
+3.     Click Accept to acknowledge the terms of use. Your browser will be sent
+       to a confirmation page and from there you can get online.
+
+### Mariott
+**Network**: <!--TODO-->
+**Password**: ncfl23
+
+### Hyatt
+**Network**: Hyatt-Meetings
+**Password**: ncfl23
+
 ## Round Procedures
 
 ### Competitors
@@ -44,7 +65,9 @@ Nothing yet.  Check back here during the tournament for important information.
   other cell phone activities during the round. Be sure to applaud every
   speaker in the room.
 
-### Before Each Round
+### Judges 
+
+#### Before Each Round
 
 - Once you receive a round assignment and are at your room, click “{{button}}”
   on your ballot. _To be very clear: do not wait for the beginning of the round
@@ -54,7 +77,7 @@ Nothing yet.  Check back here during the tournament for important information.
 - You do not need every student present in order to start the round. If you are
   missing students or judges in your room 10 mins after the posted start time -
   please contact us!
-  - TEXT ONLY TO {{speech_phone}}. Include in your Text:
+  - TEXT ONLY TO [{{speech_phone}}](sms). Include in your Text:
     - The Room No. you are in AND
     - Your Issue -
     - If missing a competitor - type in Missing + Competitor Code
@@ -64,8 +87,11 @@ Nothing yet.  Check back here during the tournament for important information.
 - Observers are allowed in Saturday rounds ONLY with the permission of ALL
   Competitors & Judges in the Room. Anyone can say NO without penalty or
   prejudice. 
+- Observers are allowed in Sunday rounds without any special permission subject
+  to the room's capacity.  All observers must be seated. If you are still
+  competing you CANNOT observe rounds in your event until you are eliminated
 
-### During Rounds
+#### During Rounds
 
 - Take notes DURING the performance. You can type, the students are used to it!
   Do not wait until after each student to write your comments. Keep time.
@@ -91,7 +117,7 @@ Nothing yet.  Check back here during the tournament for important information.
   sitting in the room with the others. Again, there should be no penalty or
   comments made with respect to their choice.
 
-### After Rounds
+#### After Rounds
 
 - Enter your ranks as soon as the round is over.
 - Confirm your decision in Tabroom.com. Remember, the order of speakers will
@@ -145,7 +171,7 @@ See the Webinar recorded on Monday: <https://youtu.be/_uqJ0Pc_gBQ>
 
 ### Rule Violations & Protest Procedures
 
-Please consult the TAB Room ({{speech_phone}}) before deciding that something
+Please consult the TAB Room ([{{speech_phone}}](sms)) before deciding that something
 in the round warrants a reduction in rank. Beyond going over the grace period
 on time, do not penalize a student for a rule infraction until you have
 discussed the matter with TAB. If you think a speaker should be disqualified,
@@ -155,11 +181,9 @@ own.
 #### Protest Procedures
 
 If someone has a question regarding a protest, they can either contact the
-Speech Tab Room directly, through the text line at {{speech_phone}}, or contact
-the Tournament Help Desk at:
+Speech Tab Room directly, through the text line at [{{speech_phone}}](sms) or 
+[{{speech_email}}](email).
 
-- Email the help desk at <ncflhelpdesk@gmail.com>
-- Text the help desk at 413-367-6235
 - Per NCFL bylaws, only a coach or a judge may submit a protest.
 - If a protest is warranted, a member of the Protest team will speak with that
   person to determine if it is a judge’s preference issue or a true protest.
@@ -336,3 +360,5 @@ the Tournament Help Desk at:
 ## Locations and Maps
 
 See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html)
+
+**Note**: SAC = Student Activities Center.
