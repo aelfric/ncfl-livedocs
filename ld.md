@@ -4,8 +4,6 @@ mustache:
   - vars.yaml
 ---
 
-# 2023 NCFL Lincoln-Douglas Debate Live Doc
-
 ## Contact Information
 
 **LD Judge Lounge**: Assumption High School - Faculty Lounge
@@ -43,15 +41,15 @@ GH-CONFERENCE and they will automatically connect.
     - Judges: if you do NOT have both A-flight debaters, but you do have
       both B-flight debaters, you can let the B-flight debaters go first
     - However: DO NOT MIX AND MATCH
-      - A-flight debaters MUST debate each other
-      - B-flight debaters MUST debate each other
+      - Flight 1 debaters MUST debate each other
+      - Flight 2 debaters MUST debate each other
     - Judges: ONCE the first flight is done - move immediately to the next flight
   - For round 5:
     - Because the Coin Flip is pre-set to occur a specific time in each
-      Flight we cannot start B-flight early in Round 5.
-    - Students: A-Flight should go to the floor immediately once Round 5 is
+      Flight we cannot start Flight 2 early in Round 5.
+    - Students: Flight 1 should go to the floor immediately once Round 5 is
       posted!
-  - All kids should go to the floor (A-flight + B-flight) prior to Round Start
+  - All kids should go to the floor (Flight 1 + Flight 2) prior to Round Start
     and those not debating go back to the Student Lounge once the Round Starts
 - Judges: Do NOT disclose your decision or provide oral critique - the decision
   and all comments go on the ballot.
@@ -64,26 +62,29 @@ GH-CONFERENCE and they will automatically connect.
 
 - Judges: once Pairings are posted, as soon as possible: (1) get to your room;
   and (2) access your ballot by hitting the “{{button}}” button (formerly known
-  as “Start”) on the A-flight ballot immediately.
-  - If you end up running the B-flight first - that’s ok. You can click
-    {{button}} on the B-flight ballot and Tabroom can unstart A-flight for you.
-    You can then click {{button}} on the A-flight ballot once you run that
+  as “Start”) on the Flight 1 ballot immediately.
+  - If you end up running the Flight 2 first - that’s ok. You can click
+    {{button}} on the Flight 2 ballot and Tabroom can unstart Flight 1 for you.
+    You can then click {{button}} on the Flight 1 ballot once you run that
     flight.
   - We want judges to press the {{button}} (formerly known as the "Start
-    Button") on the A-flight ballot as soon as possible so we know you are here
+    Button") on the Flight 1 ballot as soon as possible so we know you are here
     and we do not need to find a substitute!
-- Judges: to be very clear: do not wait for the beginning of the A-flight
+- Judges: to be very clear: do not wait for the beginning of the Flight 1
   debate to press the {{button}} (formerly known as the "Start Button") . Press
-  {{button}} on the A-flight ballot the moment you are on your way.
+  {{button}} on the Flight 1 ballot the moment you are on your way.
   Reminder: competitors will forfeit their Round if they are not in the
   competition room 10 mins after the Round is posted to start.
 - Judges - if you need a forfeit declared - Contact Tab at [{{ld_phone}}](sms)!! You cannot declare
   the forfeit. Only the Tab Chair can declare a forfeit.
 
-- Evidence Sharing: If you want to share evidence online, the Affirmative team
-  should create a Room on <https://speechdrop.net/> as soon as they enter the
-  room and share the SpeechDrop Room Number with everyone in the round
-  The Room Code should be: the Round Number + Your Event + Your Assigned Room Number (e.g., Round 1 in LD in Room 12: “1LD12”).
+- Evidence Sharing: Students should be prepared to share, electronically or by
+  paper, any evidence they read in the round with their opponent and the judge.
+  If you want to share evidence online, the Affirmative team should create a
+  Room on <https://speechdrop.net/> as soon as they enter the room and share
+  the SpeechDrop Room Number with everyone in the round The Room Code should
+  be: the Round Number + Your Event + Your Assigned Room Number (e.g., Round 1
+  in LD in Room 12: “1LD12”).
 
 - Audio and video recordings of the rounds are prohibited. NO ONE (neither competitors nor judges) may record rounds.
 
@@ -103,7 +104,7 @@ GH-CONFERENCE and they will automatically connect.
 - We are very tight on judges - so please plan to judge all 5 rounds (10 flights) on Saturday.
 - If you are assigned a round: push “{{button}}” to acknowledge the ballot as
   soon as you are in the room and able. If it is a double flighted round, press
-  the {{button}} (formerly known as the "Start Button") for the A flight
+  the {{button}} (formerly known as the "Start Button") for the Flight 1
   ballot.
 - If you are not assigned a round: report to the Judge Lounge and wait until
   you have been released by the TAB Room Staff. You will be released when all
@@ -147,7 +148,7 @@ given how tight we are on judges.
 
 ### Before Each Round
 
-- Once you receive your round assignment, click “{{button}}” on your A-Flight ballot.
+- Once you receive your round assignment, click “{{button}}” on your Flight 1 ballot.
 - Please report to the room ASAP and no later than ten minutes prior to the scheduled start time if possible.
 
 ### Prep Time
@@ -182,7 +183,7 @@ given how tight we are on judges.
   - There are NO low point wins
 - Confirm your decision in Tabroom.com.
 - Write the winning SCHOOL and SIDE in your RFD on the Ballot. This helps the Tabroom ensure your decision is recorded correctly.
-- Please stay in your room until your decision is submitted.
+- You must stay in your room until your decision is submitted.
 - Help debaters and coaches by explaining on the Ballot the argument that caused you to vote the way you did (remember, **NO oral critique & NO disclosure**)
 - Please provide a reason for your decision on the Ballot so the debaters can improve their arguments and debate skills in the future!
 - If you need, you can complete comments later:
@@ -242,7 +243,7 @@ the flip may choose the side on which they want to compete.
 
 In Lincoln-Douglas the affirmative will always speak first.
 
-NSDA Campus/Tabroom.com **will** manage the coin flip. Five minutes after a
+Tabroom.com **will** manage the coin flip. Five minutes after a
 pairing is released, the teams will be notified who won the flip, enabling that
 team to make their selection. **Debaters must check their email for the
 Tabroom.com link!** If they miss their chance, the other team will be given the
@@ -301,14 +302,14 @@ prep time or while another speech/crossfire is underway.
 
 In Lincoln-Douglas the quality of evidence may be a part of the debate. Below are some ways you could consider evidence issues:
 
-1. Per the Bylaws, Judges MUST read complete citations ONLY if requested by the
+1. Per the Bylaws, Debaters MUST read complete citations ONLY if requested by the
    opponent.
 1. If a debater/team claims evidence is of low quality, from a disreputable
    source, uses a flawed methodology, etc. - you could decide this issue in the
    course of the debate based on the arguments made by the teams. You can also
    read the evidence if you would like.
 1. If a debater/team cannot produce evidence they read when requested by their
-   opponent- you could disregard the evidence in your decision if you like.
+   opponent - you should disregard the evidence in your decision.
 1. If a debater/team alleges that their opponent’s evidence is fabricated - you
    can request to review the evidence and decide how it impacts your decision.
 

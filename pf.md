@@ -4,8 +4,6 @@ mustache:
   - vars.yaml
 ---
 
-# 2023 NCFL Public Forum Debate Live Doc
-
 ## Contact Information
 
 **PF Judge Lounge**: Trinity High School - Convocation Hall (2nd Floor of Communication Arts Building) 
@@ -40,8 +38,8 @@ GH-CONFERENCE and they will automatically connect.
   before the start of the round via judge/competitor notifications. Students
   must connect their accounts on Tabroom to get notifications or simply look at
   pairings online. All prelim rounds are double flighted.
-- All 4 debaters should report to the room. If flight B is there and ready and
-  flight A is not, the B flight may debate first. Do NOT mix flights.
+- All 4 debaters should report to the room. If Flight 2 is there and ready and
+  Flight 1 is not, the Flight 2 may debate first. Do NOT mix flights.
 - There are 3 judges in every round + 2 teams. Please wait for all three judges
 - FORFEIT is 10 mins after start of round. Tab Chairs are THE ONLY ONES WHO CAN
   AWARD A FORFEIT. TEXT US AT [{{pf_phone}}](sms).
@@ -77,11 +75,11 @@ GH-CONFERENCE and they will automatically connect.
 
 ### During Rounds
 
-- DO NOT MIX FLIGHTS!!! If you need to start B flight first, fine, but be sure NOT to switch competitors. Confirm the teams and sides both before and after the round.
+- DO NOT MIX FLIGHTS!!! If you need to start Flight 2 first, fine, but be sure NOT to switch competitors. Confirm the teams and sides both before and after the round.
 - For round 5:
   - Because the Coin Flip is pre-set to occur a specific time in each
-    Flight we cannot start B-flight early in Round 5.
-  - Students: A-Flight should go to the floor immediately once Round 5 is
+    Flight we cannot start Flight 2 early in Round 5.
+  - Students: Flight 1 should go to the floor immediately once Round 5 is
     posted!
 
 ### After Rounds
@@ -94,15 +92,39 @@ GH-CONFERENCE and they will automatically connect.
 
 ### Decision Timer
 
-Judges have **55 minutes** for each flight from the ROUND START TIME (not when you click start, not when you really start, but the scheduled start time) to submit their decisions for each flight. This countdown is visible on the ballot. This rule exists a) to keep us on schedule, b) to encourage debaters to minimize wasted time within rounds, and c) to prevent judges from overanalyzing every piece of evidence in a round.
+Judges have **55 minutes** for each flight from the ROUND START TIME (not when
+you click start, not when you really start, but the scheduled start time) to
+submit their decisions for each flight. This countdown is visible on the
+ballot. This rule exists a) to keep us on schedule, b) to encourage debaters to
+minimize wasted time within rounds, and c) to prevent judges from overanalyzing
+every piece of evidence in a round.
 
-This should create an incentive for all participants to start on time (or early!), move swiftly through the round, and quickly notify tab of any tech issues or missing persons. It may NOT be used to justify cutting time from speeches, crossfires, prep, or tech time.
+This should create an incentive for all participants to start on time (or
+early!), move swiftly through the round, and quickly notify tab of any tech
+issues or missing persons. It may NOT be used to justify cutting time from
+speeches, crossfires, prep, or tech time.
 
-Judges who have not voted by the decision deadline will be visited by a member of the tab staff, unless we are aware of the tech issues that caused a delay. The ballot does not disappear when the timer ends - even if you exceed the time allotted, finish the round and vote as normal!
+Judges who have not voted by the decision deadline will be visited by a member
+of the tab staff, unless we are aware of the tech issues that caused a delay.
+The ballot does not disappear when the timer ends - even if you exceed the time
+allotted, finish the round and vote as normal!
 
-Remember that the decision timer is only for **points and the winner**. If you find yourself approaching the end of the decision time, you can submit speaker points and a decision without comments and re-visit your ballot throughout the rest of the tournament to include your comments.
+Remember that the decision timer is only for **points and the winner**. If you
+find yourself approaching the end of the decision time, you can submit speaker
+points and a decision without comments and re-visit your ballot throughout the
+rest of the tournament to include your comments.
 
 ### Obligations
+
+- Judges are obligated for all preliminary rounds. Elimination round
+  obligations are set by the diocese and determined before the tournament. Tab
+  will not change assignments, except if you are volunteering for extra rounds!
+
+- Note that first year out judges cannot judge elimination debates under any
+  circumstances. If you are a 2021 high school graduate assigned to elimination
+  round pools, find a willing substitute from your diocese or your diocese will
+  be fined - and make this change with the Tabroom Staff on Saturday. For the 
+  purpose of this rule, the Play-In round counts as a prelim.
 
 ## Event Rules
 

@@ -4,8 +4,6 @@ mustache:
   - vars.yaml
 ---
 
-# 2023 NCFL Speech Events Live Doc
-
 ## Contact Information
 
 **Extemp Prep Room**: U of L, Student Activities Center Ballroom W215
