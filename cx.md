@@ -4,29 +4,42 @@ mustache:
   - vars.yaml
 ---
 
-**Policy Judge Lounge**: Marriott Ballroom 5
+## Contact Information
 
-**Policy Tab Room**:  Marriott - Rose Room
+**Policy Judge Standby Room**: 
+- Saturday: Marriott Ballroom 5
+- Sunday: Omni Olmstead 1
 
-**Policy Tab Room Support** (text only): [{{cx_phone}}](sms) or email [{{cx_email}}](email)
+**Policy Tab Room**:  
+- Saturday: Marriott - Rose Room
+- Sunday: Omni - Butchertown
+
+**Policy Tab Room Support** (text only): [{{cx_phone}}](#) or email [{{cx_email}}](email)
 
 **Equity Advocates**
 
-- You can text [{{equity_phone}}](sms) and ask to speak to an Equity Advocate.
+- You can text [{{equity_phone}}](#) and ask to speak to an Equity Advocate.
 - You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
 
 ## Announcements / Updates
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Wireless Information
+## Tournament Sites
 
-### Marriott
-**Network Name**: <!--TODO -->
+### Marriott (Saturday)
+**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/marriott_conference_space.pdf/>
+**Network Name**: Marriott Bonvoy_Conference
 **Password**: ncfl2023
 
-### Omni
-**Network Name**: <!--TODO-->
+### Hyatt (Saturday)
+**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/hyatt_conference_space.pdf/>
+**Network Name**: Hyatt-meetings
+**Password**: ncfl23
+
+### Omni (Sunday)
+**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/omni_conference_space.pdf/>
+**Network Name**: Omni Meeting
 **Password**: ncfl2023
 
 ## Round Procedures
@@ -264,6 +277,15 @@ Low-point wins (where the winning team has fewer points than the losing team) ar
 
 Policy Debate is a team event. Both partners must participate in each debate or
 they will forfeit the round.
+
+
+#### Judge Reminder
+
+Good judges make decisions only on what was debated by the contestants in the
+round. The judges should distance themselves from the content of the debate.
+Personal values of the judges should not influence the decision. 
+
+
 
 ```{include="equity.md"}
 

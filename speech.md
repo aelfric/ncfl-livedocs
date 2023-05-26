@@ -6,27 +6,35 @@ mustache:
 
 ## Contact Information
 
-**Extemp Prep Room**: U of L, Student Activities Center Ballroom W215
+**Extemp Prep Room**: 
+- Saturday: U of L, Student Activities Center Ballroom W215
+- Sunday: Hyatt - Keeneland
 
-**Speech Judge Lounge**: U of L, Student Activites Center W201
+**Speech Judge Standby Room**: 
+- Saturday: U of L, Student Activites Center W201
+- Sunday: Marriott - Kentucky E
 
-**Speech Tab Room**: U of L, Belknap Academic 218
+**Speech Tab Room**: 
+- Saturday: U of L, Belknap Academic 218
+- Sunday: Marriott - Skybox / Filley / Thoroghbred
 
-**Speech Tab Room Support** (text only): [{{speech_phone}}](sms) or email: [{{speech_email}}](email)
+**Speech Tab Room Support** (text only): [{{speech_phone}}](#) or email: [{{speech_email}}](email)
 
 **Equity Advocates**
 
-- You can text [{{equity_phone}}](sms) and ask to speak to an Equity Advocate.
+- You can text [{{equity_phone}}](#) and ask to speak to an Equity Advocate.
 - You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
 
 ## Announcements / Updates
 
 Nothing yet.  Check back here during the tournament for important information.
 
-## Wireless Information
+## Tournament Sites
 
-### University of Louisville 
-With the ulvisitor network, you can use the university's wireless network to
+### University of Louisville (Saturday)
+
+**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/2023_national_speech___debate_-_campus_map-05192023.pdf/>
+**Network**: With the ulvisitor network, you can use the university's wireless network to
 access the Internet while on-campus.
 
 To use the ulvisitor service on campus:
@@ -38,13 +46,20 @@ To use the ulvisitor service on campus:
 3.     Click Accept to acknowledge the terms of use. Your browser will be sent
        to a confirmation page and from there you can get online.
 
-### Mariott
-**Network**: <!--TODO-->
+### Mariott (Sunday)
+**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/marriott_conference_space.pdf/>
+**Network**: Marriott Bonvoy_Conference
 **Password**: ncfl23
 
-### Hyatt
+### Hyatt (Sunday)
+**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/hyatt_conference_space.pdf/>
 **Network**: Hyatt-Meetings
 **Password**: ncfl23
+
+### Omni (Sunday)
+**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/omni_conference_space.pdf/>
+**Network Name**: Omni Meeting
+**Password**: ncfl2023
 
 ## Round Procedures
 
@@ -75,7 +90,7 @@ To use the ulvisitor service on campus:
 - You do not need every student present in order to start the round. If you are
   missing students or judges in your room 10 mins after the posted start time -
   please contact us!
-  - TEXT ONLY TO [{{speech_phone}}](sms). Include in your Text:
+  - TEXT ONLY TO [{{speech_phone}}](#). Include in your Text:
     - The Room No. you are in AND
     - Your Issue -
     - If missing a competitor - type in Missing + Competitor Code
@@ -167,9 +182,16 @@ To use the ulvisitor service on campus:
 
 See the Webinar recorded on Monday: <https://youtu.be/_uqJ0Pc_gBQ>
 
+### Judge Reminder
+
+Good judges make decisions only on what was presented by the contestants in the
+round. The judges should distance themselves from the content of the
+presentation. Personal values of the judges should not influence the decision. 
+
+
 ### Rule Violations & Protest Procedures
 
-Please consult the TAB Room ([{{speech_phone}}](sms)) before deciding that something
+Please consult the TAB Room ([{{speech_phone}}](#)) before deciding that something
 in the round warrants a reduction in rank. Beyond going over the grace period
 on time, do not penalize a student for a rule infraction until you have
 discussed the matter with TAB. If you think a speaker should be disqualified,
@@ -179,7 +201,7 @@ own.
 #### Protest Procedures
 
 If someone has a question regarding a protest, they can either contact the
-Speech Tab Room directly, through the text line at [{{speech_phone}}](sms) or 
+Speech Tab Room directly, through the text line at [{{speech_phone}}](#) or 
 [{{speech_email}}](email).
 
 - Per NCFL bylaws, only a coach or a judge may submit a protest.

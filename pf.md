@@ -6,29 +6,35 @@ mustache:
 
 ## Contact Information
 
-**PF Judge Lounge**: Trinity High School - Convocation Hall (2nd Floor of Communication Arts Building) 
+**PF Judge Standby Room**: 
+- Saturday: Trinity High School - Convocation Hall (2nd Floor of Communication Arts Building) 
+- Sunday: Galt House - Grand Ballroom A
 
-**PF Tab Room**: Trinity High School - Welcome Center
+**PF Tab Room**: 
+- Saturday: Trinity High School - Welcome Center
+- Sunday: Galt House - Brown (2nd Floor)
 
-**PF Tab Room Support** (text only): [{{pf_phone}}](sms) or email [{{pf_email}}](email)
+**PF Tab Room Support** (text only): [{{pf_phone}}](#) or email [{{pf_email}}](email)
 
 **Equity Advocates**
 
-- You can text [{{equity_phone}}](sms) and ask to speak to an Equity Advocate.
+- You can text [{{equity_phone}}](#) and ask to speak to an Equity Advocate.
 - You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
 
 ## Announcements / Updates
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Wireless Information
+## Tournament Sites
 
-### Trinity High School
-The student network is open.  No extra steps or passwords are required to 
+### Trinity High School (Saturday)
+**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/complete_trinity_maps_-_cfl.pdf/>
+**Network**: The student network is open.  No extra steps or passwords are required to 
 connect.
 
-### Galt House
-There is no splash page and no password required for the Wi-Fi. Attendees will
+### Galt House (Sunday)
+**Map**: <https://www.cflnationals.org/uploads/7/3/2/8/7328308/galt_house_conference_space.pdf/>
+**Network**: There is no splash page and no password required for the Wi-Fi. Attendees will
 simply go to their device Wi-Fi settings and select either GH-GUEST or
 GH-CONFERENCE and they will automatically connect.
 
@@ -42,7 +48,7 @@ GH-CONFERENCE and they will automatically connect.
   Flight 1 is not, the Flight 2 may debate first. Do NOT mix flights.
 - There are 3 judges in every round + 2 teams. Please wait for all three judges
 - FORFEIT is 10 mins after start of round. Tab Chairs are THE ONLY ONES WHO CAN
-  AWARD A FORFEIT. TEXT US AT [{{pf_phone}}](sms).
+  AWARD A FORFEIT. TEXT US AT [{{pf_phone}}](#).
 
 ## Schedule
 
@@ -99,7 +105,7 @@ Please consult TAB before deciding that something in the round warrants
 punishment for violating the rules, excepting the evidence violation process
 described below.
 
-1. Per the Bylaws, Judges MUST read complete citations ONLY if requested by the
+1. Per the Bylaws, Debaters MUST read complete citations ONLY if requested by the
    opponent.
 1. If a debater/team claims evidence is of low quality, from a disreputable
    source, uses a flawed methodology, etc. - you could decide this issue in the
@@ -194,6 +200,13 @@ Speaker points are used to give a holistic measurement of the effectiveness of t
 | 27.0&#8209;27.2 | you advanced little in the debate or cost your team the round                            |
 | 26.0&#8209;26.9 | you are not ready for this division/tournament                                           |
 | Below 26  | you were offensive, ignorant, rude, or tried to cheat (Judge MUST come to tab)           |
+
+
+#### Judge Reminder
+
+Good judges make decisions only on what was debated by the contestants in the
+round. The judges should distance themselves from the content of the debate.
+Personal values of the judges should not influence the decision. 
 
 ```{include="equity.md"}
 

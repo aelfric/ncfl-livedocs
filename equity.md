@@ -98,6 +98,6 @@ refer to the Open Door Policy or contact an Equity Advocate.
 · You can contact an Equity Advocate directly by filling out this form: [NCFL
 Equity Concern Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSciqY_9YNl_Iw36jZxe8NuhCqxgPDdDOZ_Pd0xEJPtTIXO3Gw/viewform?usp=sf_link)
 
-· You can text (919) 964-0018 and ask to speak to an Equity Advocate.
+· You can text [[(919) 964-0018]](#) and ask to speak to an Equity Advocate.
 · You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to
 an Equity Advocate.

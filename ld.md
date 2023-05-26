@@ -6,30 +6,36 @@ mustache:
 
 ## Contact Information
 
-**LD Judge Lounge**: Assumption High School - Faculty Lounge
+**LD Judge Standby Room**: 
+- Saturday: Assumption High School - Faculty Lounge
+- Sunday: Galt House - Grand Ballroom C
 
-**LD Tab Room**:  Assumption High School - Media Center (Library)
+**LD Tab Room**:  
+- Saturday: Assumption High School - Media Center (Library)
+- Sunday: Galt House - Collins Room (2nd Floor)
 
-**LD Tab Room Support** (text only): [{{ld_phone}}](sms) or email [{{ld_email}}](email)
+**LD Tab Room Support** (text only): [{{ld_phone}}](#) or email [{{ld_email}}](email)
 
 **Equity Advocates**
 
-- You can text [{{equity_phone}}](sms) and ask to speak to an Equity Advocate.
+- You can text [{{equity_phone}}](#) and ask to speak to an Equity Advocate.
 - You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
 
 ## Announcements / Updates
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Wireless Information
+## Tournament Sites
 
-### Assumption
-There is an open WI-FI network called NCFL - no password is needed.
+### Assumption (Saturday)
+**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/assumption.pdf/>
+**Network**: There is an open WI-FI network called NCFL - no password is needed.
 
-### Galt House
-There is no splash page and no password required for the Wi-Fi. Attendees will
-simply go to their device Wi-Fi settings and select either GH-GUEST or
-GH-CONFERENCE and they will automatically connect.
+### Galt House (Sunday)
+**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/galt_house_conference_space.pdf/>
+**Network**: There is no splash page and no password required for the Wi-Fi.
+Attendees will simply go to their device Wi-Fi settings and select either
+GH-GUEST or GH-CONFERENCE and they will automatically connect.
 
 
 ## Round Procedures
@@ -77,7 +83,7 @@ GH-CONFERENCE and they will automatically connect.
   {{button}} on the Flight 1 ballot the moment you are on your way.
   Reminder: competitors will forfeit their Round if they are not in the
   competition room 10 mins after the Round is posted to start.
-- Judges - if you need a forfeit declared - Contact Tab at [{{ld_phone}}](sms)!! You cannot declare
+- Judges - if you need a forfeit declared - Contact Tab at [{{ld_phone}}](#)!! You cannot declare
   the forfeit. Only the Tab Chair can declare a forfeit.
 
 - Evidence Sharing: Students should be prepared to share, electronically or by
@@ -314,6 +320,13 @@ In Lincoln-Douglas the quality of evidence may be a part of the debate. Below ar
    can request to review the evidence and decide how it impacts your decision.
 
 You can consult the TAB Room for help resolving these issues, but we cannot make the decision for you.
+
+
+### Judge Reminder
+
+Good judges make decisions only on what was debated by the contestants in the
+round. The judges should distance themselves from the content of the debate.
+Personal values of the judges should not influence the decision. 
 
 ```{include="equity.md"}
 
