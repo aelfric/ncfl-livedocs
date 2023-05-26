@@ -360,3 +360,7 @@ Speech Tab Room directly, through the text line at [{{speech_phone}}](sms) or
 See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html)
 
 **Note**: SAC = Student Activities Center.
+
+```{include="general.md"}
+
+```

@@ -36,6 +36,8 @@ GH-CONFERENCE and they will automatically connect.
 
 ### Important Notes
 
+- **Topic** Resolved: In the United States, public K-12 schools ought to eliminate
+  academic tracking.
 - Saturday rounds are DOUBLE-flighted.
   - For rounds 1 through 4:
     - Judges: if you do NOT have both A-flight debaters, but you do have
@@ -80,11 +82,9 @@ GH-CONFERENCE and they will automatically connect.
 
 - Evidence Sharing: Students should be prepared to share, electronically or by
   paper, any evidence they read in the round with their opponent and the judge.
-  If you want to share evidence online, the Affirmative team should create a
-  Room on <https://speechdrop.net/> as soon as they enter the room and share
-  the SpeechDrop Room Number with everyone in the round The Room Code should
-  be: the Round Number + Your Event + Your Assigned Room Number (e.g., Round 1
-  in LD in Room 12: “1LD12”).
+  If you want to share evidence online, it should be done using
+  <https://share.tabroom.com/>. A link to the sharing space for the round will
+  be sent to each debater through the pairing
 
 - Audio and video recordings of the rounds are prohibited. NO ONE (neither competitors nor judges) may record rounds.
 
@@ -188,7 +188,7 @@ given how tight we are on judges.
 - Please provide a reason for your decision on the Ballot so the debaters can improve their arguments and debate skills in the future!
 - If you need, you can complete comments later:
   - For Lincoln-Douglas - all comments for Rounds 1-5 must be entered by 8:00
-    pm on Saturday, May 29, 2021. For Elimination Rounds, please work to have
+    pm on Saturday. For Elimination Rounds, please work to have
     all comments for each Elimination Round on the ballot within 20 minutes of
     the round ending.
 
@@ -322,3 +322,7 @@ You can consult the TAB Room for help resolving these issues, but we cannot make
 ## Locations and Maps
 
 See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html)
+
+```{include="general.md"}
+
+```

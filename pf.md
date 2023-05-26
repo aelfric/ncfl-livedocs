@@ -75,7 +75,9 @@ GH-CONFERENCE and they will automatically connect.
 
 ### During Rounds
 
-- DO NOT MIX FLIGHTS!!! If you need to start Flight 2 first, fine, but be sure NOT to switch competitors. Confirm the teams and sides both before and after the round.
+- DO NOT MIX FLIGHTS!!! If you need to start Flight 2 first, fine, but be sure
+  NOT to switch competitors. Confirm the teams and sides both before and after
+  the round.
 - For round 5:
   - Because the Coin Flip is pre-set to occur a specific time in each
     Flight we cannot start Flight 2 early in Round 5.
@@ -84,11 +86,33 @@ GH-CONFERENCE and they will automatically connect.
 
 ### After Rounds
 
-- Enter the winner and points on the ballot and Confirm the Ballot (unconfirmed ballots are not complete).
-- Do NOT disclose the decision. Do this for the first flight before the second flight begins.
-- RFDs should be given but kept short. There is no need to write an elaborately long ballot.
+- Enter the winner and points on the ballot and Confirm the Ballot (unconfirmed
+  ballots are not complete).
+- Do NOT disclose the decision. Do this for the first flight before the second
+  flight begins.
+- RFDs should be given but kept short. There is no need to write an elaborately
+  long ballot.
 
 ### Rules Violations
+
+Please consult TAB before deciding that something in the round warrants
+punishment for violating the rules, excepting the evidence violation process
+described below.
+
+1. Per the Bylaws, Judges MUST read complete citations ONLY if requested by the
+   opponent.
+1. If a debater/team claims evidence is of low quality, from a disreputable
+   source, uses a flawed methodology, etc. - you could decide this issue in the
+   course of the debate based on the arguments made by the teams. You can also
+   read the evidence if you would like.
+1. If a debater/team cannot produce evidence they read when requested by their
+   opponent- you could disregard the evidence in your decision if you like.
+1. If a debater/team alleges that their opponent’s evidence is fabricated - you
+   can request to review the evidence and decide how it impacts your decision.
+
+You can consult the TAB Room for help resolving these issues, but we cannot
+make the decision for you.
+
 
 ### Decision Timer
 
@@ -121,7 +145,7 @@ rest of the tournament to include your comments.
   will not change assignments, except if you are volunteering for extra rounds!
 
 - Note that first year out judges cannot judge elimination debates under any
-  circumstances. If you are a 2021 high school graduate assigned to elimination
+  circumstances. If you are a 2022 high school graduate assigned to elimination
   round pools, find a willing substitute from your diocese or your diocese will
   be fined - and make this change with the Tabroom Staff on Saturday. For the 
   purpose of this rule, the Play-In round counts as a prelim.
@@ -178,3 +202,7 @@ Speaker points are used to give a holistic measurement of the effectiveness of t
 ## Locations and Maps
 
 See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html)
+
+```{include="general.md"}
+
+```
