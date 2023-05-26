@@ -4,9 +4,9 @@ mustache:
   - vars.yaml
 ---
 
-**Policy Judge Lounge**: Mariott Ballroom 5
+**Policy Judge Lounge**: Marriott Ballroom 5
 
-**Policy Tab Room**:  Mariott - Rose Room
+**Policy Tab Room**:  Marriott - Rose Room
 
 **Policy Tab Room Support** (text only): [{{cx_phone}}](sms) or email [{{cx_email}}](email)
 
@@ -38,10 +38,11 @@ Nothing yet. Check back here during the tournament for important information.
 - Everyone (competitors and judges) should be in competition rooms no later
   than 10 minutes before the round is scheduled to start. Contact tab if anyone
   is missing at start time
-- Evidence Sharing: the Affirmative/Pro team should create a Room on
-  <https://speechdrop.net/> for evidence sharing during the round.
-- The Room Code should be: the Round Number + P + Your Assigned Room Number
-  (e.g., Round 1 in Policy in Room 12 = “1P12”)
+- Evidence Sharing: Students should be prepared to share, electronically or by
+  paper, any evidence they read in the round with their opponent and the judge.
+  If you want to share evidence online, it should be done using
+  <https://share.tabroom.com/>. A link to the sharing space for the round will
+  be sent to each debater through the pairing
 
 ### Judges
 
@@ -49,8 +50,7 @@ Nothing yet. Check back here during the tournament for important information.
   all judges before the round begins.
 - If you are assigned a round: push “{{button}}” to acknowledge the ballot as
   soon as you receive the ballot.
-- If you are not assigned a round: report to the event judge lounge (Saturday:
-  146-ABC in the Convention Center; Sunday: Shaw room at the Marriott Marquis)
+- If you are not assigned a round: report to the event judge lounge 
   and wait until the TAB Room has released you. You will be released when all
   rounds have started. We may need to ask you to substitute for a missing
   judge, so it is critical that you report to and remain in the judge lounge if
@@ -78,7 +78,8 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Judge Notes and Expectations
 
-Judges who are not assigned a round are on standby and must be in the judges lounge when rounds are posted for possible substitutions.
+Judges who are not assigned a round are on standby and must be in the judges
+lounge when rounds are posted for possible substitutions.
 
 ### Before Rounds
 
@@ -86,7 +87,7 @@ Judges who are not assigned a round are on standby and must be in the judges lou
   - PLEASE CLICK “{{button}}” TO ACKNOWLEDGE YOU HAVE RECEIVED THE BALLOT. Tab
     staff will check all rooms, so do not wait until starting to click start.
   - ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE
-    ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.
+    ELSE TO JUDGE IN YOUR NAME. ONLY THE TABROOM CAN CHANGE A JUDGE.
 - Once you are in your room:
   - If debaters are missing at In Room Time, text or email tab or tell a member
     of tab staff
@@ -147,9 +148,10 @@ described below.
   obligations are set by the diocese and determined before the tournament. Tab
   will not change assignments, except if you are volunteering for extra rounds!
 - Note that first year out judges cannot judge elimination debates under any
-  circumstances. If you are a 2021 high school graduate assigned to elimination
+  circumstances. If you are a 2022 high school graduate assigned to elimination
   round pools, find a willing substitute from your diocese or your diocese will
-  be fined - and make this change with the Tabroom Staff on Saturday.
+  be fined - and make this change with the Tabroom Staff before prelims end on 
+  Saturday.
 
 ## Event Rules
 
@@ -226,6 +228,8 @@ issues:
   if you’d like.
 - A team cannot produce evidence they read - disregard the evidence in your
   decision and pretend it was never mentioned
+- If a debater/team alleges that their opponent’s evidence is fabricated - you
+  can request to review the evidence and decide how it impacts your decision.
 - A team alleges that their opponent’s evidence is fabricated - this claim
   would, under NSDA rules, stop the round for the judge to determine win/loss
   in the debate based solely on the evidence challenge. Please confirm that
@@ -268,3 +272,7 @@ they will forfeit the round.
 ## Locations and Maps
 
 See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html)
+
+```{include="general.md"}
+
+```
