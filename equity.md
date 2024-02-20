@@ -27,12 +27,11 @@ and referral to appropriate authorities. Any individual or group of individuals
 who believe they have been a victim of harassment and/or discrimination should
 report it to an Equity Advocate or appropriate authority immediately.
 
-· Any tournament participant, including students, coaches, judges, and
+* Any tournament participant, including students, coaches, judges, and
 observers, who believe they have been the subject of harassment and/or
 discrimination in violation of the NCFL Harassment and Discrimination policy
 are encouraged to contact an equity advocate and report the alleged violation.
-
-· Please note: Equity Complaints should be brought to the committee if someone
+* Please note: Equity Complaints should be brought to the committee if someone
 feels they have faced discrimination or harassment, while Rules Protests should
 be filed if someone is in violation of competitive event rules.
 
@@ -72,13 +71,13 @@ ways we do, and sometimes do not, intend. If competitors would like to
 optionally give content warnings, that is permitted and encouraged as a
 thoughtful good practice.
 
-· As a best practice, content warnings should:
+As a best practice, content warnings should:
 
-    - Be relatively short in nature (1-2 sentences), and highlight the
-      potentially sensitive content appropriately. 
-    - In debate, before the beginning of the speech in any offtime roadmap. 
-    - In speech, at the start of the performance. Note, content warnings in
-      speech should count as part of the timed performance. ·
+* Be relatively short in nature (1-2 sentences), and highlight the
+  potentially sensitive content appropriately. 
+* In debate, before the beginning of the speech in any offtime roadmap. 
+* In speech, at the start of the performance. Note, content warnings in
+  speech should count as part of the timed performance. ·
 
 Deployment should be similar to what we are all used to with TV Parental
 Guidelines prior to the start of a show on network TV.
@@ -95,9 +94,8 @@ refer to the Open Door Policy or contact an Equity Advocate.
 
 ### Contacting an Equity Advocate
 
-· You can contact an Equity Advocate directly by filling out this form: [NCFL
-Equity Concern Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSciqY_9YNl_Iw36jZxe8NuhCqxgPDdDOZ_Pd0xEJPtTIXO3Gw/viewform?usp=sf_link)
-
-· You can text [[(919) 964-0018]](#) and ask to speak to an Equity Advocate.
-· You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to
-an Equity Advocate.
+* You can contact an Equity Advocate directly by filling out this form: [NCFL
+  Equity Concern Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSciqY_9YNl_Iw36jZxe8NuhCqxgPDdDOZ_Pd0xEJPtTIXO3Gw/viewform?usp=sf_link)
+* You can text [[(919) 964-0018]](#) and ask to speak to an Equity Advocate.
+* You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to
+  an Equity Advocate.

@@ -1,5 +1,5 @@
 ---
-title: 2023 NCFL Policy Debate Live Doc
+title: 2024 NCFL Policy Debate Live Doc
 mustache:
   - vars.yaml
 ---
@@ -27,20 +27,19 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Tournament Sites
 
-### Marriott (Saturday)
-**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/marriott_conference_space.pdf/>
-**Network Name**: Marriott Bonvoy_Conference
-**Password**: ncfl2023
+### Palmer House Hilton (Saturday)
 
-### Hyatt (Saturday)
-**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/hyatt_conference_space.pdf/>
-**Network Name**: Hyatt-meetings
-**Password**: ncfl23
 
-### Omni (Sunday)
-**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/omni_conference_space.pdf/>
-**Network Name**: Omni Meeting
-**Password**: ncfl2023
+```{include="sites/palmer-house.md"}
+
+```
+
+### Chicago Hilton (Sunday)
+
+
+```{include="sites/hilton.md"}
+
+```
 
 ## Round Procedures
 

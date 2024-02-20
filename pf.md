@@ -1,5 +1,5 @@
 ---
-title: 2023 NCFL Public Forum Debate Live Doc
+title: 2024 NCFL Public Forum Debate Live Doc
 mustache:
   - vars.yaml
 ---
@@ -27,16 +27,17 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Tournament Sites
 
-### Trinity High School (Saturday)
-**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/complete_trinity_maps_-_cfl.pdf/>
-**Network**: The student network is open.  No extra steps or passwords are required to 
-connect.
+### Chicago Hilton (Saturday)
+```{include="sites/hilton.md"}
 
-### Galt House (Sunday)
-**Map**: <https://www.cflnationals.org/uploads/7/3/2/8/7328308/galt_house_conference_space.pdf/>
-**Network**: There is no splash page and no password required for the Wi-Fi. Attendees will
-simply go to their device Wi-Fi settings and select either GH-GUEST or
-GH-CONFERENCE and they will automatically connect.
+```
+
+### Palmer House Hilton (Sunday)
+
+
+```{include="sites/palmer-house.md"}
+
+```
 
 ## Round Procedures
 

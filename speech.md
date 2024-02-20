@@ -1,5 +1,5 @@
 ---
-title: 2023 NCFL Speech Events Live Doc
+title: 2024 NCFL Speech Events Live Doc
 mustache:
   - vars.yaml
 ---
@@ -7,23 +7,26 @@ mustache:
 ## Contact Information
 
 **Extemp Prep Room**: 
-- Saturday: U of L, Student Activities Center Ballroom W215
-- Sunday: Hyatt - Keeneland
+
+* Saturday: U of L, Student Activities Center Ballroom W215
+* Sunday: Hyatt - Keeneland
 
 **Speech Judge Standby Room**: 
-- Saturday: U of L, Student Activites Center W201
-- Sunday: Marriott - Kentucky E
+
+* Saturday: U of L, Student Activites Center W201
+* Sunday: Marriott - Kentucky E
 
 **Speech Tab Room**: 
-- Saturday: U of L, Belknap Academic 218
-- Sunday: Marriott - Skybox / Filley / Thoroghbred
+
+* Saturday: U of L, Belknap Academic 218
+* Sunday: Marriott - Skybox / Filley / Thoroghbred
 
 **Speech Tab Room Support** (text only): [{{speech_phone}}](#) or email: [{{speech_email}}](email)
 
 **Equity Advocates**
 
-- You can text [{{equity_phone}}](#) and ask to speak to an Equity Advocate.
-- You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
+* You can text [{{equity_phone}}](#) and ask to speak to an Equity Advocate.
+* You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
 
 ## Announcements / Updates
 
@@ -31,35 +34,42 @@ Nothing yet.  Check back here during the tournament for important information.
 
 ## Tournament Sites
 
-### University of Louisville (Saturday)
 
-**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/2023_national_speech___debate_-_campus_map-05192023.pdf/>
-**Network**: With the ulvisitor network, you can use the university's wireless network to
-access the Internet while on-campus.
+### Columbia College (Saturday - Original Oratory / Declamation)
+```{include="sites/columbia.md"}
 
-To use the ulvisitor service on campus:
-1.     Select the SSID ulvisitor from your device's list of available wireless
-       networks.
-2.     Open a browser and load any URL; you will be redirected to an access
-       page (on some mobile devices, the access page should open
-       automatically).
-3.     Click Accept to acknowledge the terms of use. Your browser will be sent
-       to a confirmation page and from there you can get online.
+```
 
-### Mariott (Sunday)
-**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/marriott_conference_space.pdf/>
-**Network**: Marriott Bonvoy_Conference
-**Password**: ncfl23
+### Roosevelt University (Saturday - Original Oratory / Declamation)
 
-### Hyatt (Sunday)
-**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/hyatt_conference_space.pdf/>
-**Network**: Hyatt-Meetings
-**Password**: ncfl23
+```{include="sites/roosevelt.md"}
 
-### Omni (Sunday)
-**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/omni_conference_space.pdf/>
-**Network Name**: Omni Meeting
-**Password**: ncfl2023
+```
+
+### East-West University (Saturday - Interp Events)
+
+```{include="sites/east-west.md"}
+
+```
+
+### Jones College Prep (Saturday - Interp Events)
+
+```{include="sites/jones.md"}
+
+```
+
+### Palmer House Hilton (Saturday - Extemporaneous Speaking)
+
+```{includ="sites/palmer-house.md"}
+
+```
+
+### Chicago Hilton (Sunday - All Speech Elims)
+
+
+```{include="sites/hilton.md"}
+
+```
 
 ## Round Procedures
 
@@ -380,8 +390,6 @@ Speech Tab Room directly, through the text line at [{{speech_phone}}](#) or
 ## Locations and Maps
 
 See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html)
-
-**Note**: SAC = Student Activities Center.
 
 ```{include="general.md"}
 

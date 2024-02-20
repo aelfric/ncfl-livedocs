@@ -1,5 +1,5 @@
 ---
-title: 2023 NCFL Lincoln-Douglas Debate Live Doc
+title: 2024 NCFL Lincoln-Douglas Debate Live Doc
 mustache:
   - vars.yaml
 ---
@@ -27,16 +27,18 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Tournament Sites
 
-### Assumption (Saturday)
-**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/assumption.pdf/>
-**Network**: There is an open WI-FI network called NCFL - no password is needed.
 
-### Galt House (Sunday)
-**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/galt_house_conference_space.pdf/>
-**Network**: There is no splash page and no password required for the Wi-Fi.
-Attendees will simply go to their device Wi-Fi settings and select either
-GH-GUEST or GH-CONFERENCE and they will automatically connect.
+### Chicago Hilton (Saturday)
+```{include="sites/hilton.md"}
 
+```
+
+### Palmer House Hilton (Sunday)
+
+
+```{include="sites/palmer-house.md"}
+
+```
 
 ## Round Procedures
 
