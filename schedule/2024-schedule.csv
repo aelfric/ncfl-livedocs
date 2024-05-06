@@ -1,0 +1,53 @@
+7:30AM ,Policy 1 ,CX 1 
+7:30AM ,LD 1 ,LD 1 
+7:30AM ,PF 1 ,PF 1 
+8:00AM ,"IE 1A (dec, oo) ","DEC 1, OO 1 "
+8:00AM ,"IE 1B (dp, oi, duo) ","DP 1, DUO 1, OI 1 "
+8:15AM ,Con 1 ,CON 1 
+8:30AM ,IE 1A (ext) ,EX 1 
+9:30AM ,Policy 2 ,CX 2 
+9:30AM ,PF 2 ,PF 2 
+9:30AM ,LD 2 ,LD 2 
+9:45AM ,"IE 2A (dec, oo) ","DEC 2, OO 2 "
+9:45AM ,"IE 2B (dp, oi, duo)","DP 2, DUO 2, OI 2 "
+10:30AM ,IE 2A (ext) ,EX 2 
+1:00PM ,Policy 3 ,CX 3 
+1:00PM ,PF 3 ,PF 3 
+1:00PM ,LD 3 ,LD 3 
+1:00PM ,Con 2 ,CON 2 
+1:15PM ,"IE 3A (dec, oo) ","DEC 3, OO 3 "
+1:15PM ,"IE 3B (dp, oi, duo) ","DP 3, DUO 3, OI 3 "
+2:00PM ,IE 3A (ext) ,EX 3 
+3:00PM ,"IE 4B (dp, oi, duo) ","DP 4, DUO 4, OI 4 "
+3:00PM ,"IE 4A (dec, oo) ","DEC 4, OO 4 "
+3:15PM ,Policy 4 ,CX 4 
+3:30PM ,PF 4 ,PF 4 
+3:30PM ,LD 4 ,LD 4 
+4:00PM ,IE 4A (ext) ,EX 4 
+4:15PM ,Con 3 ,CON 3 
+5:45PM ,Policy 5 ,CX 5 
+6:15PM ,LD 5 ,LD 5 
+6:15PM ,PF 5 ,PF 5 
+7:30AM ,LD Play-In ,LD Play-In 
+7:30 AM ,Policy D-Octs ,CX Dbl Octos 
+7:30 AM ,PF Play-In ,PF Play-In 
+7:45 AM ,Con Semi ,CON Semi 
+8:30 AM ,IE Octo ,"DEC Octo, DP Octo, DUO Octo, EX Octo, OI Octo, OO Octo"
+9:30 AM ,LD D-Octs ,LD Dbl Octos 
+9:30 AM ,PF D-Octs ,PF Dbl Octos 
+10:00 AM ,Policy Octs ,CX Octos 
+11:30 AM ,PF Octs ,PF Octos 
+11:30 AM ,IE Quar ,"DEC Quar, DP Quar, DUO Quar, EX Quar, OI Quar, OO Quar"
+11:30 AM ,LD Octs ,LD Octo 
+12:30 PM ,Policy Quart ,CX Quarts 
+1:30 PM ,Con Final ,CON Final 
+1:30 PM ,LD Quart ,LD Quarts 
+1:30 PM ,PF Quart ,PF Quarts 
+2:00 PM ,IE Semi ,"DEC Semi, DP Semi, DUO Semi, EX Semi, OI Semi, OO Semi"
+3:00 PM ,LD Semis ,LD Semis 
+3:00 PM ,PF Semis ,PF Semis 
+3:00 PM ,Policy Semi ,CX Semis 
+4:15 PM ,IE Final ,"DEC Final, DP Final, DUO Final, EX Final, OI Final, OO  Final"
+4:30 PM ,PF Finals ,PF Finals 
+4:30 PM ,LD Finals ,LD Final 
+5:15 PM ,Policy Finals ,CX Final 
