@@ -6,19 +6,21 @@ mustache:
 
 ## Contact Information
 
-**Policy Judge Standby Room**: 
-- Saturday: Marriott Ballroom 5
-- Sunday: Omni Olmstead 1
+**Policy Judge Standby Room**:
 
-**Policy Tab Room**:  
-- Saturday: Marriott - Rose Room
-- Sunday: Omni - Butchertown
+- Saturday: Palmer House - Empire Ballroom
+- Sunday: TBD
 
-**Policy Tab Room Support** (text only): [{{cx_phone}}](#) or email [{{cx_email}}](email)
+**Policy Tab Room**:
+
+- Saturday: Palmer House - Cresthill Room (3rd Floor)
+- Sunday: Hilton Chicago - PDR #1 (3rd Floor)
+
+**Policy Tab Room Support** (text only): {{cx_phone}} or email [{{cx_email}}](email)
 
 **Equity Advocates**
 
-- You can text [{{equity_phone}}](#) and ask to speak to an Equity Advocate.
+- You can text {{equity_phone}} and ask to speak to an Equity Advocate.
 - You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
 
 ## Announcements / Updates
@@ -29,13 +31,11 @@ Nothing yet. Check back here during the tournament for important information.
 
 ### Palmer House Hilton (Saturday)
 
-
 ```{include="sites/palmer-house.md"}
 
 ```
 
 ### Chicago Hilton (Sunday)
-
 
 ```{include="sites/hilton.md"}
 
@@ -62,7 +62,7 @@ Nothing yet. Check back here during the tournament for important information.
   all judges before the round begins.
 - If you are assigned a round: push “{{button}}” to acknowledge the ballot as
   soon as you receive the ballot.
-- If you are not assigned a round: report to the event judge lounge 
+- If you are not assigned a round: report to the event judge lounge
   and wait until the TAB Room has released you. You will be released when all
   rounds have started. We may need to ask you to substitute for a missing
   judge, so it is critical that you report to and remain in the judge lounge if
@@ -73,20 +73,22 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Schedule
 
-| Round         | Pairings Released | In Room Time | Start Time |
-| ------------- | ----------------- | ------------ | ---------- |
-| **Saturday**  |                   |              |            |
-| Round 1       | 7:00 AM           | 7:20 AM      | 7:30 AM    |
-| Round 2       | 9:00 AM           | 9:20 AM      | 9:30 AM    |
-| Round 3       | 12:30 PM          | 12:50 PM     | 1:00 PM    |
-| Round 4       | 2:45 PM           | 3:05 PM      | 3:15 PM    |
-| Round 5       | 5:55 PM           | 5:35 PM      | 5:45 PM    |
-| **Sunday**    |                   |              |            |
-| Policy D-Octs | 7:00 AM           | 7:20 AM      | 7:30 AM    |
-| Policy Octs   | 9:30 AM           | 9:50 AM      | 10:00 AM   |
-| Policy Quart  | 12:00 PM          | 12:20 PM     | 12:30 PM   |
-| Policy Semi   | 2:30 PM           | 2:50 PM      | 3:00 PM    |
-| Policy Finals | 4:45 PM           | 5:05 PM      | 5:15 PM    |
+(All times in Central)
+
+| Round        | Pairings Released | In Room Time | Start Time |
+|--------------|-------------------|--------------|------------|
+| **Saturday** |                   |              |            |
+| 1            | 7:00AM            | 7:20AM       | 7:30AM     | 
+| 2            | 9:00AM            | 9:20AM       | 9:30AM     | 
+| 3            | 12:30PM           | 12:50PM      | 1:00PM     | 
+| 4            | 2:45PM            | 3:05PM       | 3:15PM     | 
+| 5            | 5:15PM            | 5:35PM       | 5:45PM     |
+| **Sunday**   |                   |              |            |
+| Dbl Octos    | 7:00AM            | 7:20AM       | 7:30AM     | 
+| Octos        | 9:30AM            | 9:50AM       | 10:00AM    | 
+| Quarts       | 12:00PM           | 12:20PM      | 12:30PM    | 
+| Semis        | 2:30PM            | 2:50PM       | 3:00PM     | 
+| Final        | 4:45PM            | 5:05PM       | 5:15PM     | 
 
 ## Judge Notes and Expectations
 
@@ -96,19 +98,19 @@ lounge when rounds are posted for possible substitutions.
 ### Before Rounds
 
 - If you received a blast message for your round assignment:
-  - PLEASE CLICK “{{button}}” TO ACKNOWLEDGE YOU HAVE RECEIVED THE BALLOT. Tab
-    staff will check all rooms, so do not wait until starting to click start.
-  - ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE
-    ELSE TO JUDGE IN YOUR NAME. ONLY THE TABROOM CAN CHANGE A JUDGE.
+    - PLEASE CLICK “{{button}}” TO ACKNOWLEDGE YOU HAVE RECEIVED THE BALLOT. Tab
+      staff will check all rooms, so do not wait until starting to click start.
+    - ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE
+      ELSE TO JUDGE IN YOUR NAME. ONLY THE TABROOM CAN CHANGE A JUDGE.
 - Once you are in your room:
-  - If debaters are missing at In Room Time, text or email tab or tell a member
-    of tab staff
-  - Do not start without three adults looking at ballots that all say the same
-    sides that the debaters think they are on!
+    - If debaters are missing at In Room Time, text or email tab or tell a member
+      of tab staff
+    - Do not start without three adults looking at ballots that all say the same
+      sides that the debaters think they are on!
 - If you did NOT receive a blast message for your round assignment:
-  - Double-check the pairings to be sure you are unassigned!
-  - Judges who are not assigned a round are on standby and must be in the
-    judges’ lounge at In Room Time for possible substitutions.
+    - Double-check the pairings to be sure you are unassigned!
+    - Judges who are not assigned a round are on standby and must be in the
+      judges’ lounge at In Room Time for possible substitutions.
 
 ### During Rounds
 
@@ -142,7 +144,7 @@ described below.
   not when you really start, but the scheduled start time) to submit their
   decisions. This countdown is visible on the ballot. This rule exists a) to
   keep us on schedule, b) to encourage debaters to minimize wasted time within
-  rounds, and c) to prevent judges from overanalyzing every piece of evidence
+  rounds, and c) to prevent judges from over-analyzing every piece of evidence
   in a round.
 - This should create an incentive for all participants to start on time (or
   early!), move swiftly through the round, and quickly notify tab of any tech
@@ -162,7 +164,7 @@ described below.
 - Note that first year out judges cannot judge elimination debates under any
   circumstances. If you are a 2022 high school graduate assigned to elimination
   round pools, find a willing substitute from your diocese or your diocese will
-  be fined - and make this change with the Tabroom Staff before prelims end on 
+  be fined - and make this change with the Tabroom Staff before prelims end on
   Saturday.
 
 ## Event Rules
@@ -186,7 +188,7 @@ described below.
 ### Structure of a Round
 
 | Speech                               | Time  |
-| ------------------------------------ | ----- |
+|--------------------------------------|-------|
 | 1st Affirmative Constructive         | 8 min |
 | Cross-examination by 2nd Negative    | 3 min |
 | 1st Negative Constructive            | 8 min |
@@ -259,7 +261,7 @@ have a standard, points provide meaningful feedback instead of being arbitrary
 and useless!
 
 | Points    | Meaning                                                                   |
-| --------- | ------------------------------------------------------------------------- |
+|-----------|---------------------------------------------------------------------------|
 | 29.5‑30   | I wish I could frame your speeches – hard to imagine a better speaker     |
 | 29.1‑29.4 | you were consistently excellent                                           |
 | 28.8‑29.0 | you were effective and strategic, and made only minor mistakes            |
@@ -277,14 +279,11 @@ Low-point wins (where the winning team has fewer points than the losing team) ar
 Policy Debate is a team event. Both partners must participate in each debate or
 they will forfeit the round.
 
-
 #### Judge Reminder
 
 Good judges make decisions only on what was debated by the contestants in the
 round. The judges should distance themselves from the content of the debate.
-Personal values of the judges should not influence the decision. 
-
-
+Personal values of the judges should not influence the decision.
 
 ```{include="equity.md"}
 

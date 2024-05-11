@@ -6,19 +6,21 @@ mustache:
 
 ## Contact Information
 
-**PF Judge Standby Room**: 
-- Saturday: Trinity High School - Convocation Hall (2nd Floor of Communication Arts Building) 
-- Sunday: Galt House - Grand Ballroom A
+**PF Judge Standby Room**:
 
-**PF Tab Room**: 
-- Saturday: Trinity High School - Welcome Center
-- Sunday: Galt House - Brown (2nd Floor)
+- Saturday: Hilton Chicago - TBD
+- Sunday: Palmer House - Grand Ballroom (4th Floor)
 
-**PF Tab Room Support** (text only): [{{pf_phone}}](#) or email [{{pf_email}}](email)
+**PF Tab Room**:
+
+- Saturday: Hilton Chicago - Mobley Room (LL)
+- Sunday: Palmer House - Harvard Room (3rd Floor)
+
+**PF Tab Room Support** (text only): {{pf_phone}} or email [{{pf_email}}](email)
 
 **Equity Advocates**
 
-- You can text [{{equity_phone}}](#) and ask to speak to an Equity Advocate.
+- You can text {{equity_phone}} and ask to speak to an Equity Advocate.
 - You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
 
 ## Announcements / Updates
@@ -28,12 +30,12 @@ Nothing yet. Check back here during the tournament for important information.
 ## Tournament Sites
 
 ### Chicago Hilton (Saturday)
+
 ```{include="sites/hilton.md"}
 
 ```
 
 ### Palmer House Hilton (Sunday)
-
 
 ```{include="sites/palmer-house.md"}
 
@@ -49,25 +51,27 @@ Nothing yet. Check back here during the tournament for important information.
   Flight 1 is not, the Flight 2 may debate first. Do NOT mix flights.
 - There are 3 judges in every round + 2 teams. Please wait for all three judges
 - FORFEIT is 10 mins after start of round. Tab Chairs are THE ONLY ONES WHO CAN
-  AWARD A FORFEIT. TEXT US AT [{{pf_phone}}](#).
+  AWARD A FORFEIT. TEXT US AT {{pf_phone}}.
 
 ## Schedule
 
+(All times in Central)
+
 | Round        | Pairings Released | In Room Time | Start Time |
-| ------------ | ----------------- | ------------ | ---------- |
-| **Saturday**             |
-| Round 1      | 7:00 AM           | 7:20 AM      | 7:30 AM    |
-| Round 2      | 9:00 AM           | 9:20 AM      | 9:30 AM    |
-| Round 3      | 12:00 PM          | 12:20 PM     | 12:30 PM   |
-| Round 4      | 2:30 PM           | 2:50 PM      | 3:00 PM    |
-| Round 5      | 5:00 PM           | 5:20 PM      | 5:30 PM    |
-| **Sunday**               |
-| Play-In      | 7:00 AM           | 7:20 AM      | 7:30 AM    |
-| D-Octs       | 9:00 AM           | 9:20 AM      | 9:30 AM    |
-| Octs         | 11:00 AM          | 11:20 AM     | 11:30 AM   |
-| Quart        | 1:00 PM           | 1:20 PM      | 1:30 PM    |
-| Semis        | 2:30 PM           | 2:50 PM      | 3:00 PM    |
-| Finals       | 4:00 PM           | 4:20 PM      | 4:30 PM    |
+|--------------|-------------------|--------------|------------|
+| **Saturday** |
+| 1            | 7:00AM            | 7:20AM       | 7:30AM     | 
+| 2            | 9:00AM            | 9:20AM       | 9:30AM     | 
+| 3            | 12:30PM           | 12:50PM      | 1:00PM     | 
+| 4            | 3:00PM            | 3:20PM       | 3:30PM     | 
+| 5            | 5:45PM            | 6:05PM       | 6:15PM     | 
+| **Sunday**   |
+| Play-In      | 7:00AM            | 7:20AM       | 7:30AM     | 
+| Dbl Octos    | 9:00AM            | 9:20AM       | 9:30AM     | 
+| Octos        | 11:00AM           | 11:20AM      | 11:30AM    | 
+| Quarts       | 1:00PM            | 1:20PM       | 1:30PM     | 
+| Semis        | 2:30PM            | 2:50PM       | 3:00PM     | 
+| Finals       | 4:00PM            | 4:20PM       | 4:30PM     | 
 
 ## Judge Notes and Expectations
 
@@ -86,10 +90,10 @@ Nothing yet. Check back here during the tournament for important information.
   NOT to switch competitors. Confirm the teams and sides both before and after
   the round.
 - For round 5:
-  - Because the Coin Flip is pre-set to occur a specific time in each
-    Flight we cannot start Flight 2 early in Round 5.
-  - Students: Flight 1 should go to the floor immediately once Round 5 is
-    posted!
+    - Because the Coin Flip is pre-set to occur a specific time in each
+      Flight we cannot start Flight 2 early in Round 5.
+    - Students: Flight 1 should go to the floor immediately once Round 5 is
+      posted!
 
 ### After Rounds
 
@@ -108,26 +112,25 @@ described below.
 
 1. Per the Bylaws, Debaters MUST read complete citations ONLY if requested by the
    opponent.
-1. If a debater/team claims evidence is of low quality, from a disreputable
+2. If a debater/team claims evidence is of low quality, from a disreputable
    source, uses a flawed methodology, etc. - you could decide this issue in the
    course of the debate based on the arguments made by the teams. You can also
    read the evidence if you would like.
-1. If a debater/team cannot produce evidence they read when requested by their
-   opponent- you could disregard the evidence in your decision if you like.
-1. If a debater/team alleges that their opponent’s evidence is fabricated - you
+3. If a debater/team cannot produce evidence they read when requested by their
+   opponent - you could disregard the evidence in your decision if you like.
+4. If a debater/team alleges that their opponent’s evidence is fabricated - you
    can request to review the evidence and decide how it impacts your decision.
 
 You can consult the TAB Room for help resolving these issues, but we cannot
 make the decision for you.
-
 
 ### Decision Timer
 
 Judges have **55 minutes** for each flight from the ROUND START TIME (not when
 you click start, not when you really start, but the scheduled start time) to
 submit their decisions for each flight. This countdown is visible on the
-ballot. This rule exists a) to keep us on schedule, b) to encourage debaters to
-minimize wasted time within rounds, and c) to prevent judges from overanalyzing
+ballot. This rule exists (a) to keep us on schedule, (b) to encourage debaters to
+minimize wasted time within rounds, and (c) to prevent judges from over-analyzing
 every piece of evidence in a round.
 
 This should create an incentive for all participants to start on time (or
@@ -154,7 +157,7 @@ rest of the tournament to include your comments.
 - Note that first year out judges cannot judge elimination debates under any
   circumstances. If you are a 2022 high school graduate assigned to elimination
   round pools, find a willing substitute from your diocese or your diocese will
-  be fined - and make this change with the Tabroom Staff on Saturday. For the 
+  be fined - and make this change with the Tabroom Staff on Saturday. For the
   purpose of this rule, the Play-In round counts as a prelim.
 
 ## Event Rules
@@ -163,13 +166,13 @@ rest of the tournament to include your comments.
 
 **Please note** in NCFL, there is NO coin flip for sides or for speaker order.
 There is only a coin flip for sides in Round 5 and in any elims when teams have
-not met before. The coin flip is managed automatically in tabroom.com. Pro 
+not met before. The coin flip is managed automatically in tabroom.com. Pro
 always goes first.
 
 ### Structure of a Round
 
 | Speech              | Time  |
-| ------------------- | ----- |
+|---------------------|-------|
 | 1st Pro             | 4 min |
 | 1st Con             | 4 min |
 | Crossfire           | 3 min |
@@ -188,10 +191,13 @@ always goes first.
 
 ### Debate Speaker Point Scale
 
-Speaker points are used to give a holistic measurement of the effectiveness of the debater’s participation in the round - speaking, strategy, decorum, etc. Judges must follow the speaker point scale, regardless of what they are used to or may prefer, so that there is a fair standard across all rounds. Plus, if we have a standard, points provide meaningful feedback instead of being arbitrary and useless!
+Speaker points are used to give a holistic measurement of the effectiveness of the debater’s participation in the
+round - speaking, strategy, decorum, etc. Judges must follow the speaker point scale, regardless of what they are used
+to or may prefer, so that there is a fair standard across all rounds. Plus, if we have a standard, points provide
+meaningful feedback instead of being arbitrary and useless!
 
-| Points    | Meaning                                                                                  |
-| --------- | ---------------------------------------------------------------------------------------- |
+| Points          | Meaning                                                                                  |
+|-----------------|------------------------------------------------------------------------------------------|
 | 29.5&#8209;30   | I wish I could frame your speeches; your strategic decision-making belongs in a textbook |
 | 29.1&#8209;29.4 | you were consistently excellent                                                          |
 | 28.8&#8209;29.0 | you were effective and strategic, and made only minor mistakes                           |
@@ -200,14 +206,13 @@ Speaker points are used to give a holistic measurement of the effectiveness of t
 | 27.3&#8209;27.7 | you missed major things and were hard to follow                                          |
 | 27.0&#8209;27.2 | you advanced little in the debate or cost your team the round                            |
 | 26.0&#8209;26.9 | you are not ready for this division/tournament                                           |
-| Below 26  | you were offensive, ignorant, rude, or tried to cheat (Judge MUST come to tab)           |
-
+| Below 26        | you were offensive, ignorant, rude, or tried to cheat (Judge MUST come to tab)           |
 
 #### Judge Reminder
 
 Good judges make decisions only on what was debated by the contestants in the
 round. The judges should distance themselves from the content of the debate.
-Personal values of the judges should not influence the decision. 
+Personal values of the judges should not influence the decision.
 
 ```{include="equity.md"}
 
