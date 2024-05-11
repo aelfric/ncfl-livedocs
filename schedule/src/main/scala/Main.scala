@@ -3,10 +3,11 @@ import org.apache.commons.csv.{CSVFormat, CSVParser}
 import java.io.{FileReader, Reader}
 import java.time.format.DateTimeFormatter
 import java.time.{LocalDateTime, LocalTime, MonthDay}
+import scala.io.Source
 import scala.jdk.CollectionConverters._
 
 object Main extends App {
-  private val in: Reader = new FileReader("2024-schedule.csv")
+  private val in: Reader = Source.fromResource("2024-schedule.csv").bufferedReader()
   private val tf: DateTimeFormatter = DateTimeFormatter.ofPattern("h:mma")
   private val df: DateTimeFormatter = DateTimeFormatter.ofPattern("d-MMM")
 
@@ -88,7 +89,7 @@ object Main extends App {
     for {
       i <- timeToSchedules.toSeq.sortBy(_._1)
     } yield {
-      println(s"${tf.format(i._1)} | ${i._2.flatMap(_.events).mkString(", ")}")
+      println(s"| ${tf.format(i._1)} | ${i._2.flatMap(_.events).mkString(", ")} | ")
     }
   }
 }
