@@ -7,7 +7,7 @@ affect our decisions. When judging, our implicit biases negatively impact
 students who are traditionally marginalized and disenfranchised. Before writing
 comments or making a decision, please take a moment to reflect on any biases
 that may impact your decision-making process. If you have not already, please
-take the [Implicit Bias Training](https://forms.gle/SH3D7dSyirzYX6TV7).
+take the [Implicit Bias Training](https://docs.google.com/forms/d/e/1FAIpQLSeOWgcJfxeOt_92jbEMf6NfkVSPcvU-DwT2Q3dsmhdb9ptB1g/viewform?usp=sf_link).
 
 ### NCFL Harassment & Discrimination Policy
 
@@ -31,7 +31,7 @@ report it to an Equity Advocate or appropriate authority immediately.
 observers, who believe they have been the subject of harassment and/or
 discrimination in violation of the NCFL Harassment and Discrimination policy
 are encouraged to contact an equity advocate and report the alleged violation.
-* Please note: Equity Complaints should be brought to the committee if someone
+* Please note: Equity Concerns should be brought to the committee if someone
 feels they have faced discrimination or harassment, while Rules Protests should
 be filed if someone is in violation of competitive event rules.
 
@@ -95,7 +95,7 @@ refer to the Open Door Policy or contact an Equity Advocate.
 ### Contacting an Equity Advocate
 
 * You can contact an Equity Advocate directly by filling out this form: [NCFL
-  Equity Concern Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSciqY_9YNl_Iw36jZxe8NuhCqxgPDdDOZ_Pd0xEJPtTIXO3Gw/viewform?usp=sf_link)
-* You can text [[(919) 964-0018]](#) and ask to speak to an Equity Advocate.
+  Equity Concern Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLScQK8AJkpY17L9k4sInTWZq2NgoPSTnBl28T1fL7NymOAaTDg/viewform?usp=sf_link)
+* You can text (872) 221-3041 and ask to speak to an Equity Advocate.
 * You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to
   an Equity Advocate.
