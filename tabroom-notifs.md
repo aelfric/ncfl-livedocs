@@ -1,0 +1,1 @@
+**Note: Tabroom no longer texts and emails are inconsistent. But you can enable browser alerts on all devices - see the bell icon in the top right of tabroom on both your computer and phone!**

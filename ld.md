@@ -6,6 +6,10 @@ mustache:
 
 ## Contact Information
 
+```{include="tabroom-notifs.md"}
+
+```
+
 **LD Judge Standby Room**:
 
 - Saturday: Hilton Chicago - TBD
@@ -29,7 +33,7 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Tournament Sites
 
-### Chicago Hilton (Saturday)
+### Hilton Chicago (Saturday)
 
 ```{include="sites/hilton.md"}
 
@@ -157,6 +161,10 @@ given how tight we are on judges.
 
 **ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND
 A SUBSTITUTE JUDGE.**
+
+### Before the Tournament
+
+- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm
 
 ### Before Each Round
 

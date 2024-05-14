@@ -6,6 +6,10 @@ mustache:
 
 ## Contact Information
 
+```{include="tabroom-notifs.md"}
+
+```
+
 **PF Judge Standby Room**:
 
 - Saturday: Hilton Chicago - TBD
@@ -29,7 +33,7 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Tournament Sites
 
-### Chicago Hilton (Saturday)
+### Hilton Chicago (Saturday)
 
 ```{include="sites/hilton.md"}
 
@@ -74,6 +78,13 @@ Nothing yet. Check back here during the tournament for important information.
 | Finals       | 4:00PM            | 4:20PM       | 4:30PM     | 
 
 ## Judge Notes and Expectations
+
+Judges: thank you! Tournaments do not exist without you!
+
+### Before the Tournament
+
+- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm
+
 
 ### Before Rounds
 
@@ -155,7 +166,7 @@ rest of the tournament to include your comments.
   will not change assignments, except if you are volunteering for extra rounds!
 
 - Note that first year out judges cannot judge elimination debates under any
-  circumstances. If you are a 2022 high school graduate assigned to elimination
+  circumstances. If you are a {{last_year}} high school graduate assigned to elimination
   round pools, find a willing substitute from your diocese or your diocese will
   be fined - and make this change with the Tabroom Staff on Saturday. For the
   purpose of this rule, the Play-In round counts as a prelim.

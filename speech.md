@@ -6,6 +6,11 @@ mustache:
 
 ## Contact Information
 
+
+```{include="tabroom-notifs.md"}
+
+```
+
 **Extemp Prep Room**:
 
 * Saturday: Palmer House - State Ballroom and Grand Ballroom
@@ -13,7 +18,12 @@ mustache:
 
 **Speech Judge Standby Room**:
 
-* Saturday: U of L, Student Activites Center W201
+* Saturday:
+    * East-West University: Student Life Center Lobby
+    * Jones College Prep: TBD
+    * Roosevelt University: Fainman Lounge
+    * Columbia College: TBD
+    * Palmer House: Empire Ballroom
 * Sunday: Hilton Chicago - Normandie Lounge (2nd Floor)
 
 **Speech Tab Room**:
@@ -34,37 +44,37 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Tournament Sites
 
-### Columbia College (Saturday - Original Oratory / Declamation)
+### Columbia College (Saturday - Declamation)
 
 ```{include="sites/columbia.md"}
 
 ```
 
-### Roosevelt University (Saturday - Original Oratory / Declamation)
+### Roosevelt University (Saturday - Original Oratory)
 
 ```{include="sites/roosevelt.md"}
 
 ```
 
-### East-West University (Saturday - Interp Events)
+### East-West University (Saturday - Duo Interp)
 
 ```{include="sites/east-west.md"}
 
 ```
 
-### Jones College Prep (Saturday - Interp Events)
+### Jones College Prep (Saturday - Drama and OI)
 
 ```{include="sites/jones.md"}
 
 ```
 
-### Palmer House Hilton (Saturday - Extemporaneous Speaking)
+### Palmer House (Saturday - Extemporaneous Speaking)
 
 ```{includ="sites/palmer-house.md"}
 
 ```
 
-### Chicago Hilton (Sunday - All Speech Elims)
+### Hilton Chicago (Sunday - All Speech Elims)
 
 ```{include="sites/hilton.md"}
 
@@ -146,7 +156,7 @@ Nothing yet. Check back here during the tournament for important information.
   change to convey the incremental ranking (1st through 6th place). Please
   double-check that each speaker is ranked correctly.
 - Copy/Paste your comments into Tabroom.com and hit ‘SAVE’ periodically. If you
-  need assistance, click here.
+  need assistance, see [these instructions](https://static.nycfl.tech/AStepbyStepGuidetoSpeechE-Balloting.pdf).
 - Please provide any general feedback in the Reason-For-Decision window (RFD)
   regarding the round. You might include what affected your top 3 decisions vs.
   your bottom 3 decisions. This is NOT the window for individual student
@@ -192,7 +202,7 @@ Nothing yet. Check back here during the tournament for important information.
 
 ### Judge Training
 
-See the Webinar recorded on Monday: <https://youtu.be/_uqJ0Pc_gBQ>
+See the Webinar recorded on Wednesday: LINK TBD
 
 ### Judge Reminder
 

@@ -6,6 +6,10 @@ mustache:
 
 ## Contact Information
 
+```{include="tabroom-notifs.md"}
+
+```
+
 **Policy Judge Standby Room**:
 
 - Saturday: Palmer House - Empire Ballroom
@@ -35,7 +39,7 @@ Nothing yet. Check back here during the tournament for important information.
 
 ```
 
-### Chicago Hilton (Sunday)
+### Hilton Chicago (Sunday)
 
 ```{include="sites/hilton.md"}
 
@@ -92,17 +96,22 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Judge Notes and Expectations
 
-Judges who are not assigned a round are on standby and must be in the judges
-lounge when rounds are posted for possible substitutions.
+Judges: thank you! Tournaments do not exist without you!
+
+### Before the Tournament
+
+- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm
 
 ### Before Rounds
 
 - If you received a blast message for your round assignment:
-    - PLEASE CLICK “{{button}}” TO ACKNOWLEDGE YOU HAVE RECEIVED THE BALLOT. Tab
-      staff will check all rooms, so do not wait until starting to click start.
+    - PLEASE CLICK “{{button}}” TO ACKNOWLEDGE YOU HAVE RECEIVED THE BALLOT. We don’t need to know when the round starts, we need to know that you know you are judging it. We trust you to start on time once you are on the way.
     - ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE
       ELSE TO JUDGE IN YOUR NAME. ONLY THE TABROOM CAN CHANGE A JUDGE.
+    - **You can be fined for not reporting to your room on time.** If the TAB Room has to substitute a new/different judge in for your assigned round, you will be fined. 
+
 - Once you are in your room:
+    - If your ballot shows the wrong sides according to the debaters, refresh the page! If you clicked in before they finished the flip, it might need to be reset.
     - If debaters are missing at In Room Time, text or email tab or tell a member
       of tab staff
     - Do not start without three adults looking at ballots that all say the same
@@ -111,6 +120,7 @@ lounge when rounds are posted for possible substitutions.
     - Double-check the pairings to be sure you are unassigned!
     - Judges who are not assigned a round are on standby and must be in the
       judges’ lounge at In Room Time for possible substitutions.
+    - You can be fined if we need you and cannot find you.
 
 ### During Rounds
 
@@ -162,7 +172,7 @@ described below.
   obligations are set by the diocese and determined before the tournament. Tab
   will not change assignments, except if you are volunteering for extra rounds!
 - Note that first year out judges cannot judge elimination debates under any
-  circumstances. If you are a 2022 high school graduate assigned to elimination
+  circumstances. If you are a {{last_year}} high school graduate assigned to elimination
   round pools, find a willing substitute from your diocese or your diocese will
   be fined - and make this change with the Tabroom Staff before prelims end on
   Saturday.
