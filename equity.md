@@ -35,7 +35,7 @@ are encouraged to contact an equity advocate and report the alleged violation.
 feels they have faced discrimination or harassment, while Rules Protests should
 be filed if someone is in violation of competitive event rules.
 
-### Open Door Policy at the NCFL Grand National
+### Open Door Policy at the NCFL Grand National Tournament
 
 The NCFL is committed to providing safe performance spaces for all competitors
 and judges. We acknowledge the art of advocacy through performance and debate

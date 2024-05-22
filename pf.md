@@ -84,7 +84,7 @@ Judges: thank you! Tournaments do not exist without you!
 ### Before the Tournament
 
 - **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm
-
+- Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
 
 ### Before Rounds
 
@@ -124,11 +124,11 @@ described below.
 1. Per the Bylaws, Debaters MUST read complete citations ONLY if requested by the
    opponent.
 2. If a debater/team claims evidence is of low quality, from a disreputable
-   source, uses a flawed methodology, etc. - you could decide this issue in the
+   source, uses a flawed methodology, etc. - you should decide this issue in the
    course of the debate based on the arguments made by the teams. You can also
    read the evidence if you would like.
 3. If a debater/team cannot produce evidence they read when requested by their
-   opponent - you could disregard the evidence in your decision if you like.
+   opponent - you can disregard the evidence in your decision if you like.
 4. If a debater/team alleges that their opponent’s evidence is fabricated - you
    can request to review the evidence and decide how it impacts your decision.
 
@@ -218,6 +218,8 @@ meaningful feedback instead of being arbitrary and useless!
 | 27.0&#8209;27.2 | you advanced little in the debate or cost your team the round                            |
 | 26.0&#8209;26.9 | you are not ready for this division/tournament                                           |
 | Below 26        | you were offensive, ignorant, rude, or tried to cheat (Judge MUST come to tab)           |
+
+For our common speaker point guide, you can think of the score as ignoring the 2 at the beginning and seeing the other two numbers as your grade on a normal 100-point scale. For example, a 29.8 is like a 98 grade, which is an A+, and a 27.1 is like a 71 grade, which is a C-.
 
 #### Judge Reminder
 

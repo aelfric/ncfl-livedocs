@@ -101,26 +101,23 @@ Nothing yet. Check back here during the tournament for important information.
 
 #### Before Each Round
 
-- Once you receive a round assignment and are at your room, click “{{button}}”
-  on your ballot. _To be very clear: do not wait for the beginning of the round
-  to press the {{button}} button. Press it the moment you see that you have a
-  ballot assigned._
-- Please report to the room ASAP and no later than **ten minutes** prior to the scheduled start time if possible.
+- Once you receive a round assignment, please note the time and plan to arrive in the room 10 minutes prior to the start time. Please hit the "In the room" button once you have arrived in the room.
+- Do not begin the round until you have confirmed all three judges are present.  (Do not assume another adult in the room is a judge.)  Checkers will be checking rooms and will report missing judges to the tab room.  Please only text if a checker has not been to your room 15 minutes after the round was scheduled to begin.  We will send the checker to the room to help replace the judge.
 - You do not need every student present in order to start the round. If you are
-  missing students or judges in your room 10 mins after the posted start time -
+  missing students in your room **10 mins after** the posted start time -
   please contact us!
     - TEXT ONLY TO {{speech_phone}}. Include in your Text:
-        - The Room No. you are in AND
+        - The Room Number you are in AND
         - Your Issue -
         - If missing a competitor - type in Missing + Competitor Code
-        - If missing a judge - type in Missing + Judge Code
 - If a student arrives late, have them speak in the closest position to their
   initial speaker order on the ballot.
 - Observers are allowed in Saturday rounds ONLY with the permission of ALL
   Competitors & Judges in the Room. Anyone can say NO without penalty or
   prejudice.
 - Observers are allowed in Sunday rounds without any special permission subject
-  to the room's capacity. All observers must be seated. If you are still
+  to the room's capacity. 
+- All observers must be seated. If you are still
   competing you CANNOT observe rounds in your event until you are eliminated
 
 #### During Rounds
@@ -221,7 +218,7 @@ own.
 
 #### Protest Procedures
 
-If someone has a question regarding a protest, they can either contact the
+If someone has a question regarding a protest, they can contact the
 Speech Tab Room directly, through the text line at {{speech_phone}} or
 [{{speech_email}}](email).
 

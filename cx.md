@@ -13,7 +13,8 @@ mustache:
 **Policy Judge Standby Room**:
 
 - Saturday: Palmer House - Empire Ballroom
-- Sunday: TBD
+- Sunday, 7am - 2pm:  Hilton Chicago, Normandie Lounge (2nd Floor)
+- Sunday, 2:30 - 6pm:  Hilton Chicago, Astoria Room (3rd Floor)
 
 **Policy Tab Room**:
 
@@ -62,14 +63,12 @@ Nothing yet. Check back here during the tournament for important information.
 
 ### Judges
 
-- There are three (3) judges per round (5 in Semis and Finals). Please wait for
-  all judges before the round begins.
-- If you are assigned a round: push “{{button}}” to acknowledge the ballot as
-  soon as you receive the ballot.
-- If you are not assigned a round: report to the event judge lounge
+- There are three (3) judges per round (5 in Semis and Finals). Please confirm that all three judges see the same teams on their ballots before the round begins.
+- If you are assigned a round: push “{{button}}” as you receive the ballot.
+- If you are not assigned a round: report to the event judge standby room
   and wait until the TAB Room has released you. You will be released when all
   rounds have started. We may need to ask you to substitute for a missing
-  judge, so it is critical that you report to and remain in the judge lounge if
+  judge, so it is critical that you report to and remain in the judge standby room if
   you are not scheduled for a round.
 - You can be fined for not reporting to your room on time. If the TAB Room has
   to substitute a new/different judge for your assigned round, you will be
@@ -101,6 +100,8 @@ Judges: thank you! Tournaments do not exist without you!
 ### Before the Tournament
 
 - **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm
+- Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
+
 
 ### Before Rounds
 
@@ -282,7 +283,10 @@ and useless!
 | 26.0‑26.9 | you are not ready for this division/tournament                            |
 | Below 26  | you were offensive, ignorant, rude, or tried to cheat (MUST come to tab)  |
 
-Low-point wins (where the winning team has fewer points than the losing team) are allowed.|
+Low-point wins (where the winning team has fewer points than the losing team) are allowed.
+
+For our common speaker point guide, you can think of the score as ignoring the 2 at the beginning and seeing the other two numbers as your grade on a normal 100-point scale. For example, a 29.8 is like a 98 grade, which is an A+, and a 27.1 is like a 71 grade, which is a C-.
+
 
 ### No mavericks allowed
 

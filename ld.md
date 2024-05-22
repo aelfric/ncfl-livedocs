@@ -52,20 +52,20 @@ Nothing yet. Check back here during the tournament for important information.
 - **Topic** Resolved: In the United States, public K-12 schools ought to eliminate
   academic tracking.
 - Saturday rounds are DOUBLE-flighted.
-    - For rounds 1 through 4:
-        - Judges: if you do NOT have both A-flight debaters, but you do have
-          both B-flight debaters, you can let the B-flight debaters go first
-        - However: DO NOT MIX AND MATCH
-            - Flight 1 debaters MUST debate each other
-            - Flight 2 debaters MUST debate each other
-        - Judges: ONCE the first flight is done - move immediately to the next flight
-    - For round 5:
-        - Because the Coin Flip is pre-set to occur a specific time in each
-          Flight we cannot start Flight 2 early in Round 5.
-        - Students: Flight 1 should go to the floor immediately once Round 5 is
-          posted!
-    - All kids should go to the floor (Flight 1 + Flight 2) prior to Round Start
-      and those not debating go back to the Student Lounge once the Round Starts
+  - For rounds 1 through 4:
+    - Judges: if you do NOT have both A-flight debaters, but you do have
+      both B-flight debaters, you can let the B-flight debaters go first
+    - However: DO NOT MIX AND MATCH
+      - Flight 1 debaters MUST debate each other
+      - Flight 2 debaters MUST debate each other
+    - Judges: ONCE the first flight is done - move immediately to the next flight
+  - For round 5:
+    - Because the Coin Flip is pre-set to occur a specific time in each
+      Flight we cannot start Flight 2 early in Round 5.
+    - Students: Flight 1 should go to the floor immediately once Round 5 is
+      posted!
+  - All kids should go to the floor (Flight 1 + Flight 2) prior to Round Start
+    and those not debating go back to the Student Lounge once the Round Starts
 - Judges: Do NOT disclose your decision or provide oral critique - the decision
   and all comments go on the ballot.
 - Judges: Do NOT confer with the other judges in the round.
@@ -78,13 +78,13 @@ Nothing yet. Check back here during the tournament for important information.
 - Judges: once Pairings are posted, as soon as possible: (1) get to your room;
   and (2) access your ballot by hitting the “{{button}}” button (formerly known
   as “Start”) on the Flight 1 ballot immediately.
-    - If you end up running the Flight 2 first - that’s ok. You can click
-      {{button}} on the Flight 2 ballot and Tabroom can unstart Flight 1 for you.
-      You can then click {{button}} on the Flight 1 ballot once you run that
-      flight.
-    - We want judges to press the {{button}} (formerly known as the "Start
-      Button") on the Flight 1 ballot as soon as possible, so we know you are here,
-      and we do not need to find a substitute!
+  - If you end up running the Flight 2 first - that’s ok. You can click
+    {{button}} on the Flight 2 ballot and Tabroom can unstart Flight 1 for you.
+    You can then click {{button}} on the Flight 1 ballot once you run that
+    flight.
+  - We want judges to press the {{button}} (formerly known as the "Start
+    Button") on the Flight 1 ballot as soon as possible, so we know you are here,
+    and we do not need to find a substitute!
 - Judges: to be very clear: do not wait for the beginning of the Flight 1
   debate to press the {{button}} (formerly known as the "Start Button") . Press
   {{button}} on the Flight 1 ballot the moment you are on your way.
@@ -106,14 +106,14 @@ Nothing yet. Check back here during the tournament for important information.
 - Forfeit time is 10 minutes after the Round is set to start.
 - If you are not in your room - you will forfeit the round.
 - Just a Reminder: The use of computers, electronic storage, and retrieval devices, etc., is allowed in LD Rounds.
-    - Connectivity to any persons other than the competitors or judges in the
-      round is not allowed. Competitors violating this rule will be disqualified
-      from the competition.
+  - Connectivity to any persons other than the competitors or judges in the
+    round is not allowed. Competitors violating this rule will be disqualified
+    from the competition.
 
 ### Judges
 
 - For Lincoln-Douglas - there are three (3) judges per round (5 in Semis and Finals).
-    - Please wait for all judges before the round begins.
+- Please confirm that all three judges see the same teams on their ballots before the round begins.
 - We are very tight on judges - so please plan to judge all 5 rounds (10 flights) on Saturday.
 - If you are assigned a round: push “{{button}}” to acknowledge the ballot as
   soon as you are in the room and able. If it is a double flighted round, press
@@ -134,19 +134,20 @@ Nothing yet. Check back here during the tournament for important information.
 (All times in Central)
 
 | Round        | Pairings Released | In Room Time | Start Time |
-|--------------|-------------------|--------------|------------|
+| ------------ | ----------------- | ------------ | ---------- |
 | **Saturday** |                   |              |            |
-| 2            | 9:00AM            | 9:20AM       | 9:30AM     | 
-| 3            | 12:30PM           | 12:50PM      | 1:00PM     | 
-| 4            | 3:00PM            | 3:20PM       | 3:30PM     | 
-| 5            | 5:45PM            | 6:05PM       | 6:15PM     | 
+| 1            | 7:00AM            | 7:20AM       | 7:30AM     |
+| 2            | 9:00AM            | 9:20AM       | 9:30AM     |
+| 3            | 12:30PM           | 12:50PM      | 1:00PM     |
+| 4            | 3:00PM            | 3:20PM       | 3:30PM     |
+| 5            | 5:45PM            | 6:05PM       | 6:15PM     |
 | **Sunday**   |                   |              |
-| Play-In      | 7:00AM            | 7:20AM       | 7:30AM     | 
-| Dbl Octos    | 9:00AM            | 9:20AM       | 9:30AM     | 
-| Octo         | 11:00AM           | 11:20AM      | 11:30AM    | 
-| Quarts       | 1:00PM            | 1:20PM       | 1:30PM     | 
-| Semis        | 2:30PM            | 2:50PM       | 3:00PM     | 
-| Final        | 4:00PM            | 4:20PM       | 4:30PM     | 
+| Play-In      | 7:00AM            | 7:20AM       | 7:30AM     |
+| Dbl Octos    | 9:00AM            | 9:20AM       | 9:30AM     |
+| Octo         | 11:00AM           | 11:20AM      | 11:30AM    |
+| Quarts       | 1:00PM            | 1:20PM       | 1:30PM     |
+| Semis        | 2:30PM            | 2:50PM       | 3:00PM     |
+| Final        | 4:00PM            | 4:20PM       | 4:30PM     |
 
 ## Judge Notes and Expectations
 
@@ -164,7 +165,8 @@ A SUBSTITUTE JUDGE.**
 
 ### Before the Tournament
 
-- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm
+- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
+- Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
 
 ### Before Each Round
 
@@ -198,9 +200,9 @@ A SUBSTITUTE JUDGE.**
 - Quickly read any contested evidence you have not already reviewed that is crucial to your decision.
 - Confirm (verbally) that the sides listed on your ballots are correct.
 - Enter points (following the scale below) and a decision (there must be one winner and one loser).
-    - We are using tenths of points
-    - Points cannot be tied
-    - There are NO low point wins
+  - We are using tenths of points
+  - Points cannot be tied
+  - There are NO low point wins
 - Confirm your decision in Tabroom.com.
 - Write the winning SCHOOL and SIDE in your RFD on the Ballot. This helps the Tabroom ensure your decision is recorded
   correctly.
@@ -210,10 +212,10 @@ A SUBSTITUTE JUDGE.**
 - Please provide a reason for your decision on the Ballot so the debaters can improve their arguments and debate skills
   in the future!
 - If you need, you can complete comments later:
-    - For Lincoln-Douglas - all comments for Rounds 1-5 must be entered by 8:00
-      pm on Saturday. For Elimination Rounds, please work to have
-      all comments for each Elimination Round on the ballot within 20 minutes of
-      the round ending.
+  - For Lincoln-Douglas - all comments for Rounds 1-5 must be entered by 8:00
+    pm on Saturday. For Elimination Rounds, please work to have
+    all comments for each Elimination Round on the ballot within 20 minutes of
+    the round ending.
 
 ### Debate speaker point scale
 
@@ -227,7 +229,7 @@ and useless!
 **Low Point Wins are NOT Allowed in Lincoln-Douglas**
 
 |           | SPEAKER POINT GUIDE                                                       |
-|-----------|---------------------------------------------------------------------------|
+| --------- | ------------------------------------------------------------------------- |
 | 29.5‑30   | I wish I could frame your speeches – hard to imagine a better speaker     |
 | 29.1‑29.4 | you were consistently excellent                                           |
 | 28.8‑29.0 | you were effective and strategic, and made only minor mistakes            |
@@ -237,6 +239,8 @@ and useless!
 | 27.0‑27.2 | you advanced little in the debate or cost your team the round             |
 | 26.0‑26.9 | you are not ready for this division/tournament                            |
 | Below 26  | you were offensive, ignorant, rude, or tried to cheat (MUST come to tab)  |
+
+For our common speaker point guide, you can think of the score as ignoring the 2 at the beginning and seeing the other two numbers as your grade on a normal 100-point scale. For example, a 29.8 is like a 98 grade, which is an A+, and a 27.1 is like a 71 grade, which is a C-.
 
 ### Forfeits
 
@@ -284,7 +288,7 @@ absorbed, not transferred to other activities.
 Lincoln-Douglas:
 
 | Time     | Speech                           |
-|----------|----------------------------------|
+| -------- | -------------------------------- |
 | 6 minute | Affirmative Constructive         |
 | 3 minute | Cross-examination by negative    |
 | 7 minute | Negative Constructive            |
@@ -333,7 +337,7 @@ issues:
 1. Per the Bylaws, Debaters MUST read complete citations ONLY if requested by the
    opponent.
 2. If a debater/team claims evidence is of low quality, from a disreputable
-   source, uses a flawed methodology, etc. - you could decide this issue in the
+   source, uses a flawed methodology, etc. - you should decide this issue in the
    course of the debate based on the arguments made by the teams. You can also
    read the evidence if you would like.
 3. If a debater/team cannot produce evidence they read when requested by their
