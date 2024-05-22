@@ -12,7 +12,7 @@ mustache:
 
 **PF Judge Standby Room**:
 
-- Saturday: Hilton Chicago - TBD
+- Saturday: Hilton Chicago - Normandie Lounge (2nd)
 - Sunday: Palmer House - Grand Ballroom (4th Floor)
 
 **PF Tab Room**:
@@ -90,14 +90,14 @@ Judges: thank you! Tournaments do not exist without you!
 
 ### Before the Tournament
 
-- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm
+- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
 - Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
 
 ### Before Rounds
 
 - Move quickly to rounds – strive to be sitting down in round 10 minutes before
   round start time!
-- If not scheduled - please wait in the judges’ lounge until “released.” ONLY
+- If not scheduled - please wait in the judges’ standby room until “released.” ONLY
   THE ASSIGNED JUDGES MAY JUDGE THE DEBATE. YOU MAY NOT (NEVER EVER) ALLOW
   SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.
 - If you are not scheduled and not used as replacement, do NOT observe other rounds
@@ -122,9 +122,9 @@ Judges: thank you! Tournaments do not exist without you!
 - RFDs should be given but kept short. There is no need to write an elaborately
   long ballot.
 - Your comments are a wonderful way to help students and coaches get constructive, 
-  productive, educational feedback. Please provide robust comments for all competitors.  
+  productive, educational feedback. Please provide robust comments for all competitors.
   Remember: you are more than just a judge this weekend: you’re an educator, too. 
-- Additionally, and this is a new one this year, but as this has been an issue at other tournaments 
+- Additionally, as this has been an issue at other tournaments 
   throughout the country: please  write your comments yourself and do not use AI generators to do it for you. 
   These awesome kids took their time to create special presentations for you, so please take a few 
   moments to write some personal thoughts for them, too.

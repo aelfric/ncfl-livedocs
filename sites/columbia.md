@@ -1,1 +1,4 @@
-**Network**: Connect to **ColumbiaEvents** and use the password **KmwJT39pu??**
+**Network**:
+
+- **Network Name**: ColumbiaEvents
+- **Password**: KmwJT39pu??

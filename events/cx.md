@@ -13,8 +13,9 @@ mustache:
 **Policy Judge Standby Room**:
 
 - Saturday: Palmer House - Empire Ballroom
-- Sunday, 7am - 2pm:  Hilton Chicago, Normandie Lounge (2nd Floor)
-- Sunday, 2:30 - 6pm:  Hilton Chicago, Astoria Room (3rd Floor)
+- Sunday:
+  - 7am - 2pm:  Hilton Chicago - Normandie Lounge (2nd Floor)
+  - 2:30 - 6pm:  Hilton Chicago - Astoria Room (3rd Floor)
 
 **Policy Tab Room**:
 
@@ -105,7 +106,7 @@ Judges: thank you! Tournaments do not exist without you!
 
 ### Before the Tournament
 
-- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm
+- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
 - Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
 
 
@@ -126,7 +127,7 @@ Judges: thank you! Tournaments do not exist without you!
 - If you did NOT receive a blast message for your round assignment:
     - Double-check the pairings to be sure you are unassigned!
     - Judges who are not assigned a round are on standby and must be in the
-      judges’ lounge at In Room Time for possible substitutions.
+      judges’ standby room at In Room Time for possible substitutions.
     - You can be fined if we need you and cannot find you.
 
 ### During Rounds
@@ -149,9 +150,9 @@ Judges: thank you! Tournaments do not exist without you!
 - DISCLOSURE OF DECISIONS IS NOT ALLOWED FOR ANY REASON.
 - Complete comments later - they remain open until the end of the tournament
 - Your comments are a wonderful way to help students and coaches get constructive, 
-  productive, educational feedback. Please provide robust comments for all competitors.  
+  productive, educational feedback. Please provide robust comments for all competitors.
   Remember: you are more than just a judge this weekend: you’re an educator, too. 
-- Additionally, and this is a new one this year, but as this has been an issue at other tournaments 
+- Additionally, as this has been an issue at other tournaments 
   throughout the country: please  write your comments yourself and do not use AI generators to do it for you. 
   These awesome kids took their time to create special presentations for you, so please take a few 
   moments to write some personal thoughts for them, too.
@@ -199,7 +200,7 @@ described below.
   (unless opponents have met previously), the round begins with a coin flip.
   The winner of the flip may choose to affirm or negate. If the teams met in
   prelims, they will uphold the opposite side in elims.
-- NSDA Campus/Tabroom.com will manage the coin flip. Five minutes after a
+- Tabroom.com will manage the coin flip. Five minutes after a
   pairing is released, the teams will be notified who won the flip, enabling
   that team to make their selection. Debaters must check their email for the
   tabroom link! If they fail to choose within 5 minutes, the other team will

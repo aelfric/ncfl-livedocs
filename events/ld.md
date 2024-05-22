@@ -12,7 +12,7 @@ mustache:
 
 **LD Judge Standby Room**:
 
-- Saturday: Hilton Chicago - TBD
+- Saturday: Hilton Chicago - Normandie Lounge (2nd Floor)
 - Sunday: Palmer House - Red Lacquer Room (4th Floor)
 
 **LD Tab Room**:
@@ -125,11 +125,11 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
   soon as you are in the room and able. If it is a double flighted round, press
   the {{button}} (formerly known as the "Start Button") for the Flight 1
   ballot.
-- If you are not assigned a round: report to the Judge Lounge and wait until
+- If you are not assigned a round: report to the Judge Standby Room and wait until
   you have been released by the TAB Room Staff. You will be released when all
   rounds have started.
 - We may need to ask you to substitute for a missing judge, so it is critical
-  that you report to and remain in the Judge Lounge if you are not scheduled
+  that you report to and remain in the Judge Standby Room if you are not scheduled
   for a round.
 - **You can be fined for not reporting to your room on time**. If the TAB Room
   has to substitute a new/different judge for your assigned round, you will be
@@ -157,7 +157,7 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
 
 ## Judge Notes and Expectations
 
-Judges not assigned a round are on standby and must be in the Judges Lounge when rounds are posted for possible
+Judges not assigned a round are on standby and must be in the Judges Standby Room when rounds are posted for possible
 substitutions.
 
 We are very tight on judges, so please be prepared to judge all five rounds (10 flights) on Saturday.
@@ -223,9 +223,9 @@ A SUBSTITUTE JUDGE.**
     all comments for each Elimination Round on the ballot within 20 minutes of
     the round ending.
 - Your comments are a wonderful way to help students and coaches get constructive, 
-  productive, educational feedback. Please provide robust comments for all competitors.  
+  productive, educational feedback. Please provide robust comments for all competitors.
   Remember: you are more than just a judge this weekend: you’re an educator, too. 
-- Additionally, and this is a new one this year, but as this has been an issue at other tournaments 
+- Additionally, as this has been an issue at other tournaments 
   throughout the country: please  write your comments yourself and do not use AI generators to do it for you. 
   These awesome kids took their time to create special presentations for you, so please take a few 
   moments to write some personal thoughts for them, too.

@@ -77,7 +77,7 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
 
 ### Palmer House (Saturday - Extemporaneous Speaking)
 
-```{includ="sites/palmer-house.md"}
+```{include="sites/palmer-house.md"}
 
 ```
 
