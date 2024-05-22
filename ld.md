@@ -216,6 +216,13 @@ A SUBSTITUTE JUDGE.**
     pm on Saturday. For Elimination Rounds, please work to have
     all comments for each Elimination Round on the ballot within 20 minutes of
     the round ending.
+- Your comments are a wonderful way to help students and coaches get constructive, 
+  productive, educational feedback. Please provide robust comments for all competitors.  
+  Remember: you are more than just a judge this weekend: you’re an educator, too. 
+- Additionally, and this is a new one this year, but as this has been an issue at other tournaments 
+  throughout the country: please  write your comments yourself and do not use AI generators to do it for you. 
+  These awesome kids took their time to create special presentations for you, so please take a few 
+  moments to write some personal thoughts for them, too.
 
 ### Debate speaker point scale
 
