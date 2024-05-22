@@ -28,17 +28,16 @@ mustache:
 
 ```
 
-
 ## Announcements / Updates
 
 Nothing yet. Check back here during the tournament for important information.
 
 ## Tournament Sites and Network Information
+
 See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
 
-_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday.  Wristbands
+_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday. Wristbands
 are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
-
 
 ### Hilton Chicago (Saturday)
 
@@ -69,20 +68,25 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
 (All times in Central)
 
 | Round        | Pairings Released | In Room Time | Start Time |
-|--------------|-------------------|--------------|------------|
+| ------------ | ----------------- | ------------ | ---------- |
 | **Saturday** |
-| 1            | 7:00AM            | 7:20AM       | 7:30AM     | 
-| 2            | 9:00AM            | 9:20AM       | 9:30AM     | 
-| 3            | 12:30PM           | 12:50PM      | 1:00PM     | 
-| 4            | 3:00PM            | 3:20PM       | 3:30PM     | 
-| 5            | 5:45PM            | 6:05PM       | 6:15PM     | 
+| 1A           | 7:00AM            | 7:20AM       | 7:30AM     |
+| 1B           | 8:00AM            | 8:20AM       | 8:30AM     |
+| 2A           | 9:00AM            | 9:20AM       | 9:30AM     |
+| 2B           | 10:00AM           | 10:20AM      | 10:30AM    |
+| 3A           | 12:30PM           | 12:50PM      | 1:00PM     |
+| 3B           | 1:30PM            | 1:50PM       | 2:00PM     |
+| 4A           | 3:00PM            | 3:20PM       | 3:30PM     |
+| 4B           | 4:00PM            | 4:20PM       | 4:30PM     |
+| 5A           | 5:45PM            | 6:05PM       | 6:15PM     |
+| 5B           | 6:45PM            | 7:05PM       | 7:15PM     |
 | **Sunday**   |
-| Play-In      | 7:00AM            | 7:20AM       | 7:30AM     | 
-| Dbl Octos    | 9:00AM            | 9:20AM       | 9:30AM     | 
-| Octos        | 11:00AM           | 11:20AM      | 11:30AM    | 
-| Quarts       | 1:00PM            | 1:20PM       | 1:30PM     | 
-| Semis        | 2:30PM            | 2:50PM       | 3:00PM     | 
-| Finals       | 4:00PM            | 4:20PM       | 4:30PM     | 
+| Play-In      | 7:00AM            | 7:20AM       | 7:30AM     |
+| Dbl Octos    | 9:00AM            | 9:20AM       | 9:30AM     |
+| Octos        | 11:00AM           | 11:20AM      | 11:30AM    |
+| Quarts       | 1:00PM            | 1:20PM       | 1:30PM     |
+| Semis        | 2:30PM            | 2:50PM       | 3:00PM     |
+| Finals       | 4:00PM            | 4:20PM       | 4:30PM     |
 
 ## Judge Notes and Expectations
 
@@ -108,10 +112,10 @@ Judges: thank you! Tournaments do not exist without you!
   NOT to switch competitors. Confirm the teams and sides both before and after
   the round.
 - For round 5:
-    - Because the Coin Flip is pre-set to occur a specific time in each
-      Flight we cannot start Flight 2 early in Round 5.
-    - Students: Flight 1 should go to the floor immediately once Round 5 is
-      posted!
+  - Because the Coin Flip is pre-set to occur a specific time in each
+    Flight we cannot start Flight 2 early in Round 5.
+  - Students: Flight 1 should go to the floor immediately once Round 5 is
+    posted!
 
 ### After Rounds
 
@@ -121,12 +125,12 @@ Judges: thank you! Tournaments do not exist without you!
   flight begins.
 - RFDs should be given but kept short. There is no need to write an elaborately
   long ballot.
-- Your comments are a wonderful way to help students and coaches get constructive, 
+- Your comments are a wonderful way to help students and coaches get constructive,
   productive, educational feedback. Please provide robust comments for all competitors.
-  Remember: you are more than just a judge this weekend: you’re an educator, too. 
-- Additionally, as this has been an issue at other tournaments 
-  throughout the country: please  write your comments yourself and do not use AI generators to do it for you. 
-  These awesome kids took their time to create special presentations for you, so please take a few 
+  Remember: you are more than just a judge this weekend: you’re an educator, too.
+- Additionally, as this has been an issue at other tournaments
+  throughout the country: please write your comments yourself and do not use AI generators to do it for you.
+  These awesome kids took their time to create special presentations for you, so please take a few
   moments to write some personal thoughts for them, too.
 
 ### Rules Violations
@@ -197,7 +201,7 @@ always goes first.
 ### Structure of a Round
 
 | Speech              | Time  |
-|---------------------|-------|
+| ------------------- | ----- |
 | 1st Pro             | 4 min |
 | 1st Con             | 4 min |
 | Crossfire           | 3 min |
@@ -222,7 +226,7 @@ to or may prefer, so that there is a fair standard across all rounds. Plus, if w
 meaningful feedback instead of being arbitrary and useless!
 
 | Points          | Meaning                                                                                  |
-|-----------------|------------------------------------------------------------------------------------------|
+| --------------- | ---------------------------------------------------------------------------------------- |
 | 29.5&#8209;30   | I wish I could frame your speeches; your strategic decision-making belongs in a textbook |
 | 29.1&#8209;29.4 | you were consistently excellent                                                          |
 | 28.8&#8209;29.0 | you were effective and strategic, and made only minor mistakes                           |
@@ -250,7 +254,6 @@ Personal values of the judges should not influence the decision.
 ```{include="equity-contact.md"}
 
 ```
-
 
 ```{include="general.md"}
 

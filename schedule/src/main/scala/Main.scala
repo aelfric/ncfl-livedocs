@@ -3,8 +3,10 @@ import org.apache.commons.csv.{CSVFormat, CSVParser}
 import java.io.{FileReader, Reader}
 import java.time.format.DateTimeFormatter
 import java.time.{LocalDateTime, LocalTime, MonthDay}
+import java.time.temporal.TemporalAmount
 import scala.io.Source
 import scala.jdk.CollectionConverters._
+import java.time.Duration
 
 object Main extends App {
   private val in: Reader = Source.fromResource("2024-schedule.csv").bufferedReader()
@@ -60,7 +62,7 @@ object Main extends App {
   println("Policy Debate")
   debateToMarkdown(cx)
   println("Public Forum")
-  debateToMarkdown(pf)
+  debateToMarkdown(addFlights(pf))
 
   con map println
 
@@ -74,6 +76,16 @@ object Main extends App {
     fullSched filter (s =>
       s.events.headOption.map(_.category).contains(category)
     )
+
+  private def addFlights(sched: Iterable[Schedule]) = 
+    sched.flatMap(s => if(s.events.head.round.toIntOption.nonEmpty) List(flightA(s), flightB(s, Duration.ofHours(1)) ) else List(s))
+
+
+  def flightA(sched: Schedule, t: TemporalAmount = Duration.ofMillis(0L)) = Schedule(sched.time, events = sched.events.map(e => 
+    Event(e.category, e.round + "A")))
+
+  def flightB(sched: Schedule, t: TemporalAmount) = Schedule(sched.time.plus(t), events = sched.events.map(e => 
+    Event(e.category, e.round + "B")))
 
   private def debateToMarkdown(sched: Iterable[Schedule]) =
     for {
