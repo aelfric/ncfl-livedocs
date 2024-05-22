@@ -23,10 +23,10 @@ mustache:
 
 **Policy Tab Room Support** (text only): {{cx_phone}} or email [{{cx_email}}](email)
 
-**Equity Advocates**
+```{include="equity-contact.md"}
 
-- You can text {{equity_phone}} and ask to speak to an Equity Advocate.
-- You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
+```
+
 
 ## Announcements / Updates
 
@@ -310,6 +310,11 @@ Personal values of the judges should not influence the decision.
 ```{include="equity.md"}
 
 ```
+
+```{include="equity-contact.md"}
+
+```
+
 
 ```{include="general.md"}
 

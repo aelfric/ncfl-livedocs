@@ -33,10 +33,10 @@ mustache:
 
 **Speech Tab Room Support** (text only): {{speech_phone}} or email: [{{speech_email}}](email)
 
-**Equity Advocates**
+```{include="equity-contact.md"}
 
-* You can text {{equity_phone}} and ask to speak to an Equity Advocate.
-* You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
+```
+
 
 ## Announcements / Updates
 
@@ -393,6 +393,10 @@ Speech Tab Room directly, through the text line at {{speech_phone}} or
 [Critique Sheet and Judging Criteria for Original Oratory (Last updated 2019)](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncfl_master_critique_oo_for_2019.pdf)
 
 ```{include="equity.md"}
+
+```
+
+```{include="equity-contact.md"}
 
 ```
 

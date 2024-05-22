@@ -22,10 +22,10 @@ mustache:
 
 **PF Tab Room Support** (text only): {{pf_phone}} or email [{{pf_email}}](email)
 
-**Equity Advocates**
+```{include="equity-contact.md"}
 
-- You can text {{equity_phone}} and ask to speak to an Equity Advocate.
-- You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
+```
+
 
 ## Announcements / Updates
 
@@ -238,6 +238,11 @@ Personal values of the judges should not influence the decision.
 ```{include="equity.md"}
 
 ```
+
+```{include="equity-contact.md"}
+
+```
+
 
 ```{include="general.md"}
 
