@@ -91,11 +91,3 @@ themselves as appropriate prior to the presentation beginning.
 
 In the event that there is a concern about the content of a speech, please
 refer to the Open Door Policy or contact an Equity Advocate.
-
-### Contacting an Equity Advocate
-
-* You can contact an Equity Advocate directly by filling out this form: [NCFL
-  Equity Concern Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLScQK8AJkpY17L9k4sInTWZq2NgoPSTnBl28T1fL7NymOAaTDg/viewform?usp=sf_link)
-* You can text (872) 221-3041 and ask to speak to an Equity Advocate.
-* You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to
-  an Equity Advocate.

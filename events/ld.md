@@ -22,6 +22,7 @@ mustache:
 
 **LD Tab Room Support** (text only): {{ld_phone}} or email [{{ld_email}}](email)
 
+**Equity Advocates**:
 ```{include="equity-contact.md"}
 
 ```
@@ -32,6 +33,11 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Tournament Sites and Network Information
 See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
+
+_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday.  Wristbands
+are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
+
+
 
 ### Hilton Chicago (Saturday)
 
@@ -363,6 +369,8 @@ Personal values of the judges should not influence the decision.
 ```{include="equity.md"}
 
 ```
+
+### Contacting an Equity Advocate
 
 ```{include="equity-contact.md"}
 

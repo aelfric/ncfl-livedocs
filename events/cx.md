@@ -23,6 +23,8 @@ mustache:
 
 **Policy Tab Room Support** (text only): {{cx_phone}} or email [{{cx_email}}](email)
 
+**Equity Advocates**:
+
 ```{include="equity-contact.md"}
 
 ```
@@ -34,6 +36,9 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Tournament Sites and Network Information
 See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
+
+_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday.  Wristbands
+are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
 
 ### Palmer House Hilton (Saturday)
 
@@ -310,6 +315,8 @@ Personal values of the judges should not influence the decision.
 ```{include="equity.md"}
 
 ```
+
+### Contacting an Equity Advocate
 
 ```{include="equity-contact.md"}
 

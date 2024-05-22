@@ -33,6 +33,8 @@ mustache:
 
 **Speech Tab Room Support** (text only): {{speech_phone}} or email: [{{speech_email}}](email)
 
+**Equity Advocates**:
+
 ```{include="equity-contact.md"}
 
 ```
@@ -44,6 +46,10 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Tournament Sites and Network Information
 See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
+
+_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday.  Wristbands
+are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
+
 
 ### Columbia College (Saturday - Declamation)
 
@@ -395,6 +401,8 @@ Speech Tab Room directly, through the text line at {{speech_phone}} or
 ```{include="equity.md"}
 
 ```
+
+### Contacting an Equity Advocate
 
 ```{include="equity-contact.md"}
 
