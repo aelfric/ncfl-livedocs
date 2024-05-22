@@ -1,3 +1,1 @@
-**Map**: [TODO](#)
-
-**Network**: TBD
+**Network**: Connect to **ColumbiaEvents** and use the password **KmwJT39pu??**

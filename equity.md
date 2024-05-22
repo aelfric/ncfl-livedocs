@@ -89,7 +89,7 @@ The intent here is to allow audience members who cannot listen to these types
 of arguments for their own deeply personal reasons to be able to remove
 themselves as appropriate prior to the presentation beginning.
 
-· In the event that there is a concern about the content of a speech, please
+In the event that there is a concern about the content of a speech, please
 refer to the Open Door Policy or contact an Equity Advocate.
 
 ### Contacting an Equity Advocate

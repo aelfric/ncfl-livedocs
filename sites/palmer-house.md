@@ -1,4 +1,2 @@
 
-**Map**: [TODO](#)
-
-**Network**: TBD
+**Network**: Connect to **Hilton Honors Meeting** and use the meeting code **NCF**

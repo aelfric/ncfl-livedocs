@@ -31,7 +31,8 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Tournament Sites
+## Tournament Sites and Network Information
+See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
 
 ### Hilton Chicago (Saturday)
 
@@ -237,10 +238,6 @@ Personal values of the judges should not influence the decision.
 ```{include="equity.md"}
 
 ```
-
-## Locations and Maps
-
-See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html)
 
 ```{include="general.md"}
 

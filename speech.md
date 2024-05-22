@@ -42,7 +42,8 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Tournament Sites
+## Tournament Sites and Network Information
+See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
 
 ### Columbia College (Saturday - Declamation)
 
@@ -394,10 +395,6 @@ Speech Tab Room directly, through the text line at {{speech_phone}} or
 ```{include="equity.md"}
 
 ```
-
-## Locations and Maps
-
-See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html)
 
 ```{include="general.md"}
 
