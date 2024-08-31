@@ -1,42 +1,55 @@
 ---
-title: 2023 NCFL Public Forum Debate Live Doc
+title: 2024 NCFL Public Forum Debate Live Doc
 mustache:
   - vars.yaml
 ---
 
 ## Contact Information
 
-**PF Judge Standby Room**: 
-- Saturday: Trinity High School - Convocation Hall (2nd Floor of Communication Arts Building) 
-- Sunday: Galt House - Grand Ballroom A
+```{include="tabroom-notifs.md"}
 
-**PF Tab Room**: 
-- Saturday: Trinity High School - Welcome Center
-- Sunday: Galt House - Brown (2nd Floor)
+```
 
-**PF Tab Room Support** (text only): [{{pf_phone}}](#) or email [{{pf_email}}](email)
+**PF Judge Standby Room**:
 
-**Equity Advocates**
+- Saturday: Hilton Chicago - Normandie Lounge (2nd)
+- Sunday: Palmer House - Grand Ballroom (4th Floor)
 
-- You can text [{{equity_phone}}](#) and ask to speak to an Equity Advocate.
-- You can also email [ncflequityadvocates@gmail.com](email) and ask to speak to an Equity Advocate.
+**PF Tab Room**:
+
+- Saturday: Hilton Chicago - Mobley Room (LL)
+- Sunday: Palmer House - Harvard Room (3rd Floor)
+
+**PF Tab Room Support** (text only): {{pf_phone}} or email [{{pf_email}}](email)
+
+**Equity Advocates**:
+
+```{include="equity-contact.md"}
+
+```
 
 ## Announcements / Updates
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Tournament Sites
+## Tournament Sites and Network Information
 
-### Trinity High School (Saturday)
-**Map**: <https://www.ncflnationals.org/uploads/7/3/2/8/7328308/complete_trinity_maps_-_cfl.pdf/>
-**Network**: The student network is open.  No extra steps or passwords are required to 
-connect.
+See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
 
-### Galt House (Sunday)
-**Map**: <https://www.cflnationals.org/uploads/7/3/2/8/7328308/galt_house_conference_space.pdf/>
-**Network**: There is no splash page and no password required for the Wi-Fi. Attendees will
-simply go to their device Wi-Fi settings and select either GH-GUEST or
-GH-CONFERENCE and they will automatically connect.
+_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday. Wristbands
+are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
+
+### Hilton Chicago (Saturday)
+
+```{include="sites/hilton.md"}
+
+```
+
+### Palmer House Hilton (Sunday)
+
+```{include="sites/palmer-house.md"}
+
+```
 
 ## Round Procedures
 
@@ -48,33 +61,47 @@ GH-CONFERENCE and they will automatically connect.
   Flight 1 is not, the Flight 2 may debate first. Do NOT mix flights.
 - There are 3 judges in every round + 2 teams. Please wait for all three judges
 - FORFEIT is 10 mins after start of round. Tab Chairs are THE ONLY ONES WHO CAN
-  AWARD A FORFEIT. TEXT US AT [{{pf_phone}}](#).
+  AWARD A FORFEIT. TEXT US AT {{pf_phone}}.
 
 ## Schedule
 
+(All times in Central)
+
 | Round        | Pairings Released | In Room Time | Start Time |
 | ------------ | ----------------- | ------------ | ---------- |
-| **Saturday**             |
-| Round 1      | 7:00 AM           | 7:20 AM      | 7:30 AM    |
-| Round 2      | 9:00 AM           | 9:20 AM      | 9:30 AM    |
-| Round 3      | 12:00 PM          | 12:20 PM     | 12:30 PM   |
-| Round 4      | 2:30 PM           | 2:50 PM      | 3:00 PM    |
-| Round 5      | 5:00 PM           | 5:20 PM      | 5:30 PM    |
-| **Sunday**               |
-| Play-In      | 7:00 AM           | 7:20 AM      | 7:30 AM    |
-| D-Octs       | 9:00 AM           | 9:20 AM      | 9:30 AM    |
-| Octs         | 11:00 AM          | 11:20 AM     | 11:30 AM   |
-| Quart        | 1:00 PM           | 1:20 PM      | 1:30 PM    |
-| Semis        | 2:30 PM           | 2:50 PM      | 3:00 PM    |
-| Finals       | 4:00 PM           | 4:20 PM      | 4:30 PM    |
+| **Saturday** |
+| 1A           | 7:00AM            | 7:20AM       | 7:30AM     |
+| 1B           | 8:00AM            | 8:20AM       | 8:30AM     |
+| 2A           | 9:00AM            | 9:20AM       | 9:30AM     |
+| 2B           | 10:00AM           | 10:20AM      | 10:30AM    |
+| 3A           | 12:30PM           | 12:50PM      | 1:00PM     |
+| 3B           | 1:30PM            | 1:50PM       | 2:00PM     |
+| 4A           | 3:00PM            | 3:20PM       | 3:30PM     |
+| 4B           | 4:00PM            | 4:20PM       | 4:30PM     |
+| 5A           | 5:45PM            | 6:05PM       | 6:15PM     |
+| 5B           | 6:45PM            | 7:05PM       | 7:15PM     |
+| **Sunday**   |
+| Play-In      | 7:00AM            | 7:20AM       | 7:30AM     |
+| Dbl Octos    | 9:00AM            | 9:20AM       | 9:30AM     |
+| Octos        | 11:00AM           | 11:20AM      | 11:30AM    |
+| Quarts       | 1:00PM            | 1:20PM       | 1:30PM     |
+| Semis        | 2:30PM            | 2:50PM       | 3:00PM     |
+| Finals       | 4:00PM            | 4:20PM       | 4:30PM     |
 
 ## Judge Notes and Expectations
+
+Judges: thank you! Tournaments do not exist without you!
+
+### Before the Tournament
+
+- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
+- Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
 
 ### Before Rounds
 
 - Move quickly to rounds – strive to be sitting down in round 10 minutes before
   round start time!
-- If not scheduled - please wait in the judges’ lounge until “released.” ONLY
+- If not scheduled - please wait in the judges’ standby room until “released.” ONLY
   THE ASSIGNED JUDGES MAY JUDGE THE DEBATE. YOU MAY NOT (NEVER EVER) ALLOW
   SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.
 - If you are not scheduled and not used as replacement, do NOT observe other rounds
@@ -98,6 +125,13 @@ GH-CONFERENCE and they will automatically connect.
   flight begins.
 - RFDs should be given but kept short. There is no need to write an elaborately
   long ballot.
+- Your comments are a wonderful way to help students and coaches get constructive,
+  productive, educational feedback. Please provide robust comments for all competitors.
+  Remember: you are more than just a judge this weekend: you’re an educator, too.
+- Additionally, as this has been an issue at other tournaments
+  throughout the country: please write your comments yourself and do not use AI generators to do it for you.
+  These awesome kids took their time to create special presentations for you, so please take a few
+  moments to write some personal thoughts for them, too.
 
 ### Rules Violations
 
@@ -107,26 +141,25 @@ described below.
 
 1. Per the Bylaws, Debaters MUST read complete citations ONLY if requested by the
    opponent.
-1. If a debater/team claims evidence is of low quality, from a disreputable
-   source, uses a flawed methodology, etc. - you could decide this issue in the
+2. If a debater/team claims evidence is of low quality, from a disreputable
+   source, uses a flawed methodology, etc. - you should decide this issue in the
    course of the debate based on the arguments made by the teams. You can also
    read the evidence if you would like.
-1. If a debater/team cannot produce evidence they read when requested by their
-   opponent- you could disregard the evidence in your decision if you like.
-1. If a debater/team alleges that their opponent’s evidence is fabricated - you
+3. If a debater/team cannot produce evidence they read when requested by their
+   opponent - you can disregard the evidence in your decision if you like.
+4. If a debater/team alleges that their opponent’s evidence is fabricated - you
    can request to review the evidence and decide how it impacts your decision.
 
 You can consult the TAB Room for help resolving these issues, but we cannot
 make the decision for you.
-
 
 ### Decision Timer
 
 Judges have **55 minutes** for each flight from the ROUND START TIME (not when
 you click start, not when you really start, but the scheduled start time) to
 submit their decisions for each flight. This countdown is visible on the
-ballot. This rule exists a) to keep us on schedule, b) to encourage debaters to
-minimize wasted time within rounds, and c) to prevent judges from overanalyzing
+ballot. This rule exists (a) to keep us on schedule, (b) to encourage debaters to
+minimize wasted time within rounds, and (c) to prevent judges from over-analyzing
 every piece of evidence in a round.
 
 This should create an incentive for all participants to start on time (or
@@ -151,9 +184,9 @@ rest of the tournament to include your comments.
   will not change assignments, except if you are volunteering for extra rounds!
 
 - Note that first year out judges cannot judge elimination debates under any
-  circumstances. If you are a 2022 high school graduate assigned to elimination
+  circumstances. If you are a {{last_year}} high school graduate assigned to elimination
   round pools, find a willing substitute from your diocese or your diocese will
-  be fined - and make this change with the Tabroom Staff on Saturday. For the 
+  be fined - and make this change with the Tabroom Staff on Saturday. For the
   purpose of this rule, the Play-In round counts as a prelim.
 
 ## Event Rules
@@ -162,7 +195,7 @@ rest of the tournament to include your comments.
 
 **Please note** in NCFL, there is NO coin flip for sides or for speaker order.
 There is only a coin flip for sides in Round 5 and in any elims when teams have
-not met before. The coin flip is managed automatically in tabroom.com. Pro 
+not met before. The coin flip is managed automatically in tabroom.com. Pro
 always goes first.
 
 ### Structure of a Round
@@ -187,10 +220,13 @@ always goes first.
 
 ### Debate Speaker Point Scale
 
-Speaker points are used to give a holistic measurement of the effectiveness of the debater’s participation in the round - speaking, strategy, decorum, etc. Judges must follow the speaker point scale, regardless of what they are used to or may prefer, so that there is a fair standard across all rounds. Plus, if we have a standard, points provide meaningful feedback instead of being arbitrary and useless!
+Speaker points are used to give a holistic measurement of the effectiveness of the debater’s participation in the
+round - speaking, strategy, decorum, etc. Judges must follow the speaker point scale, regardless of what they are used
+to or may prefer, so that there is a fair standard across all rounds. Plus, if we have a standard, points provide
+meaningful feedback instead of being arbitrary and useless!
 
-| Points    | Meaning                                                                                  |
-| --------- | ---------------------------------------------------------------------------------------- |
+| Points          | Meaning                                                                                  |
+| --------------- | ---------------------------------------------------------------------------------------- |
 | 29.5&#8209;30   | I wish I could frame your speeches; your strategic decision-making belongs in a textbook |
 | 29.1&#8209;29.4 | you were consistently excellent                                                          |
 | 28.8&#8209;29.0 | you were effective and strategic, and made only minor mistakes                           |
@@ -199,22 +235,25 @@ Speaker points are used to give a holistic measurement of the effectiveness of t
 | 27.3&#8209;27.7 | you missed major things and were hard to follow                                          |
 | 27.0&#8209;27.2 | you advanced little in the debate or cost your team the round                            |
 | 26.0&#8209;26.9 | you are not ready for this division/tournament                                           |
-| Below 26  | you were offensive, ignorant, rude, or tried to cheat (Judge MUST come to tab)           |
+| Below 26        | you were offensive, ignorant, rude, or tried to cheat (Judge MUST come to tab)           |
 
+For our common speaker point guide, you can think of the score as ignoring the 2 at the beginning and seeing the other two numbers as your grade on a normal 100-point scale. For example, a 29.8 is like a 98 grade, which is an A+, and a 27.1 is like a 71 grade, which is a C-.
 
 #### Judge Reminder
 
 Good judges make decisions only on what was debated by the contestants in the
 round. The judges should distance themselves from the content of the debate.
-Personal values of the judges should not influence the decision. 
+Personal values of the judges should not influence the decision.
 
 ```{include="equity.md"}
 
 ```
 
-## Locations and Maps
+### Contacting an Equity Advocate
 
-See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html)
+```{include="equity-contact.md"}
+
+```
 
 ```{include="general.md"}
 

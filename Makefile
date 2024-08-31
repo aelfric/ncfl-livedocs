@@ -1,6 +1,23 @@
-files := speech.md pf.md ld.md cx.md
+INCLUDE_FILES = $(wildcard *.md sites/*.md vars.yaml)
+pandoc =  /home/fricc/.local/bin/pandoc -s --toc -F include-filter-exe -F pandoc-mustache
+docx_outputs = output/docx/pf.docx output/docx/ld.docx output/docx/cx.docx output/docx/speech.docx
+html_outputs = output/html/pf.html output/html/ld.html output/html/cx.html output/html/speech.html
 
-render:
-	for input in $(files); do\
-		/home/fricc/.local/bin/pandoc -s --toc -F include-filter-exe -F pandoc-mustache -F sms-links $${input} -o output/$${input}.docx;\
-	done 
+render: $(docx_outputs) $(html_outputs)
+
+$(docx_outputs): output/docx/%.docx: events/%.md $(INCLUDE_FILES) output/docx
+	$(pandoc) $< -o $@
+
+$(html_outputs): output/html/%.html: events/%.md $(INCLUDE_FILES) output/html 
+	$(pandoc) $< -o $@
+
+output/html:
+	mkdir -p $@
+
+output/docx:
+	mkdir -p $@
+
+clean:
+	rm -r output
+
+.PHONY: clean

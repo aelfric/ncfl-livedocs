@@ -5,3 +5,8 @@ toc.html
 .vscode/tasks.json
 *.html
 output/
+target/
+.bloop/
+.metals/
+.bsp/
+.idea/
