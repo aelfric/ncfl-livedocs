@@ -51,7 +51,7 @@ _All_ students, judges, observers, volunteers, and staff will need wristbands to
 are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
 
 
-### Columbia College (Saturday - Declamation)
+### Columbia College (Saturday - Duo Interp)
 
 ```{include="sites/columbia.md"}
 
@@ -63,13 +63,13 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
 
 ```
 
-### East-West University (Saturday - Duo Interp)
+### East-West University (Saturday - OI)
 
 ```{include="sites/east-west.md"}
 
 ```
 
-### Jones College Prep (Saturday - Drama and OI)
+### Jones College Prep (Saturday - Dec and Drama)
 
 ```{include="sites/jones.md"}
 
@@ -86,6 +86,33 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
 ```{include="sites/hilton.md"}
 
 ```
+
+## Schedule
+
+| Time         | (All times in Central)                                        |
+|--------------|---------------------------------------------------------------|
+| **Saturday** |                                                               |
+| 8:00AM       | DEC 1, DUO 1, DP 1, OO 1, OI 1                                | 
+| 8:00AM       | EX 1 (Draw)                                                   | 
+| 8:30AM       | EX 1                                                          | 
+| 9:45AM       | DEC 2, DUO 2, DP 2, OO 2, OI 2                                | 
+| 10:00AM      | EX 2 (Draw)                                                   | 
+| 10:30AM      | EX 2                                                          | 
+| 1:15PM       | DEC 3, DUO 3, DP 3, OO 3, OI 3                                | 
+| 1:30PM       | EX 3 (Draw)                                                   | 
+| 2:00PM       | EX 3                                                          | 
+| 3:00PM       | DEC 4, DUO 4, DP 4, OO 4, OI 4                                | 
+| 3:30PM       | EX 4 (Draw)                                                   | 
+| 4:00PM       | EX 4                                                          | 
+| **Sunday**   |                                                               |
+| 8:00AM       | EX Octo (Draw)                                                | 
+| 8:30AM       | DEC Octo, DUO Octo, DP Octo, OO Octo, OI Octo, EX Octo        | 
+| 11:00AM      | EX Quar (Draw)                                                | 
+| 11:30AM      | DEC Quar, DUO Quar, DP Quar, OO Quar, OI Quar, EX Quar        | 
+| 1:30PM       | EX Semi (Draw)                                                | 
+| 2:00PM       | DEC Semi, DUO Semi, DP Semi, OO Semi, OI Semi, EX Semi        | 
+| 3:45PM       | EX Final (Draw)                                               | 
+| 4:15PM       | DEC Final, DUO Final, DP Final, OO  Final, OI Final, EX Final | 
 
 ## Round Procedures
 
@@ -109,9 +136,9 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
 #### Before Each Round
 
 - Once you receive a round assignment, please note the time and plan to arrive in the room 10 minutes prior to the start time. Please hit the "In the room" button once you have arrived in the room.
-- Do not begin the round until you have confirmed all three judges are present.  (Do not assume another adult in the room is a judge.)  Checkers will be checking rooms and will report missing judges to the tab room.  Please only text if a checker has not been to your room 15 minutes after the round was scheduled to begin.  We will send the checker to the room to help replace the judge.
+- Do not begin the round until you have confirmed all three judges are present.  (Do not assume another adult in the room is a judge.)  Checkers will be checking rooms and will report missing judges to the tab room.  Please only text about a missing judge if a checker has not been to your room 15 minutes after the round was scheduled to begin.  We will send the checker to the room to help replace the judge.
 - You do not need every student present in order to start the round. If you are
-  missing students in your room **10 mins after** the posted start time -
+  missing students in your room **30 mins after** the posted start time -
   please contact us!
     - TEXT ONLY TO {{speech_phone}}. Include in your Text:
         - The Room Number you are in AND
@@ -175,38 +202,20 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
   Saturday. For Elimination Rounds, please work to have all comments for each
   Elimination Round on the ballot within 30 minutes of the round ending.
 
-## Schedule
-
-| Time         | (All times in Central)                                        |
-|--------------|---------------------------------------------------------------|
-| **Saturday** |                                                               |
-| 8:00AM       | DEC 1, DUO 1, DP 1, OO 1, OI 1                                | 
-| 8:00AM       | EX 1 (Draw)                                                   | 
-| 8:30AM       | EX 1                                                          | 
-| 9:45AM       | DEC 2, DUO 2, DP 2, OO 2, OI 2                                | 
-| 10:00AM      | EX 2 (Draw)                                                   | 
-| 10:30AM      | EX 2                                                          | 
-| 1:15PM       | DEC 3, DUO 3, DP 3, OO 3, OI 3                                | 
-| 1:30PM       | EX 3 (Draw)                                                   | 
-| 2:00PM       | EX 3                                                          | 
-| 3:00PM       | DEC 4, DUO 4, DP 4, OO 4, OI 4                                | 
-| 3:30PM       | EX 4 (Draw)                                                   | 
-| 4:00PM       | EX 4                                                          | 
-| **Sunday**   |                                                               |
-| 8:00AM       | EX Octo (Draw)                                                | 
-| 8:30AM       | DEC Octo, DUO Octo, DP Octo, OO Octo, OI Octo, EX Octo        | 
-| 11:00AM      | EX Quar (Draw)                                                | 
-| 11:30AM      | DEC Quar, DUO Quar, DP Quar, OO Quar, OI Quar, EX Quar        | 
-| 1:30PM       | EX Semi (Draw)                                                | 
-| 2:00PM       | DEC Semi, DUO Semi, DP Semi, OO Semi, OI Semi, EX Semi        | 
-| 3:45PM       | EX Final (Draw)                                               | 
-| 4:15PM       | DEC Final, DUO Final, DP Final, OO  Final, OI Final, EX Final | 
-
 ## Judge Notes and Expectations
 
 ### Judge Training
 
 See the Webinar recorded on Wednesday: LINK TBD
+
+### Time Signals
+- Keep time (All events are 10 minutes with 30-second grace except Extemp which is 7 minutes with a 30-second grace)
+- Give whatever time signals speakers request - in Extemp it is EXPECTED that judges give time signals from 5 down. In all events, it is a sign of preparation, not lack of preparation, to ask for signals.  
+- Before you penalize, please make sure you showed the speakers the requested time signals.  The mandated penalty for going overtime is that the student may not be ranked first.
+- Examples of time signals can be found below:
+
+![Illustration of time signals](./images/time-signals.png)
+
 
 ### Judge Reminder
 
@@ -337,6 +346,12 @@ Speech Tab Room directly, through the text line at {{speech_phone}} or
   performance. Speakers using properties and/or wearing costumes will be
   disqualified.
 - Only the performer’s feet may touch the ground.
+- Speakers should keep gesture and bodily movement to a minimum. The selection
+  should be delivered from center stage. Movement and gestures, if used, should
+  be appropriate to the selection. Speakers should not walk during performances.
+  They should emphasize vocal variety and facial expression to enhance the
+  literary interpretation.  
+
 
 [Critique Sheet and Judging Criteria for Oral Interpretation of Literature (Last updated 2019)](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncfl_master_critique_oi_for_2019.pdf)
 

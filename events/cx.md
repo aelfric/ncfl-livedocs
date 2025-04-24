@@ -293,8 +293,8 @@ and useless!
 | 28.3‑28.7 | you hit all the right notes, but could improve (e.g. depth or efficiency) |
 | 27.8‑28.2 | you mainly did the right thing, but left something to be desired          |
 | 27.3‑27.7 | you missed major things and were hard to follow                           |
-| 27.0‑27.2 | you advanced little in the debate or cost your team the round             |
-| 26.0‑26.9 | you are not ready for this division/tournament                            |
+| 27.0‑27.2 | you advanced little in the debate                                         |
+| 26.0‑26.9 | you cost your team the round                                              |
 | Below 26  | you were offensive, ignorant, rude, or tried to cheat (MUST come to tab)  |
 
 Low-point wins (where the winning team has fewer points than the losing team) are allowed.

@@ -233,8 +233,8 @@ meaningful feedback instead of being arbitrary and useless!
 | 28.3&#8209;28.7 | you hit all the right notes, but could improve (e.g. depth or efficiency)                |
 | 27.8&#8209;28.2 | you mainly did the right thing, but left something to be desired                         |
 | 27.3&#8209;27.7 | you missed major things and were hard to follow                                          |
-| 27.0&#8209;27.2 | you advanced little in the debate or cost your team the round                            |
-| 26.0&#8209;26.9 | you are not ready for this division/tournament                                           |
+| 27.0&#8209;27.2 | you advanced little in the debate                                                        |
+| 26.0&#8209;26.9 | you cost your team the round                                                             |
 | Below 26        | you were offensive, ignorant, rude, or tried to cheat (Judge MUST come to tab)           |
 
 For our common speaker point guide, you can think of the score as ignoring the 2 at the beginning and seeing the other two numbers as your grade on a normal 100-point scale. For example, a 29.8 is like a 98 grade, which is an A+, and a 27.1 is like a 71 grade, which is a C-.

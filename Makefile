@@ -1,4 +1,4 @@
-INCLUDE_FILES = $(wildcard *.md sites/*.md vars.yaml)
+INCLUDE_FILES = $(wildcard *.md sites/*.md images/*.png vars.yaml)
 pandoc =  /home/fricc/.local/bin/pandoc -s --toc -F include-filter-exe -F venv/bin/pandoc-mustache
 docx_outputs = output/docx/pf.docx output/docx/ld.docx output/docx/cx.docx output/docx/speech.docx
 html_outputs = output/html/pf.html output/html/ld.html output/html/cx.html output/html/speech.html
