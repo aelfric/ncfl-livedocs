@@ -1,3 +1,5 @@
+Use the entrance on Wabash.
+
 **Network**:
 
 - **Network Name**: ColumbiaEvents
