@@ -1,5 +1,5 @@
 ---
-title: 2024 NCFL Speech Events Live Doc
+title: "{{current_year}} NCFL Speech Events Live Doc"
 mustache:
   - vars.yaml
 ---

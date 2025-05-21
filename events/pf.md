@@ -1,5 +1,5 @@
 ---
-title: 2024 NCFL Public Forum Debate Live Doc
+title: "{{current_year}} NCFL Public Forum Debate Live Doc"
 mustache:
   - vars.yaml
 ---

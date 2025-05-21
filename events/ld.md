@@ -1,5 +1,5 @@
 ---
-title: 2024 NCFL Lincoln-Douglas Debate Live Doc
+title: "{{current_year}} NCFL Lincoln-Douglas Debate Live Doc"
 mustache:
   - vars.yaml
 ---
