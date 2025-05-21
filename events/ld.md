@@ -255,8 +255,6 @@ and useless!
 | 26.0‑26.9 | you cost your team the round                                              |
 | Below 26  | you were offensive, ignorant, rude, or tried to cheat (MUST come to tab)  |
 
-For our common speaker point guide, you can think of the score as ignoring the 2 at the beginning and seeing the other two numbers as your grade on a normal 100-point scale. For example, a 29.8 is like a 98 grade, which is an A+, and a 27.1 is like a 71 grade, which is a C-.
-
 ### Forfeits
 
 **ONLY The TAB Room declares and enters forfeits.** If you think a team should
