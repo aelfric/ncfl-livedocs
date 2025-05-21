@@ -5,6 +5,9 @@ html_outputs = output/html/pf.html output/html/ld.html output/html/cx.html outpu
 
 render: $(docx_outputs) $(html_outputs)
 
+schedule: web-schedule.md
+	$(pandoc) web-schedule.md -o ./output/html/web-schedule.html
+
 $(docx_outputs): output/docx/%.docx: events/%.md $(INCLUDE_FILES) output/docx
 	$(pandoc) $< --reference-doc reference.docx -o $@
 
