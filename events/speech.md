@@ -204,7 +204,7 @@ Nothing yet. Check back here during the tournament for important information.
 
 ### Judge Training
 
-See the Webinar recorded on Wednesday: LINK TBD
+See the Webinar recorded on Sunday: <https://www.youtube.com/watch?v=cWzTv4KxiQs />
 
 ### Time Signals
 - Keep time (All events are 10 minutes with 30-second grace except Extemp which is 7 minutes with a 30-second grace)

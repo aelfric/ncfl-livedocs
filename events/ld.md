@@ -94,7 +94,7 @@ Nothing yet. Check back here during the tournament for important information.
   {{button}} on the Flight 1 ballot the moment you are on your way.
   Reminder: competitors will forfeit their Round if they are not in the
   competition room 10 minutes after the Round is posted to start.
-- Judges - if you need a forfeit declared - Contact Tab at {{ld_phone}}!! You cannot declare
+- Judges - if you need a forfeit declared - Text Tab at {{ld_phone}}!! You cannot declare
   the forfeit. Only the Tab Chair can declare a forfeit.
 
 - Evidence Sharing: Students should be prepared to share, electronically or by
