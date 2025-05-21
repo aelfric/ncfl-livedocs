@@ -13,7 +13,7 @@ mustache:
 
 **Extemp Prep Room**:
 
-* Saturday: Palmer House - State Ballroom and Grand Ballroom
+* Saturday: Palmer House - Red Lacquer Ballroom (4th Floor)
 * Sunday: Hilton Chicago - Marquette (3rd Floor)
 
 **Speech Judge Standby Room**:
@@ -44,11 +44,10 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Tournament Sites and Network Information
-See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
 
-_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday.  Wristbands
-are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
+```{include="sites.md"}
+
+```
 
 
 ### Columbia College (Saturday - Duo Interp)

@@ -17,8 +17,8 @@ mustache:
 
 **LD Tab Room**:
 
-- Saturday: Hilton Chicago - PDF #1 (3rd Floor)
-- Sunday: Palmer House - Cresthill (3rd)
+- Saturday: Hilton Chicago - Mobley Room (Lower Lobby)
+- Sunday: Palmer House - Ashland (3rd Floor)
 
 **LD Tab Room Support** (text only): {{ld_phone}} or email [{{ld_email}}](email)
 
@@ -31,12 +31,10 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Tournament Sites and Network Information
-See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
 
-_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday.  Wristbands
-are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
+```{include="sites.md"}
 
+```
 
 
 ### Hilton Chicago (Saturday)

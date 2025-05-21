@@ -13,11 +13,11 @@ mustache:
 **PF Judge Standby Room**:
 
 - Saturday: Hilton Chicago - Normandie Lounge (2nd)
-- Sunday: Palmer House - Grand Ballroom (4th Floor)
+- Sunday: Palmer House - State Ballroom (4th Floor)
 
 **PF Tab Room**:
 
-- Saturday: Hilton Chicago - Mobley Room (LL)
+- Saturday: Hilton Chicago - Astoria Room (3rd Floor)
 - Sunday: Palmer House - Harvard Room (3rd Floor)
 
 **PF Tab Room Support** (text only): {{pf_phone}} or email [{{pf_email}}](email)
@@ -32,12 +32,11 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Tournament Sites and Network Information
 
-See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
+```{include="sites.md"}
 
-_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday. Wristbands
-are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
+```
+
 
 ### Hilton Chicago (Saturday)
 

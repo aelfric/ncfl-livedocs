@@ -12,15 +12,13 @@ mustache:
 
 **Policy Judge Standby Room**:
 
-- Saturday: Palmer House - Empire Ballroom
-- Sunday:
-  - 7am - 2pm:  Hilton Chicago - Normandie Lounge (2nd Floor)
-  - 2:30 - 6pm:  Hilton Chicago - Astoria Room (3rd Floor)
+- Saturday: Palmer House - Crystal Room (3rd Floor)
+- Sunday: Palmer House - Wabash Room (3rd Floor)
 
 **Policy Tab Room**:
 
 - Saturday: Palmer House - Cresthill Room (3rd Floor)
-- Sunday: Hilton Chicago - PDR #1 (3rd Floor)
+- Sunday: Palmer House - Cresthill Room (3rd Floor)
 
 **Policy Tab Room Support** (text only): {{cx_phone}} or email [{{cx_email}}](email)
 
@@ -35,21 +33,14 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Tournament Sites and Network Information
-See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
 
-_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday.  Wristbands
-are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
-
-### Palmer House Hilton (Saturday)
-
-```{include="sites/palmer-house.md"}
+```{include="sites.md"}
 
 ```
 
-### Hilton Chicago (Sunday)
+### Palmer House Hilton (Saturday and Sunday)
 
-```{include="sites/hilton.md"}
+```{include="sites/palmer-house.md"}
 
 ```
 

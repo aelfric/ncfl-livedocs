@@ -1,4 +1,4 @@
-Use the entrance on Wabash.
+**Entrance** 33 E Ida B Wells Drive
 
 **Network**:
 
