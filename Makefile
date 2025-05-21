@@ -6,7 +6,7 @@ html_outputs = output/html/pf.html output/html/ld.html output/html/cx.html outpu
 render: $(docx_outputs) $(html_outputs)
 
 $(docx_outputs): output/docx/%.docx: events/%.md $(INCLUDE_FILES) output/docx
-	$(pandoc) $< -o $@
+	$(pandoc) $< --reference-doc reference.docx -o $@
 
 $(html_outputs): output/html/%.html: events/%.md $(INCLUDE_FILES) output/html 
 	$(pandoc) $< -o $@
