@@ -93,7 +93,7 @@ Judges: thank you! Tournaments do not exist without you!
 
 ### Before the Tournament
 
-- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
+- **Update your paradigm.** Debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
 - Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
 
 ### Before Rounds
@@ -111,7 +111,7 @@ Judges: thank you! Tournaments do not exist without you!
   NOT to switch competitors. Confirm the teams and sides both before and after
   the round.
 - For round 5:
-  - Because the Coin Flip is pre-set to occur a specific time in each
+  - Because the Coin Flip is pre-set to occur at a specific time in each
     Flight we cannot start Flight 2 early in Round 5.
   - Students: Flight 1 should go to the floor immediately once Round 5 is
     posted!
@@ -120,7 +120,7 @@ Judges: thank you! Tournaments do not exist without you!
 
 - Enter the winner and points on the ballot and Confirm the Ballot (unconfirmed
   ballots are not complete).
-- Do NOT disclose the decision. Do this for the first flight before the second
+- Do NOT disclose the decision. Submit and confirm the first flight before the second
   flight begins.
 - RFDs should be given but kept short. There is no need to write an elaborately
   long ballot.
@@ -167,13 +167,13 @@ issues or missing persons. It may NOT be used to justify cutting time from
 speeches, crossfires, prep, or tech time.
 
 Judges who have not voted by the decision deadline will be visited by a member
-of the tab staff, unless we are aware of the tech issues that caused a delay.
+of the tab staff, unless we are aware of the issues that caused a delay.
 The ballot does not disappear when the timer ends - even if you exceed the time
 allotted, finish the round and vote as normal!
 
 Remember that the decision timer is only for **points and the winner**. If you
 find yourself approaching the end of the decision time, you can submit speaker
-points and a decision without comments and re-visit your ballot throughout the
+points and a decision without comments and revisit your ballot throughout the
 rest of the tournament to include your comments.
 
 ### Obligations
