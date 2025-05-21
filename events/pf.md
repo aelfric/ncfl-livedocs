@@ -186,12 +186,6 @@ rest of the tournament to include your comments.
   obligations are set by the diocese and determined before the tournament. Tab
   will not change assignments, except if you are volunteering for extra rounds!
 
-- Note that first year out judges cannot judge elimination debates under any
-  circumstances. If you are a {{last_year}} high school graduate assigned to elimination
-  round pools, find a willing substitute from your diocese or your diocese will
-  be fined - and make this change with the Tabroom Staff on Saturday. For the
-  purpose of this rule, the Play-In round counts as a prelim.
-
 ## Event Rules
 
 ### Coin Flips
