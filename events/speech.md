@@ -88,30 +88,29 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Schedule
 
-| Time         | (All times in Central)                                        |
-|--------------|---------------------------------------------------------------|
-| **Saturday** |                                                               |
-| 8:00AM       | DEC 1, DUO 1, DP 1, OO 1, OI 1                                | 
-| 8:00AM       | EX 1 (Draw)                                                   | 
-| 8:30AM       | EX 1                                                          | 
-| 9:45AM       | DEC 2, DUO 2, DP 2, OO 2, OI 2                                | 
-| 10:00AM      | EX 2 (Draw)                                                   | 
-| 10:30AM      | EX 2                                                          | 
-| 1:15PM       | DEC 3, DUO 3, DP 3, OO 3, OI 3                                | 
-| 1:30PM       | EX 3 (Draw)                                                   | 
-| 2:00PM       | EX 3                                                          | 
-| 3:00PM       | DEC 4, DUO 4, DP 4, OO 4, OI 4                                | 
-| 3:30PM       | EX 4 (Draw)                                                   | 
-| 4:00PM       | EX 4                                                          | 
-| **Sunday**   |                                                               |
-| 8:00AM       | EX Octo (Draw)                                                | 
-| 8:30AM       | DEC Octo, DUO Octo, DP Octo, OO Octo, OI Octo, EX Octo        | 
-| 11:00AM      | EX Quar (Draw)                                                | 
-| 11:30AM      | DEC Quar, DUO Quar, DP Quar, OO Quar, OI Quar, EX Quar        | 
-| 1:30PM       | EX Semi (Draw)                                                | 
-| 2:00PM       | DEC Semi, DUO Semi, DP Semi, OO Semi, OI Semi, EX Semi        | 
-| 3:45PM       | EX Final (Draw)                                               | 
-| 4:15PM       | DEC Final, DUO Final, DP Final, OO  Final, OI Final, EX Final | 
+| Start Time    | (All times in Central)                                        |
+|---------------|---------------------------------------------------------------|
+| **Saturday**  |                                                               |
+| 8:00 AM       | EX 1 (Draw)                                                   | 
+| 8:30 AM       | DEC 1, DUO 1, DP 1, EX 1, OO 1, OI 1                          | 
+| 10:15 AM      | DEC 2, DUO 2, DP 2, OO 2, OI 2                                | 
+| 10:00 AM      | EX 2 (Draw)                                                   | 
+| 10:30 AM      | EX 2                                                          | 
+| 1:30 PM       | EX 3 (Draw)                                                   | 
+| 1:45 PM       | DEC 3, DUO 3, DP 3, OO 3, OI 3                                | 
+| 2:00 PM       | EX 3                                                          | 
+| 3:30 PM       | DEC 4, DUO 4, DP 4, OO 4, OI 4                                | 
+| 3:30 PM       | EX 4 (Draw)                                                   | 
+| 4:00 PM       | EX 4                                                          | 
+| **Sunday**    |                                                               |
+| 8:00 AM       | EX Octo (Draw)                                                | 
+| 8:30 AM       | DEC Octo, DUO Octo, DP Octo, OO Octo, OI Octo, EX Octo        | 
+| 11:00 AM      | EX Quar (Draw)                                                | 
+| 11:30 AM      | DEC Quar, DUO Quar, DP Quar, OO Quar, OI Quar, EX Quar        | 
+| 1:30 PM       | EX Semi (Draw)                                                | 
+| 2:00 PM       | DEC Semi, DUO Semi, DP Semi, OO Semi, OI Semi, EX Semi        | 
+| 3:45 PM       | EX Final (Draw)                                               | 
+| 4:15 PM       | DEC Final, DUO Final, DP Final, OO  Final, OI Final, EX Final | 
 
 ## Round Procedures
 

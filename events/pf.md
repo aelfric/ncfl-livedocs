@@ -66,26 +66,30 @@ Nothing yet. Check back here during the tournament for important information.
 
 (All times in Central)
 
-| Round        | Pairings Released | In Room Time | Start Time |
-| ------------ | ----------------- | ------------ | ---------- |
+| Round        | Pairings Released  | In Room Time  | Start Time  |
+| ------------ | ------------------ | ------------- | ----------- |
 | **Saturday** |
-| 1A           | 7:00AM            | 7:20AM       | 7:30AM     |
-| 1B           | 8:00AM            | 8:20AM       | 8:30AM     |
-| 2A           | 9:00AM            | 9:20AM       | 9:30AM     |
-| 2B           | 10:00AM           | 10:20AM      | 10:30AM    |
-| 3A           | 12:30PM           | 12:50PM      | 1:00PM     |
-| 3B           | 1:30PM            | 1:50PM       | 2:00PM     |
-| 4A           | 3:00PM            | 3:20PM       | 3:30PM     |
-| 4B           | 4:00PM            | 4:20PM       | 4:30PM     |
-| 5A           | 5:45PM            | 6:05PM       | 6:15PM     |
-| 5B           | 6:45PM            | 7:05PM       | 7:15PM     |
+| 1A           | 7:00 AM            | 7:20 AM       | 7:30 AM     |
+| 1B           | 8:00 AM            | 8:20 AM       | 8:30 AM     |
+| 2A           | 9:00 AM            | 9:20 AM       | 9:30 AM     |
+| 2B           | 10:00 AM           | 10:20 AM      | 10:30 AM    |
+| 3A           | 12:30 PM           | 12:50 PM      | 1:00 PM     |
+| 3B           | 1:30 PM            | 1:50 PM       | 2:00 PM     |
+| 4A           | 3:00 PM            | 3:20 PM       | 3:30 PM     |
+| 4B           | 4:00 PM            | 4:20 PM       | 4:30 PM     |
+| 5A           | 5:45 PM            | 6:05 PM       | 6:15 PM     |
+| 5B           | 6:45 PM            | 7:05 PM       | 7:15 PM     |
 | **Sunday**   |
-| Play-In      | 7:00AM            | 7:20AM       | 7:30AM     |
-| Dbl Octos    | 9:00AM            | 9:20AM       | 9:30AM     |
-| Octos        | 11:00AM           | 11:20AM      | 11:30AM    |
-| Quarts       | 1:00PM            | 1:20PM       | 1:30PM     |
-| Semis        | 2:30PM            | 2:50PM       | 3:00PM     |
-| Finals       | 4:00PM            | 4:20PM       | 4:30PM     |
+| Play-In      | 7:00 AM            | 7:20 AM       | 7:30 AM     |
+| Dbl Octos    | 9:00 AM            | 9:20 AM       | 9:30 AM     |
+| Octos        | 11:00 AM           | 11:20 AM      | 11:30 AM    |
+| Quarts       | 1:00 PM            | 1:20 PM       | 1:30 PM     |
+| Semis        | 2:30 PM            | 2:50 PM       | 3:00 PM     |
+| Finals       | 4:00 PM            | 4:20 PM       | 4:30 PM     |
+
+**NOTE**:  We hope to release them 30 minutes prior to start time but 
+rounds must start at the originally scheduled time even if that 
+shortens pre-round prep.
 
 ## Judge Notes and Expectations
 

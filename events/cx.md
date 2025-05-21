@@ -76,20 +76,24 @@ Nothing yet. Check back here during the tournament for important information.
 
 (All times in Central)
 
-| Round        | Pairings Released | In Room Time | Start Time |
-|--------------|-------------------|--------------|------------|
-| **Saturday** |                   |              |            |
-| 1            | 7:00AM            | 7:20AM       | 7:30AM     | 
-| 2            | 9:00AM            | 9:20AM       | 9:30AM     | 
-| 3            | 12:30PM           | 12:50PM      | 1:00PM     | 
-| 4            | 2:45PM            | 3:05PM       | 3:15PM     | 
-| 5            | 5:15PM            | 5:35PM       | 5:45PM     |
-| **Sunday**   |                   |              |            |
-| Dbl Octos    | 7:00AM            | 7:20AM       | 7:30AM     | 
-| Octos        | 9:30AM            | 9:50AM       | 10:00AM    | 
-| Quarts       | 12:00PM           | 12:20PM      | 12:30PM    | 
-| Semis        | 2:30PM            | 2:50PM       | 3:00PM     | 
-| Final        | 4:45PM            | 5:05PM       | 5:15PM     | 
+| Round        | Pairings Released  | In Room Time  | Start Time  |
+|--------------|--------------------|---------------|-------------|
+| **Saturday** |                    |               |             |
+| 1            | 7:00 AM            | 7:20 AM       | 7:30 AM     | 
+| 2            | 9:00 AM            | 9:20 AM       | 9:30 AM     | 
+| 3            | 12:30 PM           | 12:50 PM      | 1:00 PM     | 
+| 4            | 2:45 PM            | 3:05 PM       | 3:15 PM     | 
+| 5            | 5:15 PM            | 5:35 PM       | 5:45 PM     |
+| **Sunday**   |                    |               |             |
+| Dbl Octos    | 7:00 AM            | 7:20 AM       | 7:30 AM     | 
+| Octos        | 9:30 AM            | 9:50 AM       | 10:00 AM    | 
+| Quarters     | 12:00 PM           | 12:20 PM      | 12:30 PM    | 
+| Semis        | 2:45 PM            | 3:05 PM       | 3:15 PM     | 
+| Final        | 4:45 PM            | 5:05 PM       | 5:15 PM     | 
+
+**NOTE**:  We hope to release them 30 minutes prior to start time but 
+rounds must start at the originally scheduled time even if that 
+shortens pre-round prep.
 
 ## Judge Notes and Expectations
 
