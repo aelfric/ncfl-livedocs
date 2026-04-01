@@ -4,6 +4,10 @@ mustache:
   - vars.yaml
 ---
 
+::: {custom-style=current_status}
+[CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday.
+:::
+
 ## Contact Information
 
 ```{include="tabroom-notifs.md"}
@@ -109,6 +113,8 @@ Nothing yet. Check back here during the tournament for important information.
 
 - Forfeit time is 10 minutes after the Round is set to start.
 - If you are not in your room - you will forfeit the round.
+- Debaters, do not start debating until you have confirmed that all judges can
+  see your correct names on the right sides on their ballots.
 - Just a Reminder: The use of computers, electronic storage, and retrieval devices, etc., is allowed in LD Rounds.
   - Connectivity to any persons other than the competitors or judges in the
     round is not allowed. Competitors violating this rule will be disqualified
@@ -153,7 +159,7 @@ Nothing yet. Check back here during the tournament for important information.
 | Semis        | 2:30 PM            | 2:50 PM       | 3:00 PM     |
 | Final        | 4:00 PM            | 4:20 PM       | 4:30 PM     |
 
-**NOTE**:  We hope to release them 30 minutes prior to start time but 
+**NOTE**:  We hope to release the pairings 30 minutes prior to start time but 
 rounds must start at the originally scheduled time even if that 
 shortens pre-round prep.
 
@@ -180,6 +186,7 @@ A SUBSTITUTE JUDGE.**
 
 - Once you receive your round assignment, click “{{button}}” on your Flight 1 ballot.
 - Please report to the room ASAP and no later than ten minutes prior to the scheduled start time if possible.
+- Confirm (verbally) that the debaters’ names/codes and sides listed on your ballot are correct.
 
 ### Prep Time
 
@@ -206,7 +213,8 @@ A SUBSTITUTE JUDGE.**
 ### After Rounds
 
 - Quickly read any contested evidence you have not already reviewed that is crucial to your decision.
-- Confirm (verbally) that the sides listed on your ballots are correct.
+- Confirm again verbally that the debaters' names/codes and sides listed on your ballot
+  are correct.
 - Enter points (following the scale below) and a decision (there must be one winner and one loser).
   - We are using tenths of points
   - Points cannot be tied
@@ -323,13 +331,11 @@ Procedures:
 > the start time of Policy CX rounds. The reading of complete citations is
 > required only when requested by the opponent.”
 
-For Lincoln Douglas Debate, the Affirmative team should create a Room on
-<https://speechdrop.net/> as soon as they enter the room and share the
-SpeechDrop Room Number with everyone in the round through the Chat feature for
-evidence sharing during the round.
-
-The Room Code should be: the Round Number + Your Event + Your Assigned Room
-Number (e.g., Round 1 in LD in Room 12: “1LD12”).
+ A link to a room on <https://share.tabroom.com/> for the round will be available
+ in your tabroom account.  The room name will be a randomized set of words and
+ numbers (e.g., OpenOtter137).  Files can be shared by uploading them on the
+ website linked or by emailing the address on that page (e.g.,
+ OpenOtter137@share.tabroom.com ).
 
 In Lincoln-Douglas, any evidence read/cited in the round must be made available
 to the opponent upon request. Requests for evidence, and the time spent finding

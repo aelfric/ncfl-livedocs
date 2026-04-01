@@ -4,6 +4,10 @@ mustache:
   - vars.yaml
 ---
 
+::: {custom-style=current_status}
+[CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday.
+:::
+
 ## Contact Information
 
 
@@ -19,10 +23,10 @@ mustache:
 **Speech Judge Standby Room**:
 
 * Saturday:
-    * East-West University: Student Life Center Lobby
+    * East-West University: Student Life Center (SLC) Lobby
     * Jones College Prep: TBD
     * Roosevelt University: Fainman Lounge
-    * Columbia College: TBD
+    * Columbia College: 2nd Floor Lobby
     * Palmer House: Empire Ballroom
 * Sunday: Hilton Chicago - Normandie Lounge (2nd Floor)
 
@@ -62,13 +66,13 @@ Nothing yet. Check back here during the tournament for important information.
 
 ```
 
-### East-West University (Saturday - OI)
+### East-West University (Saturday - Oral Interpretation of Literature)
 
 ```{include="sites/east-west.md"}
 
 ```
 
-### Jones College Prep (Saturday - Dec and Drama)
+### Jones College Prep (Saturday - Declamation and Dramatic Performance)
 
 ```{include="sites/jones.md"}
 

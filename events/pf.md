@@ -4,6 +4,10 @@ mustache:
   - vars.yaml
 ---
 
+::: {custom-style=current_status}
+[CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday.
+:::
+
 ## Contact Information
 
 ```{include="tabroom-notifs.md"}
@@ -61,6 +65,8 @@ Nothing yet. Check back here during the tournament for important information.
 - There are 3 judges in every round + 2 teams. Please wait for all three judges
 - FORFEIT is 10 mins after start of round. Tab Chairs are THE ONLY ONES WHO CAN
   AWARD A FORFEIT. TEXT US AT {{pf_phone}}.
+- Debaters, do not start debating until you have confirmed that all judges can
+  see your correct names on the right sides on their ballots.
 
 ## Schedule
 
@@ -87,7 +93,7 @@ Nothing yet. Check back here during the tournament for important information.
 | Semis        | 2:30 PM            | 2:50 PM       | 3:00 PM     |
 | Finals       | 4:00 PM            | 4:20 PM       | 4:30 PM     |
 
-**NOTE**:  We hope to release them 30 minutes prior to start time but 
+**NOTE**:  We hope to release the pairings 30 minutes prior to start time but 
 rounds must start at the originally scheduled time even if that 
 shortens pre-round prep.
 
@@ -104,6 +110,7 @@ Judges: thank you! Tournaments do not exist without you!
 
 - Move quickly to rounds – strive to be sitting down in round 10 minutes before
   round start time!
+- Confirm (verbally) that the debaters’ names/codes and sides listed on your ballot are correct.
 - If not scheduled - please wait in the judges’ standby room until “released.” ONLY
   THE ASSIGNED JUDGES MAY JUDGE THE DEBATE. YOU MAY NOT (NEVER EVER) ALLOW
   SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.
@@ -122,6 +129,8 @@ Judges: thank you! Tournaments do not exist without you!
 
 ### After Rounds
 
+- Confirm again verbally that the debaters' names/codes and sides listed on your ballot
+  are correct.
 - Enter the winner and points on the ballot and Confirm the Ballot (unconfirmed
   ballots are not complete).
 - Do NOT disclose the decision. Submit and confirm the first flight before the second

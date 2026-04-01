@@ -4,6 +4,10 @@ mustache:
   - vars.yaml
 ---
 
+::: {custom-style=current_status}
+[CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday.
+:::
+
 ## Contact Information
 
 ```{include="tabroom-notifs.md"}
@@ -53,6 +57,8 @@ Nothing yet. Check back here during the tournament for important information.
 - Everyone (competitors and judges) should be in competition rooms no later
   than 10 minutes before the round is scheduled to start. Contact tab if anyone
   is missing at start time
+- Debaters, do not start debating until you have confirmed that all judges can
+  see your correct names on the right sides on their ballots.
 - Evidence Sharing: Students should be prepared to share, electronically or by
   paper, any evidence they read in the round with their opponent and the judge.
   If you want to share evidence online, it should be done using
@@ -91,7 +97,7 @@ Nothing yet. Check back here during the tournament for important information.
 | Semis        | 2:45 PM            | 3:05 PM       | 3:15 PM     | 
 | Final        | 4:45 PM            | 5:05 PM       | 5:15 PM     | 
 
-**NOTE**:  We hope to release them 30 minutes prior to start time but 
+**NOTE**:  We hope to release the pairings 30 minutes prior to start time but 
 rounds must start at the originally scheduled time even if that 
 shortens pre-round prep.
 
@@ -114,6 +120,7 @@ Judges: thank you! Tournaments do not exist without you!
     - **You can be fined for not reporting to your room on time.** If the TAB Room has to substitute a new/different judge in for your assigned round, you will be fined. 
 
 - Once you are in your room:
+    - Confirm (verbally) that the debaters’ names/codes and sides listed on your ballot are correct.
     - If your ballot shows the wrong sides according to the debaters, refresh the page! If you clicked in before they finished the flip, it might need to be reset.
     - If debaters are missing at In Room Time, text or email tab or tell a member
       of tab staff
@@ -135,7 +142,8 @@ Judges: thank you! Tournaments do not exist without you!
 ### After Rounds
 
 - Quickly read any evidence that is crucial to making your decision.
-- Confirm (verbally) that the sides listed on your ballot are correct.
+- Confirm again verbally that the debaters' names/codes and sides listed on your ballot
+  are correct.
 - DO NOT CONFER WITH OTHER JUDGES except to confirm that sides are correct.
   Judges must decide the winner independently.
 - Enter points (following the scale; see ballot and below) and a decision (must
