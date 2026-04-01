@@ -1,8 +1,12 @@
 ---
-title: 2024 NCFL Public Forum Debate Live Doc
+title: "{{current_year}} NCFL Public Forum Debate Live Doc"
 mustache:
   - vars.yaml
 ---
+
+::: {custom-style=current_status}
+[CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday.
+:::
 
 ## Contact Information
 
@@ -13,11 +17,11 @@ mustache:
 **PF Judge Standby Room**:
 
 - Saturday: Hilton Chicago - Normandie Lounge (2nd)
-- Sunday: Palmer House - Grand Ballroom (4th Floor)
+- Sunday: Palmer House - State Ballroom (4th Floor)
 
 **PF Tab Room**:
 
-- Saturday: Hilton Chicago - Mobley Room (LL)
+- Saturday: Hilton Chicago - Astoria Room (3rd Floor)
 - Sunday: Palmer House - Harvard Room (3rd Floor)
 
 **PF Tab Room Support** (text only): {{pf_phone}} or email [{{pf_email}}](email)
@@ -32,12 +36,11 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Tournament Sites and Network Information
 
-See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
+```{include="sites.md"}
 
-_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday. Wristbands
-are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
+```
+
 
 ### Hilton Chicago (Saturday)
 
@@ -62,31 +65,37 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
 - There are 3 judges in every round + 2 teams. Please wait for all three judges
 - FORFEIT is 10 mins after start of round. Tab Chairs are THE ONLY ONES WHO CAN
   AWARD A FORFEIT. TEXT US AT {{pf_phone}}.
+- Debaters, do not start debating until you have confirmed that all judges can
+  see your correct names on the right sides on their ballots.
 
 ## Schedule
 
 (All times in Central)
 
-| Round        | Pairings Released | In Room Time | Start Time |
-| ------------ | ----------------- | ------------ | ---------- |
+| Round        | Pairings Released  | In Room Time  | Start Time  |
+| ------------ | ------------------ | ------------- | ----------- |
 | **Saturday** |
-| 1A           | 7:00AM            | 7:20AM       | 7:30AM     |
-| 1B           | 8:00AM            | 8:20AM       | 8:30AM     |
-| 2A           | 9:00AM            | 9:20AM       | 9:30AM     |
-| 2B           | 10:00AM           | 10:20AM      | 10:30AM    |
-| 3A           | 12:30PM           | 12:50PM      | 1:00PM     |
-| 3B           | 1:30PM            | 1:50PM       | 2:00PM     |
-| 4A           | 3:00PM            | 3:20PM       | 3:30PM     |
-| 4B           | 4:00PM            | 4:20PM       | 4:30PM     |
-| 5A           | 5:45PM            | 6:05PM       | 6:15PM     |
-| 5B           | 6:45PM            | 7:05PM       | 7:15PM     |
+| 1A           | 7:00 AM            | 7:20 AM       | 7:30 AM     |
+| 1B           | 8:00 AM            | 8:20 AM       | 8:30 AM     |
+| 2A           | 9:00 AM            | 9:20 AM       | 9:30 AM     |
+| 2B           | 10:00 AM           | 10:20 AM      | 10:30 AM    |
+| 3A           | 12:30 PM           | 12:50 PM      | 1:00 PM     |
+| 3B           | 1:30 PM            | 1:50 PM       | 2:00 PM     |
+| 4A           | 3:00 PM            | 3:20 PM       | 3:30 PM     |
+| 4B           | 4:00 PM            | 4:20 PM       | 4:30 PM     |
+| 5A           | 5:45 PM            | 6:05 PM       | 6:15 PM     |
+| 5B           | 6:45 PM            | 7:05 PM       | 7:15 PM     |
 | **Sunday**   |
-| Play-In      | 7:00AM            | 7:20AM       | 7:30AM     |
-| Dbl Octos    | 9:00AM            | 9:20AM       | 9:30AM     |
-| Octos        | 11:00AM           | 11:20AM      | 11:30AM    |
-| Quarts       | 1:00PM            | 1:20PM       | 1:30PM     |
-| Semis        | 2:30PM            | 2:50PM       | 3:00PM     |
-| Finals       | 4:00PM            | 4:20PM       | 4:30PM     |
+| Play-In      | 7:00 AM            | 7:20 AM       | 7:30 AM     |
+| Dbl Octos    | 9:00 AM            | 9:20 AM       | 9:30 AM     |
+| Octos        | 11:00 AM           | 11:20 AM      | 11:30 AM    |
+| Quarts       | 1:00 PM            | 1:20 PM       | 1:30 PM     |
+| Semis        | 2:30 PM            | 2:50 PM       | 3:00 PM     |
+| Finals       | 4:00 PM            | 4:20 PM       | 4:30 PM     |
+
+**NOTE**:  We hope to release the pairings 30 minutes prior to start time but 
+rounds must start at the originally scheduled time even if that 
+shortens pre-round prep.
 
 ## Judge Notes and Expectations
 
@@ -94,13 +103,14 @@ Judges: thank you! Tournaments do not exist without you!
 
 ### Before the Tournament
 
-- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
+- **Update your paradigm.** Debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
 - Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
 
 ### Before Rounds
 
 - Move quickly to rounds – strive to be sitting down in round 10 minutes before
   round start time!
+- Confirm (verbally) that the debaters’ names/codes and sides listed on your ballot are correct.
 - If not scheduled - please wait in the judges’ standby room until “released.” ONLY
   THE ASSIGNED JUDGES MAY JUDGE THE DEBATE. YOU MAY NOT (NEVER EVER) ALLOW
   SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.
@@ -112,16 +122,18 @@ Judges: thank you! Tournaments do not exist without you!
   NOT to switch competitors. Confirm the teams and sides both before and after
   the round.
 - For round 5:
-  - Because the Coin Flip is pre-set to occur a specific time in each
+  - Because the Coin Flip is pre-set to occur at a specific time in each
     Flight we cannot start Flight 2 early in Round 5.
   - Students: Flight 1 should go to the floor immediately once Round 5 is
     posted!
 
 ### After Rounds
 
+- Confirm again verbally that the debaters' names/codes and sides listed on your ballot
+  are correct.
 - Enter the winner and points on the ballot and Confirm the Ballot (unconfirmed
   ballots are not complete).
-- Do NOT disclose the decision. Do this for the first flight before the second
+- Do NOT disclose the decision. Submit and confirm the first flight before the second
   flight begins.
 - RFDs should be given but kept short. There is no need to write an elaborately
   long ballot.
@@ -168,13 +180,13 @@ issues or missing persons. It may NOT be used to justify cutting time from
 speeches, crossfires, prep, or tech time.
 
 Judges who have not voted by the decision deadline will be visited by a member
-of the tab staff, unless we are aware of the tech issues that caused a delay.
+of the tab staff, unless we are aware of the issues that caused a delay.
 The ballot does not disappear when the timer ends - even if you exceed the time
 allotted, finish the round and vote as normal!
 
 Remember that the decision timer is only for **points and the winner**. If you
 find yourself approaching the end of the decision time, you can submit speaker
-points and a decision without comments and re-visit your ballot throughout the
+points and a decision without comments and revisit your ballot throughout the
 rest of the tournament to include your comments.
 
 ### Obligations
@@ -182,12 +194,6 @@ rest of the tournament to include your comments.
 - Judges are obligated for all preliminary rounds. Elimination round
   obligations are set by the diocese and determined before the tournament. Tab
   will not change assignments, except if you are volunteering for extra rounds!
-
-- Note that first year out judges cannot judge elimination debates under any
-  circumstances. If you are a {{last_year}} high school graduate assigned to elimination
-  round pools, find a willing substitute from your diocese or your diocese will
-  be fined - and make this change with the Tabroom Staff on Saturday. For the
-  purpose of this rule, the Play-In round counts as a prelim.
 
 ## Event Rules
 
@@ -233,11 +239,9 @@ meaningful feedback instead of being arbitrary and useless!
 | 28.3&#8209;28.7 | you hit all the right notes, but could improve (e.g. depth or efficiency)                |
 | 27.8&#8209;28.2 | you mainly did the right thing, but left something to be desired                         |
 | 27.3&#8209;27.7 | you missed major things and were hard to follow                                          |
-| 27.0&#8209;27.2 | you advanced little in the debate or cost your team the round                            |
-| 26.0&#8209;26.9 | you are not ready for this division/tournament                                           |
+| 27.0&#8209;27.2 | you advanced little in the debate                                                        |
+| 26.0&#8209;26.9 | you cost your team the round                                                             |
 | Below 26        | you were offensive, ignorant, rude, or tried to cheat (Judge MUST come to tab)           |
-
-For our common speaker point guide, you can think of the score as ignoring the 2 at the beginning and seeing the other two numbers as your grade on a normal 100-point scale. For example, a 29.8 is like a 98 grade, which is an A+, and a 27.1 is like a 71 grade, which is a C-.
 
 #### Judge Reminder
 

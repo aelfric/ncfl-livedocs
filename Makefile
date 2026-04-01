@@ -1,12 +1,15 @@
-INCLUDE_FILES = $(wildcard *.md sites/*.md vars.yaml)
+INCLUDE_FILES = $(wildcard *.md sites/*.md images/*.png vars.yaml)
 pandoc =  /home/fricc/.local/bin/pandoc -s --toc -F include-filter-exe -F venv/bin/pandoc-mustache
 docx_outputs = output/docx/pf.docx output/docx/ld.docx output/docx/cx.docx output/docx/speech.docx
 html_outputs = output/html/pf.html output/html/ld.html output/html/cx.html output/html/speech.html
 
 render: $(docx_outputs) $(html_outputs)
 
+schedule: web-schedule.md
+	$(pandoc) web-schedule.md -o ./output/html/web-schedule.html
+
 $(docx_outputs): output/docx/%.docx: events/%.md $(INCLUDE_FILES) output/docx
-	$(pandoc) $< -o $@
+	$(pandoc) $< --reference-doc reference.docx -o $@
 
 $(html_outputs): output/html/%.html: events/%.md $(INCLUDE_FILES) output/html 
 	$(pandoc) $< -o $@

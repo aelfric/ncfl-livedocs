@@ -1,8 +1,12 @@
 ---
-title: 2024 NCFL Lincoln-Douglas Debate Live Doc
+title: "{{current_year}} NCFL Lincoln-Douglas Debate Live Doc"
 mustache:
   - vars.yaml
 ---
+
+::: {custom-style=current_status}
+[CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday.
+:::
 
 ## Contact Information
 
@@ -17,8 +21,8 @@ mustache:
 
 **LD Tab Room**:
 
-- Saturday: Hilton Chicago - PDF #1 (3rd Floor)
-- Sunday: Palmer House - Cresthill (3rd)
+- Saturday: Hilton Chicago - Mobley Room (Lower Lobby)
+- Sunday: Palmer House - Ashland (3rd Floor)
 
 **LD Tab Room Support** (text only): {{ld_phone}} or email [{{ld_email}}](email)
 
@@ -31,12 +35,10 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Tournament Sites and Network Information
-See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
 
-_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday.  Wristbands
-are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
+```{include="sites.md"}
 
+```
 
 
 ### Hilton Chicago (Saturday)
@@ -66,7 +68,7 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
       - Flight 2 debaters MUST debate each other
     - Judges: ONCE the first flight is done - move immediately to the next flight
   - For round 5:
-    - Because the Coin Flip is pre-set to occur a specific time in each
+    - Because the Coin Flip is pre-set to occur at a specific time in each
       Flight we cannot start Flight 2 early in Round 5.
     - Students: Flight 1 should go to the floor immediately once Round 5 is
       posted!
@@ -96,7 +98,7 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
   {{button}} on the Flight 1 ballot the moment you are on your way.
   Reminder: competitors will forfeit their Round if they are not in the
   competition room 10 minutes after the Round is posted to start.
-- Judges - if you need a forfeit declared - Contact Tab at {{ld_phone}}!! You cannot declare
+- Judges - if you need a forfeit declared - Text Tab at {{ld_phone}}!! You cannot declare
   the forfeit. Only the Tab Chair can declare a forfeit.
 
 - Evidence Sharing: Students should be prepared to share, electronically or by
@@ -111,6 +113,8 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
 
 - Forfeit time is 10 minutes after the Round is set to start.
 - If you are not in your room - you will forfeit the round.
+- Debaters, do not start debating until you have confirmed that all judges can
+  see your correct names on the right sides on their ballots.
 - Just a Reminder: The use of computers, electronic storage, and retrieval devices, etc., is allowed in LD Rounds.
   - Connectivity to any persons other than the competitors or judges in the
     round is not allowed. Competitors violating this rule will be disqualified
@@ -139,21 +143,25 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
 
 (All times in Central)
 
-| Round        | Pairings Released | In Room Time | Start Time |
-| ------------ | ----------------- | ------------ | ---------- |
-| **Saturday** |                   |              |            |
-| 1            | 7:00AM            | 7:20AM       | 7:30AM     |
-| 2            | 9:00AM            | 9:20AM       | 9:30AM     |
-| 3            | 12:30PM           | 12:50PM      | 1:00PM     |
-| 4            | 3:00PM            | 3:20PM       | 3:30PM     |
-| 5            | 5:45PM            | 6:05PM       | 6:15PM     |
-| **Sunday**   |                   |              |
-| Play-In      | 7:00AM            | 7:20AM       | 7:30AM     |
-| Dbl Octos    | 9:00AM            | 9:20AM       | 9:30AM     |
-| Octo         | 11:00AM           | 11:20AM      | 11:30AM    |
-| Quarts       | 1:00PM            | 1:20PM       | 1:30PM     |
-| Semis        | 2:30PM            | 2:50PM       | 3:00PM     |
-| Final        | 4:00PM            | 4:20PM       | 4:30PM     |
+| Round        | Pairings Released  | In Room Time  | Start Time  |
+| ------------ | ------------------ | ------------- | ----------- |
+| **Saturday** |                    |               |             |
+| 1            | 7:00 AM            | 7:20 AM       | 7:30 AM     |
+| 2            | 9:00 AM            | 9:20 AM       | 9:30 AM     |
+| 3            | 12:30 PM           | 12:50 PM      | 1:00 PM     |
+| 4            | 3:00 PM            | 3:20 PM       | 3:30 PM     |
+| 5            | 5:45 PM            | 6:05 PM       | 6:15 PM     |
+| **Sunday**   |                    |               |             |   
+| Play-In      | 7:00 AM            | 7:20 AM       | 7:30 AM     |
+| Dbl Octos    | 9:00 AM            | 9:20 AM       | 9:30 AM     |
+| Octo         | 11:00 AM           | 11:20 AM      | 11:30 AM    |
+| Quarts       | 1:00 PM            | 1:20 PM       | 1:30 PM     |
+| Semis        | 2:30 PM            | 2:50 PM       | 3:00 PM     |
+| Final        | 4:00 PM            | 4:20 PM       | 4:30 PM     |
+
+**NOTE**:  We hope to release the pairings 30 minutes prior to start time but 
+rounds must start at the originally scheduled time even if that 
+shortens pre-round prep.
 
 ## Judge Notes and Expectations
 
@@ -171,13 +179,14 @@ A SUBSTITUTE JUDGE.**
 
 ### Before the Tournament
 
-- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
+- **Update your paradigm.** Debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
 - Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
 
 ### Before Each Round
 
 - Once you receive your round assignment, click “{{button}}” on your Flight 1 ballot.
 - Please report to the room ASAP and no later than ten minutes prior to the scheduled start time if possible.
+- Confirm (verbally) that the debaters’ names/codes and sides listed on your ballot are correct.
 
 ### Prep Time
 
@@ -204,7 +213,8 @@ A SUBSTITUTE JUDGE.**
 ### After Rounds
 
 - Quickly read any contested evidence you have not already reviewed that is crucial to your decision.
-- Confirm (verbally) that the sides listed on your ballots are correct.
+- Confirm again verbally that the debaters' names/codes and sides listed on your ballot
+  are correct.
 - Enter points (following the scale below) and a decision (there must be one winner and one loser).
   - We are using tenths of points
   - Points cannot be tied
@@ -249,11 +259,9 @@ and useless!
 | 28.3‑28.7 | you hit all the right notes, but could improve (e.g. depth or efficiency) |
 | 27.8‑28.2 | you mainly did the right thing, but left something to be desired          |
 | 27.3‑27.7 | you missed major things and were hard to follow                           |
-| 27.0‑27.2 | you advanced little in the debate or cost your team the round             |
-| 26.0‑26.9 | you are not ready for this division/tournament                            |
+| 27.0‑27.2 | you advanced little in the debate                                         |
+| 26.0‑26.9 | you cost your team the round                                              |
 | Below 26  | you were offensive, ignorant, rude, or tried to cheat (MUST come to tab)  |
-
-For our common speaker point guide, you can think of the score as ignoring the 2 at the beginning and seeing the other two numbers as your grade on a normal 100-point scale. For example, a 29.8 is like a 98 grade, which is an A+, and a 27.1 is like a 71 grade, which is a C-.
 
 ### Forfeits
 
@@ -323,13 +331,11 @@ Procedures:
 > the start time of Policy CX rounds. The reading of complete citations is
 > required only when requested by the opponent.”
 
-For Lincoln Douglas Debate, the Affirmative team should create a Room on
-<https://speechdrop.net/> as soon as they enter the room and share the
-SpeechDrop Room Number with everyone in the round through the Chat feature for
-evidence sharing during the round.
-
-The Room Code should be: the Round Number + Your Event + Your Assigned Room
-Number (e.g., Round 1 in LD in Room 12: “1LD12”).
+ A link to a room on <https://share.tabroom.com/> for the round will be available
+ in your tabroom account.  The room name will be a randomized set of words and
+ numbers (e.g., OpenOtter137).  Files can be shared by uploading them on the
+ website linked or by emailing the address on that page (e.g.,
+ OpenOtter137@share.tabroom.com ).
 
 In Lincoln-Douglas, any evidence read/cited in the round must be made available
 to the opponent upon request. Requests for evidence, and the time spent finding

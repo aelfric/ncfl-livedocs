@@ -7,7 +7,7 @@ affect our decisions. When judging, our implicit biases negatively impact
 students who are traditionally marginalized and disenfranchised. Before writing
 comments or making a decision, please take a moment to reflect on any biases
 that may impact your decision-making process. If you have not already, please
-take the [Implicit Bias Training](https://docs.google.com/forms/d/e/1FAIpQLSeOWgcJfxeOt_92jbEMf6NfkVSPcvU-DwT2Q3dsmhdb9ptB1g/viewform?usp=sf_link).
+take the [Implicit Bias Training](https://forms.gle/2ptT89EWCTULkNYW6).
 
 ### NCFL Harassment & Discrimination Policy
 
@@ -28,7 +28,7 @@ who believe they have been a victim of harassment and/or discrimination should
 report it to an Equity Advocate or appropriate authority immediately.
 
 * Any tournament participant, including students, coaches, judges, and
-observers, who believe they have been the subject of harassment and/or
+observers, who believes they have been the subject of harassment and/or
 discrimination in violation of the NCFL Harassment and Discrimination policy
 are encouraged to contact an equity advocate and report the alleged violation.
 * Please note: Equity Concerns should be brought to the committee if someone
@@ -38,11 +38,11 @@ be filed if someone is in violation of competitive event rules.
 ### Open Door Policy at the NCFL Grand National Tournament
 
 The NCFL is committed to providing safe performance spaces for all competitors
-and judges. We acknowledge the art of advocacy through performance and debate
-may be a healing process and/or opportunity to speak on important topics. It is
-impossible to know all the ways in which content or a performance or debate may
+and judges. We acknowledge that the art of advocacy through performance and debate
+may be a healing process and/or an opportunity to speak on important topics. It is
+impossible to know all the ways in which content, a performance, or a debate may
 unintentionally harm or trigger members of the audience. To better serve our
-competitors, we will be honoring an open door practice during all rounds.
+competitors, we will be honoring an open-door practice during all rounds.
 
 The open door policy means competitors and other audience members may choose to
 leave or stay in a room when a performance negatively impacts their wellbeing.
@@ -69,7 +69,7 @@ content warnings in any of our events.
 That said, we recognize that words are powerful and can impact our audience in
 ways we do, and sometimes do not, intend. If competitors would like to
 optionally give content warnings, that is permitted and encouraged as a
-thoughtful good practice.
+thoughtful, good practice.
 
 As a best practice, content warnings should:
 

@@ -1,8 +1,12 @@
 ---
-title: 2024 NCFL Policy Debate Live Doc
+title: "{{current_year}} NCFL Policy Debate Live Doc"
 mustache:
   - vars.yaml
 ---
+
+::: {custom-style=current_status}
+[CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday.
+:::
 
 ## Contact Information
 
@@ -12,15 +16,13 @@ mustache:
 
 **Policy Judge Standby Room**:
 
-- Saturday: Palmer House - Empire Ballroom
-- Sunday:
-  - 7am - 2pm:  Hilton Chicago - Normandie Lounge (2nd Floor)
-  - 2:30 - 6pm:  Hilton Chicago - Astoria Room (3rd Floor)
+- Saturday: Palmer House - Crystal Room (3rd Floor)
+- Sunday: Palmer House - Wabash Room (3rd Floor)
 
 **Policy Tab Room**:
 
 - Saturday: Palmer House - Cresthill Room (3rd Floor)
-- Sunday: Hilton Chicago - PDR #1 (3rd Floor)
+- Sunday: Palmer House - Cresthill Room (3rd Floor)
 
 **Policy Tab Room Support** (text only): {{cx_phone}} or email [{{cx_email}}](email)
 
@@ -35,21 +37,14 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-## Tournament Sites and Network Information
-See [https://www.ncflnationals.org/sites.html](https://www.ncflnationals.org/sites.html) for addresses and directions.
 
-_All_ students, judges, observers, volunteers, and staff will need wristbands to enter competition venues on Saturday and Sunday.  Wristbands
-are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Boulevard A-C.
-
-### Palmer House Hilton (Saturday)
-
-```{include="sites/palmer-house.md"}
+```{include="sites.md"}
 
 ```
 
-### Hilton Chicago (Sunday)
+### Palmer House Hilton (Saturday and Sunday)
 
-```{include="sites/hilton.md"}
+```{include="sites/palmer-house.md"}
 
 ```
 
@@ -62,6 +57,8 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
 - Everyone (competitors and judges) should be in competition rooms no later
   than 10 minutes before the round is scheduled to start. Contact tab if anyone
   is missing at start time
+- Debaters, do not start debating until you have confirmed that all judges can
+  see your correct names on the right sides on their ballots.
 - Evidence Sharing: Students should be prepared to share, electronically or by
   paper, any evidence they read in the round with their opponent and the judge.
   If you want to share evidence online, it should be done using
@@ -85,20 +82,24 @@ are available Friday (10am - 6pm) outside Registration - Hilton Chicago, Bouleva
 
 (All times in Central)
 
-| Round        | Pairings Released | In Room Time | Start Time |
-|--------------|-------------------|--------------|------------|
-| **Saturday** |                   |              |            |
-| 1            | 7:00AM            | 7:20AM       | 7:30AM     | 
-| 2            | 9:00AM            | 9:20AM       | 9:30AM     | 
-| 3            | 12:30PM           | 12:50PM      | 1:00PM     | 
-| 4            | 2:45PM            | 3:05PM       | 3:15PM     | 
-| 5            | 5:15PM            | 5:35PM       | 5:45PM     |
-| **Sunday**   |                   |              |            |
-| Dbl Octos    | 7:00AM            | 7:20AM       | 7:30AM     | 
-| Octos        | 9:30AM            | 9:50AM       | 10:00AM    | 
-| Quarts       | 12:00PM           | 12:20PM      | 12:30PM    | 
-| Semis        | 2:30PM            | 2:50PM       | 3:00PM     | 
-| Final        | 4:45PM            | 5:05PM       | 5:15PM     | 
+| Round        | Pairings Released  | In Room Time  | Start Time  |
+|--------------|--------------------|---------------|-------------|
+| **Saturday** |                    |               |             |
+| 1            | 7:00 AM            | 7:20 AM       | 7:30 AM     | 
+| 2            | 9:00 AM            | 9:20 AM       | 9:30 AM     | 
+| 3            | 12:30 PM           | 12:50 PM      | 1:00 PM     | 
+| 4            | 2:45 PM            | 3:05 PM       | 3:15 PM     | 
+| 5            | 5:15 PM            | 5:35 PM       | 5:45 PM     |
+| **Sunday**   |                    |               |             |
+| Dbl Octos    | 7:00 AM            | 7:20 AM       | 7:30 AM     | 
+| Octos        | 9:30 AM            | 9:50 AM       | 10:00 AM    | 
+| Quarters     | 12:00 PM           | 12:20 PM      | 12:30 PM    | 
+| Semis        | 2:45 PM            | 3:05 PM       | 3:15 PM     | 
+| Final        | 4:45 PM            | 5:05 PM       | 5:15 PM     | 
+
+**NOTE**:  We hope to release the pairings 30 minutes prior to start time but 
+rounds must start at the originally scheduled time even if that 
+shortens pre-round prep.
 
 ## Judge Notes and Expectations
 
@@ -106,7 +107,7 @@ Judges: thank you! Tournaments do not exist without you!
 
 ### Before the Tournament
 
-- **Update your paradigm** debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
+- **Update your paradigm.** Debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
 - Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
 
 
@@ -119,6 +120,7 @@ Judges: thank you! Tournaments do not exist without you!
     - **You can be fined for not reporting to your room on time.** If the TAB Room has to substitute a new/different judge in for your assigned round, you will be fined. 
 
 - Once you are in your room:
+    - Confirm (verbally) that the debaters’ names/codes and sides listed on your ballot are correct.
     - If your ballot shows the wrong sides according to the debaters, refresh the page! If you clicked in before they finished the flip, it might need to be reset.
     - If debaters are missing at In Room Time, text or email tab or tell a member
       of tab staff
@@ -140,7 +142,8 @@ Judges: thank you! Tournaments do not exist without you!
 ### After Rounds
 
 - Quickly read any evidence that is crucial to making your decision.
-- Confirm (verbally) that the sides listed on your ballot are correct.
+- Confirm again verbally that the debaters' names/codes and sides listed on your ballot
+  are correct.
 - DO NOT CONFER WITH OTHER JUDGES except to confirm that sides are correct.
   Judges must decide the winner independently.
 - Enter points (following the scale; see ballot and below) and a decision (must
@@ -186,11 +189,7 @@ described below.
 - Judges are obligated for all preliminary rounds. Elimination round
   obligations are set by the diocese and determined before the tournament. Tab
   will not change assignments, except if you are volunteering for extra rounds!
-- Note that first year out judges cannot judge elimination debates under any
-  circumstances. If you are a {{last_year}} high school graduate assigned to elimination
-  round pools, find a willing substitute from your diocese or your diocese will
-  be fined - and make this change with the Tabroom Staff before prelims end on
-  Saturday.
+
 
 ## Event Rules
 
@@ -293,14 +292,11 @@ and useless!
 | 28.3‑28.7 | you hit all the right notes, but could improve (e.g. depth or efficiency) |
 | 27.8‑28.2 | you mainly did the right thing, but left something to be desired          |
 | 27.3‑27.7 | you missed major things and were hard to follow                           |
-| 27.0‑27.2 | you advanced little in the debate or cost your team the round             |
-| 26.0‑26.9 | you are not ready for this division/tournament                            |
+| 27.0‑27.2 | you advanced little in the debate                                         |
+| 26.0‑26.9 | you cost your team the round                                              |
 | Below 26  | you were offensive, ignorant, rude, or tried to cheat (MUST come to tab)  |
 
 Low-point wins (where the winning team has fewer points than the losing team) are allowed.
-
-For our common speaker point guide, you can think of the score as ignoring the 2 at the beginning and seeing the other two numbers as your grade on a normal 100-point scale. For example, a 29.8 is like a 98 grade, which is an A+, and a 27.1 is like a 71 grade, which is a C-.
-
 
 ### No mavericks allowed
 
