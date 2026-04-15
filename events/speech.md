@@ -17,23 +17,20 @@ mustache:
 
 **Extemp Prep Room**:
 
-* Saturday: Palmer House - Red Lacquer Ballroom (4th Floor)
-* Sunday: Hilton Chicago - Marquette (3rd Floor)
+* Saturday: Convention Center - L1 - 151-AB
+* Sunday: Marriott Marquis - M1 - Georgetown Univ
 
 **Speech Judge Standby Room**:
 
 * Saturday:
-    * East-West University: Student Life Center (SLC) Lobby
-    * Jones College Prep: TBD
-    * Roosevelt University: Fainman Lounge
-    * Columbia College: 2nd Floor Lobby
-    * Palmer House: Empire Ballroom
-* Sunday: Hilton Chicago - Normandie Lounge (2nd Floor)
+    * Convention Center - L1 - 146-ABC
+    * Marriott Marquis - M2 - Marquis 5,6
+* Sunday: Marriott Marquis - M4 - Treasury
 
 **Speech Tab Room**:
 
-* Saturday: Hilton Chicago - Buckingham (Lobby)
-* Sunday: Hilton Chicago - Buckingham (Lobby)
+* Saturday: Convention Center - L1 - 152- B
+* Sunday: Marriott Marquis - M2 - Marquis 12,13
 
 **Speech Tab Room Support** (text only): {{speech_phone}} or email: [{{speech_email}}](email)
 
@@ -53,40 +50,21 @@ Nothing yet. Check back here during the tournament for important information.
 
 ```
 
+### Convention Center (Saturday - Extemp, Declamation, Oratory)
 
-### Columbia College (Saturday - Duo Interp)
-
-```{include="sites/columbia.md"}
-
-```
-
-### Roosevelt University (Saturday - Original Oratory)
-
-```{include="sites/roosevelt.md"}
+```{include="sites/wewcc.md"}
 
 ```
 
-### East-West University (Saturday - Oral Interpretation of Literature)
+### Marriott Marquis (Saturday - Dramatic Performance, Oral Interpretation, Sunday - All Speech Elims)
 
-```{include="sites/east-west.md"}
-
-```
-
-### Jones College Prep (Saturday - Declamation and Dramatic Performance)
-
-```{include="sites/jones.md"}
+```{include="sites/marquis.md"}
 
 ```
 
-### Palmer House (Saturday - Extemporaneous Speaking)
+### Westin DC (Saturday - Duo Interpretation)
 
-```{include="sites/palmer-house.md"}
-
-```
-
-### Hilton Chicago (Sunday - All Speech Elims)
-
-```{include="sites/hilton.md"}
+```{include="sites/marquis.md"}
 
 ```
 
@@ -273,7 +251,7 @@ Speech Tab Room directly, through the text line at {{speech_phone}} or
 
 [Critique Sheet and Judging Criteria for Dramatic Performance (Last updated 2019)](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncfl_master_critique_dp_for_2019.pdf)
 
-### ​Duo Interpretation of Literature
+### Duo Interpretation of Literature
 
 - The selection, delivered by two students each representing the same member
   school, must be from a single play, fictional, or nonfictional work. A series

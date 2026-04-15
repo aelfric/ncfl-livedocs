@@ -42,15 +42,15 @@ Nothing yet. Check back here during the tournament for important information.
 ```
 
 
-### Hilton Chicago (Saturday)
+### Convention Center (Saturday)
 
-```{include="sites/hilton.md"}
+```{include="sites/wewcc.md"}
 
 ```
 
-### Palmer House Hilton (Sunday)
+### Westin DC (Sunday)
 
-```{include="sites/palmer-house.md"}
+```{include="sites/westin.md"}
 
 ```
 

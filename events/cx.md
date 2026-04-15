@@ -42,9 +42,15 @@ Nothing yet. Check back here during the tournament for important information.
 
 ```
 
-### Palmer House Hilton (Saturday and Sunday)
+### Convention Center (Saturday)
 
-```{include="sites/palmer-house.md"}
+```{include="sites/wewcc.md"}
+
+```
+
+### Marriott Marquis (Sunday)
+
+```{include="sites/marquis.md"}
 
 ```
 
