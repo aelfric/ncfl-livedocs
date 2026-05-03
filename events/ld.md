@@ -1,5 +1,5 @@
 ---
-title: "{{current_year}} NCFL Lincoln-Douglas Debate Live Doc"
+title: "{{currentYear}} NCFL Lincoln-Douglas Debate Live Doc"
 mustache:
   - vars.yaml
 ---
@@ -24,7 +24,7 @@ mustache:
 - Saturday: Hilton Chicago - Mobley Room (Lower Lobby)
 - Sunday: Palmer House - Ashland (3rd Floor)
 
-**LD Tab Room Support** (text only): {{ld_phone}} or email [{{ld_email}}](email)
+**LD Tab Room Support** (text only): {{ldPhone}} or email [{{ldEmail}}](email)
 
 **Equity Advocates**:
 ```{include="equity-contact.md"}

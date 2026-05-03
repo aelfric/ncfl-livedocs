@@ -1,5 +1,5 @@
 ---
-title: "{{current_year}} NCFL Speech Events Live Doc"
+title: "{{currentYear}} NCFL Speech Events Live Doc"
 mustache:
   - vars.yaml
 ---
@@ -17,22 +17,22 @@ mustache:
 
 **Extemp Prep Room**:
 
-* Saturday: Convention Center - L1 - 151-AB
-* Sunday: Marriott Marquis - M1 - Georgetown Univ
+- Saturday: Convention Center - L1 - 151-AB
+- Sunday: Marriott Marquis - M1 - Georgetown Univ
 
 **Speech Judge Standby Room**:
 
-* Saturday:
-    * Convention Center - L1 - 146-ABC
-    * Marriott Marquis - M2 - Marquis 5,6
-* Sunday: Marriott Marquis - M4 - Treasury
+- Saturday:
+  - Convention Center - L1 - 146-ABC
+  - Marriott Marquis - M2 - Marquis 5,6
+- Sunday: Marriott Marquis - M4 - Treasury
 
 **Speech Tab Room**:
 
-* Saturday: Convention Center - L1 - 152- B
-* Sunday: Marriott Marquis - M2 - Marquis 12,13
+- Saturday: Convention Center - L1 - 152- B
+- Sunday: Marriott Marquis - M2 - Marquis 12,13
 
-**Speech Tab Room Support** (text only): {{speech_phone}} or email: [{{speech_email}}](email)
+**Speech Tab Room Support** (text only): {{speechPhone}} or email: [{{speechEmail}}](email)
 
 **Equity Advocates**:
 
@@ -62,37 +62,31 @@ Nothing yet. Check back here during the tournament for important information.
 
 ```
 
-### Westin DC (Saturday - Duo Interpretation)
-
-```{include="sites/marquis.md"}
-
-```
-
 ## Schedule
 
-| Start Time    | (All times in Central)                                        |
-|---------------|---------------------------------------------------------------|
-| **Saturday**  |                                                               |
-| 8:00 AM       | EX 1 (Draw)                                                   | 
-| 8:30 AM       | DEC 1, DUO 1, DP 1, EX 1, OO 1, OI 1                          | 
-| 10:15 AM      | DEC 2, DUO 2, DP 2, OO 2, OI 2                                | 
-| 10:00 AM      | EX 2 (Draw)                                                   | 
-| 10:30 AM      | EX 2                                                          | 
-| 1:30 PM       | EX 3 (Draw)                                                   | 
-| 1:45 PM       | DEC 3, DUO 3, DP 3, OO 3, OI 3                                | 
-| 2:00 PM       | EX 3                                                          | 
-| 3:30 PM       | DEC 4, DUO 4, DP 4, OO 4, OI 4                                | 
-| 3:30 PM       | EX 4 (Draw)                                                   | 
-| 4:00 PM       | EX 4                                                          | 
-| **Sunday**    |                                                               |
-| 8:00 AM       | EX Octo (Draw)                                                | 
-| 8:30 AM       | DEC Octo, DUO Octo, DP Octo, OO Octo, OI Octo, EX Octo        | 
-| 11:00 AM      | EX Quar (Draw)                                                | 
-| 11:30 AM      | DEC Quar, DUO Quar, DP Quar, OO Quar, OI Quar, EX Quar        | 
-| 1:30 PM       | EX Semi (Draw)                                                | 
-| 2:00 PM       | DEC Semi, DUO Semi, DP Semi, OO Semi, OI Semi, EX Semi        | 
-| 3:45 PM       | EX Final (Draw)                                               | 
-| 4:15 PM       | DEC Final, DUO Final, DP Final, OO  Final, OI Final, EX Final | 
+| Start Time   | (All times in Eastern)               |
+| ------------ | ------------------------------------ |
+| **Saturday** |                                      |
+| 8:00 AM      | EX 1 (Draw)                          |
+| 8:30 AM      | DEC 1, DUO 1, DP 1, EX 1, OO 1, OI 1 |
+| 10:00 AM     | EX 2 (Draw)                          |
+| 10:15 AM     | DEC 2, DUO 2, DP 2, OO 2, OI 2       |
+| 10:30 AM     | EX 2                                 |
+| 1:30 PM      | EX 3 (Draw)                          |
+| 1:45 PM      | DEC 3, DUO 3, DP 3, OO 3, OI 3       |
+| 2:00 PM      | EX 3                                 |
+| 3:30 PM      | DEC 4, DUO 4, DP 4, OO 4, OI 4       |
+| 3:30 PM      | EX 4 (Draw)                          |
+| 4:00 PM      | EX 4                                 |
+| **Sunday**   |                                      |
+| 8:00 AM      | EX Octofinal (Draw)                  |
+| 8:30 AM      | Octofinals - all events              |
+| 11:00 AM     | EX Quarterfinal (Draw)               |
+| 11:30 AM     | Quarterfinals - all events           |
+| 1:30 PM      | EX Semifinal (Draw)                  |
+| 2:00 PM      | Semifinals - all events              |
+| 3:45 PM      | EX Final (Draw)                      |
+| 4:15 PM      | Finals - all events                  |
 
 ## Round Procedures
 
@@ -116,21 +110,21 @@ Nothing yet. Check back here during the tournament for important information.
 #### Before Each Round
 
 - Once you receive a round assignment, please note the time and plan to arrive in the room 10 minutes prior to the start time. Please hit the "In the room" button once you have arrived in the room.
-- Do not begin the round until you have confirmed all three judges are present.  (Do not assume another adult in the room is a judge.)  Checkers will be checking rooms and will report missing judges to the tab room.  Please only text about a missing judge if a checker has not been to your room 15 minutes after the round was scheduled to begin.  We will send the checker to the room to help replace the judge.
+- Do not begin the round until you have confirmed all three judges are present. (Do not assume another adult in the room is a judge.) Checkers will be checking rooms and will report missing judges to the tab room. Please only text about a missing judge if a checker has not been to your room 15 minutes after the round was scheduled to begin. We will send the checker to the room to help replace the judge.
 - You do not need every student present in order to start the round. If you are
   missing students in your room **30 mins after** the posted start time -
   please contact us!
-    - TEXT ONLY TO {{speech_phone}}. Include in your Text:
-        - The Room Number you are in AND
-        - Your Issue -
-        - If missing a competitor - type in Missing + Competitor Code
+  - TEXT ONLY TO {{speechPhone}}. Include in your Text:
+    - The Room Number you are in AND
+    - Your Issue -
+    - If missing a competitor - type in Missing + Competitor Code
 - If a student arrives late, have them speak in the closest position to their
   initial speaker order on the ballot.
 - Observers are allowed in Saturday rounds ONLY with the permission of ALL
   Competitors & Judges in the Room. Anyone can say NO without penalty or
   prejudice.
 - Observers are allowed in Sunday rounds without any special permission subject
-  to the room's capacity. 
+  to the room's capacity.
 - All observers must be seated. If you are still
   competing you CANNOT observe rounds in your event until you are eliminated
 
@@ -189,13 +183,13 @@ Nothing yet. Check back here during the tournament for important information.
 See the Webinar recorded on Sunday: <https://www.youtube.com/watch?v=cWzTv4KxiQs />
 
 ### Time Signals
+
 - Keep time (All events are 10 minutes with 30-second grace except Extemp which is 7 minutes with a 30-second grace)
-- Give whatever time signals speakers request - in Extemp it is EXPECTED that judges give time signals from 5 down. In all events, it is a sign of preparation, not lack of preparation, to ask for signals.  
-- Before you penalize, please make sure you showed the speakers the requested time signals.  The mandated penalty for going overtime is that the student may not be ranked first.
+- Give whatever time signals speakers request - in Extemp it is EXPECTED that judges give time signals from 5 down. In all events, it is a sign of preparation, not lack of preparation, to ask for signals.
+- Before you penalize, please make sure you showed the speakers the requested time signals. The mandated penalty for going overtime is that the student may not be ranked first.
 - Examples of time signals can be found below:
 
 ![Illustration of time signals](./images/time-signals.png)
-
 
 ### Judge Reminder
 
@@ -205,7 +199,7 @@ presentation. Personal values of the judges should not influence the decision.
 
 ### Rule Violations & Protest Procedures
 
-Please consult the TAB Room ({{speech_phone}}) before deciding that something
+Please consult the TAB Room ({{speechPhone}}) before deciding that something
 in the round warrants a reduction in rank. Beyond going over the grace period
 on time, do not penalize a student for a rule infraction until you have
 discussed the matter with TAB. If you think a speaker should be disqualified,
@@ -215,8 +209,8 @@ own.
 #### Protest Procedures
 
 If someone has a question regarding a protest, they can contact the
-Speech Tab Room directly, through the text line at {{speech_phone}} or
-[{{speech_email}}](email).
+Speech Tab Room directly, through the text line at {{speechPhone}} or
+[{{speechEmail}}](email).
 
 - Per NCFL bylaws, only a coach or a judge may submit a protest.
 - If a protest is warranted, a member of the Protest team will speak with that
@@ -330,8 +324,7 @@ Speech Tab Room directly, through the text line at {{speech_phone}} or
   should be delivered from center stage. Movement and gestures, if used, should
   be appropriate to the selection. Speakers should not walk during performances.
   They should emphasize vocal variety and facial expression to enhance the
-  literary interpretation.  
-
+  literary interpretation.
 
 [Critique Sheet and Judging Criteria for Oral Interpretation of Literature (Last updated 2019)](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncfl_master_critique_oi_for_2019.pdf)
 

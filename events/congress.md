@@ -1,5 +1,5 @@
 ---
-title: "{{current_year}} Student Congress Live Doc"
+title: "{{currentYear}} Student Congress Live Doc"
 mustache:
   - vars.yaml
 ---

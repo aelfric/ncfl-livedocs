@@ -1,5 +1,5 @@
 ---
-title: "{{current_year}} NCFL Public Forum Debate Live Doc"
+title: "{{currentYear}} NCFL Public Forum Debate Live Doc"
 mustache:
   - vars.yaml
 ---
@@ -24,7 +24,7 @@ mustache:
 - Saturday: Hilton Chicago - Astoria Room (3rd Floor)
 - Sunday: Palmer House - Harvard Room (3rd Floor)
 
-**PF Tab Room Support** (text only): {{pf_phone}} or email [{{pf_email}}](email)
+**PF Tab Room Support** (text only): {{pfPhone}} or email [{{pfEmail}}](email)
 
 **Equity Advocates**:
 
@@ -64,7 +64,7 @@ Nothing yet. Check back here during the tournament for important information.
   Flight 1 is not, the Flight 2 may debate first. Do NOT mix flights.
 - There are 3 judges in every round + 2 teams. Please wait for all three judges
 - FORFEIT is 10 mins after start of round. Tab Chairs are THE ONLY ONES WHO CAN
-  AWARD A FORFEIT. TEXT US AT {{pf_phone}}.
+  AWARD A FORFEIT. TEXT US AT {{pfPhone}}.
 - Debaters, do not start debating until you have confirmed that all judges can
   see your correct names on the right sides on their ballots.
 

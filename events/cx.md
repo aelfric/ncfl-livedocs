@@ -1,5 +1,5 @@
 ---
-title: "{{current_year}} NCFL Policy Debate Live Doc"
+title: "{{currentYear}} NCFL Policy Debate Live Doc"
 mustache:
   - vars.yaml
 ---
@@ -24,7 +24,7 @@ mustache:
 - Saturday: Palmer House - Cresthill Room (3rd Floor)
 - Sunday: Palmer House - Cresthill Room (3rd Floor)
 
-**Policy Tab Room Support** (text only): {{cx_phone}} or email [{{cx_email}}](email)
+**Policy Tab Room Support** (text only): {{cxPhone}} or email [{{cxEmail}}](email)
 
 **Equity Advocates**:
 

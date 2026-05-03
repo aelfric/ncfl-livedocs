@@ -7,4 +7,4 @@ For general tournament logistics, such as the following, see the [tournament web
 - Locations of all-gender restrooms & period products
 - The tournament mass
 - Souvenir sale locations
-- Our NCFL {{current_year}} Service Project
+- Our NCFL {{currentYear}} Service Project
