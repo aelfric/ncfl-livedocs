@@ -10,7 +10,6 @@ mustache:
 
 ## Contact Information
 
-
 ```{include="tabroom-notifs.md"}
 
 ```
@@ -40,11 +39,9 @@ mustache:
 
 ```
 
-
 ## Announcements / Updates
 
 Nothing yet. Check back here during the tournament for important information.
-
 
 ```{include="sites.md"}
 
@@ -120,19 +117,12 @@ Nothing yet. Check back here during the tournament for important information.
     - If missing a competitor - type in Missing + Competitor Code
 - If a student arrives late, have them speak in the closest position to their
   initial speaker order on the ballot.
-- Observers are allowed in Saturday rounds ONLY with the permission of ALL
-  Competitors & Judges in the Room. Anyone can say NO without penalty or
-  prejudice.
-- Observers are allowed in Sunday rounds without any special permission subject
-  to the room's capacity.
-- All observers must be seated. If you are still
-  competing you CANNOT observe rounds in your event until you are eliminated
 
 #### During Rounds
 
 - Take notes DURING the performance. You can type, the students are used to it!
-  Do not wait until after each student to write your comments. Keep time.
-  Please provide time signals per the student’s request. If time signals are
+  Do not wait until after each student to write your comments. 
+- Keep time, and please provide time signals per the student’s request. If time signals are
   requested and not provided as promised, DO NOT penalize the student if they
   perform over the grace period of 30 seconds.
 - Record your comments using a ‘hard drive’ program (Word, Notepad, Pages). If
@@ -176,11 +166,17 @@ Nothing yet. Check back here during the tournament for important information.
   Saturday. For Elimination Rounds, please work to have all comments for each
   Elimination Round on the ballot within 30 minutes of the round ending.
 
+### Observers
+
+```{include="observers.md"}
+
+```
+
 ## Judge Notes and Expectations
 
 ### Judge Training
 
-See the Webinar recorded on Sunday: <https://www.youtube.com/watch?v=cWzTv4KxiQs />
+See the Webinar recorded on Sunday: <https://www.youtube.com/watch?v=cWzTv4KxiQs>
 
 ### Time Signals
 
