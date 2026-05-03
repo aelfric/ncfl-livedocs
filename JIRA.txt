@@ -1,0 +1,31 @@
+[X] Update schedules in all events
+- [X] Speech
+- [X] Congress
+- [X] LD
+- [X] PF
+- [X] CX
+
+[ ] Review locations for all events
+  - [ ] Saturday
+    - [ ] Speech
+    - [ ] Congress
+    - [ ] LD
+    - [ ] PF
+    - [ ] CX
+  - [ ] Sunday
+    - [ ] Speech
+    - [ ] Congress
+    - [ ] LD
+    - [ ] PF
+    - [ ] CX
+
+[ ] Any updates for Equity?
+[ ] Create protest contact form an procedures and add to doc
+
+[ ] General Review Pass
+- [ ] Speech
+- [ ] Congress
+- [ ] LD
+- [ ] PF
+- [ ] CX
+

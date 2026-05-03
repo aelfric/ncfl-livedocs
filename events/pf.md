@@ -70,7 +70,7 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Schedule
 
-(All times in Central)
+(All times in Eastern)
 
 | Round        | Pairings Released  | In Room Time  | Start Time  |
 | ------------ | ------------------ | ------------- | ----------- |
