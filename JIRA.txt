@@ -10,6 +10,14 @@
 - [ ] Congress
 - [ ] LD
 - [ ] PF
+- [X] CX
+
+
+[ ] Mask language?
+- [X] Speech
+- [ ] Congress
+- [ ] LD
+- [X] PF
 - [ ] CX
 
 [ ] Review locations for all events
@@ -28,6 +36,10 @@
 
 [ ] Any updates for Equity?
 [ ] Create protest contact form an procedures and add to doc
+[ ] Can/Should we visualize the colors for the cubicles?
+[ ] Standardize coinflip language
+[ ] Extract paradigm langauge
+[ ] Extract speaker point scale
 
 [ ] General Review Pass
 - [ ] Speech
@@ -36,6 +48,7 @@
   - [ ] Update judge training link
 - [ ] Congress
 - [ ] LD
-- [ ] PF
+- [X] PF
 - [ ] CX
+  - [ ] evidence challenge rules NSDA?
 

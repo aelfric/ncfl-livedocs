@@ -16,13 +16,13 @@ mustache:
 
 **LD Judge Standby Room**:
 
-- Saturday: Hilton Chicago - Normandie Lounge (2nd Floor)
-- Sunday: Palmer House - Red Lacquer Room (4th Floor)
+- Saturday: Convention Center - L1 - 146-ABC
+- Sunday: Westin - Potomac (Grand) 3 Ballroom
 
 **LD Tab Room**:
 
-- Saturday: Hilton Chicago - Mobley Room (Lower Lobby)
-- Sunday: Palmer House - Ashland (3rd Floor)
+- Saturday: Convention Center - L1 - 154-B
+- Sunday: Westin - Foundry Branch (Lafayette)
 
 **LD Tab Room Support** (text only): {{ldPhone}} or email [{{ldEmail}}](email)
 
@@ -57,8 +57,6 @@ Nothing yet. Check back here during the tournament for important information.
 
 ### Important Notes
 
-- **Topic** Resolved: In the United States, public K-12 schools ought to eliminate
-  academic tracking.
 - Saturday rounds are DOUBLE-flighted.
   - For rounds 1 through 4:
     - Judges: if you do NOT have both A-flight debaters, but you do have
@@ -84,27 +82,24 @@ Nothing yet. Check back here during the tournament for important information.
 ### How It Works
 
 - Judges: once Pairings are posted, as soon as possible: (1) get to your room;
-  and (2) access your ballot by hitting the “{{button}}” button (formerly known
-  as “Start”) on the Flight 1 ballot immediately.
+  and (2) access your ballot by hitting the “{{button}}” button on the Flight 1 ballot immediately.
   - If you end up running the Flight 2 first - that’s ok. You can click
     {{button}} on the Flight 2 ballot and Tabroom can unstart Flight 1 for you.
     You can then click {{button}} on the Flight 1 ballot once you run that
     flight.
-  - We want judges to press the {{button}} (formerly known as the "Start
-    Button") on the Flight 1 ballot as soon as possible, so we know you are here,
+  - We want judges to press the {{button}} on the Flight 1 ballot as soon as possible, so we know you are here,
     and we do not need to find a substitute!
 - Judges: to be very clear: do not wait for the beginning of the Flight 1
-  debate to press the {{button}} (formerly known as the "Start Button") . Press
+  debate to press the {{button}}. Press
   {{button}} on the Flight 1 ballot the moment you are on your way.
   Reminder: competitors will forfeit their Round if they are not in the
   competition room 10 minutes after the Round is posted to start.
 - Judges - if you need a forfeit declared - Text Tab at {{ldPhone}}!! You cannot declare
   the forfeit. Only the Tab Chair can declare a forfeit.
-
 - Evidence Sharing: Students should be prepared to share, electronically or by
   paper, any evidence they read in the round with their opponent and the judge.
   If you want to share evidence online, it should be done using
-  <https://share.tabroom.com/>. A link to the sharing space for the round will
+  <https://share.tabroom.com>. A link to the sharing space for the round will
   be sent to each debater through the pairing
 
 - Audio and video recordings of the rounds are prohibited. NO ONE (neither competitors nor judges) may record rounds.
@@ -127,8 +122,7 @@ Nothing yet. Check back here during the tournament for important information.
 - We are very tight on judges - so please plan to judge all 5 rounds (10 flights) on Saturday.
 - If you are assigned a round: push “{{button}}” to acknowledge the ballot as
   soon as you are in the room and able. If it is a double flighted round, press
-  the {{button}} (formerly known as the "Start Button") for the Flight 1
-  ballot.
+  the {{button}} for the Flight 1 ballot.
 - If you are not assigned a round: report to the Judge Standby Room and wait until
   you have been released by the TAB Room Staff. You will be released when all
   rounds have started.
@@ -294,7 +288,7 @@ the flip may choose the side on which they want to compete.
 
 In Lincoln-Douglas the affirmative will always speak first.
 
-Tabroom.com **will** manage the coin flip. Five minutes after a
+Tabroom.com will manage the coin flip. Five minutes after a
 pairing is released, the teams will be notified who won the flip, enabling that
 team to make their selection. **Debaters must check their email for the
 Tabroom.com link!** If they miss their chance, the other team will be given the

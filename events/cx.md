@@ -16,13 +16,13 @@ mustache:
 
 **Policy Judge Standby Room**:
 
-- Saturday: Palmer House - Crystal Room (3rd Floor)
-- Sunday: Palmer House - Wabash Room (3rd Floor)
+- Saturday: Convention Center - L1 - 146-ABC
+- Sunday: Marriott Marquis - M3 - Shaw / LeDroit Park
 
 **Policy Tab Room**:
 
-- Saturday: Palmer House - Cresthill Room (3rd Floor)
-- Sunday: Palmer House - Cresthill Room (3rd Floor)
+- Saturday: Convention Center - L1 - 155
+- Sunday: Marriott Marquis - M3 - Capitol Hill
 
 **Policy Tab Room Support** (text only): {{cxPhone}} or email [{{cxEmail}}](email)
 
@@ -32,11 +32,9 @@ mustache:
 
 ```
 
-
 ## Announcements / Updates
 
 Nothing yet. Check back here during the tournament for important information.
-
 
 ```{include="sites.md"}
 
@@ -61,7 +59,7 @@ Nothing yet. Check back here during the tournament for important information.
 - Once Pairings are posted, judges should immediately access your ballot by
   hitting the “{{button}}” button
 - Everyone (competitors and judges) should be in competition rooms no later
-  than 10 minutes before the round is scheduled to start. Contact tab if anyone
+  than 10 minutes before the round is scheduled to start. Contact Tab if anyone
   is missing at start time
 - Debaters, do not start debating until you have confirmed that all judges can
   see your correct names on the right sides on their ballots.
@@ -74,37 +72,43 @@ Nothing yet. Check back here during the tournament for important information.
 ### Judges
 
 - There are three (3) judges per round (5 in Semis and Finals). Please confirm that all three judges see the same teams on their ballots before the round begins.
-- If you are assigned a round: push “{{button}}” as you receive the ballot.
+- If you are assigned a round: push “{{button}}” as soon as you receive the ballot.
 - If you are not assigned a round: report to the event judge standby room
-  and wait until the TAB Room has released you. You will be released when all
+  and wait until the Tab Room has released you. You will be released when all
   rounds have started. We may need to ask you to substitute for a missing
   judge, so it is critical that you report to and remain in the judge standby room if
   you are not scheduled for a round.
-- You can be fined for not reporting to your room on time. If the TAB Room has
+- You can be fined for not reporting to your room on time. If the Tab Room has
   to substitute a new/different judge for your assigned round, you will be
   fined.
+
+### Observers
+
+```{include="observers.md"}
+
+```
 
 ## Schedule
 
 (All times in Eastern)
 
-| Round        | Pairings Released  | In Room Time  | Start Time  |
-|--------------|--------------------|---------------|-------------|
-| **Saturday** |                    |               |             |
-| 1            | 7:00 AM            | 7:20 AM       | 7:30 AM     | 
-| 2            | 9:00 AM            | 9:20 AM       | 9:30 AM     | 
-| 3            | 12:30 PM           | 12:50 PM      | 1:00 PM     | 
-| 4            | 2:45 PM            | 3:05 PM       | 3:15 PM     | 
-| 5            | 5:15 PM            | 5:35 PM       | 5:45 PM     |
-| **Sunday**   |                    |               |             |
-| Dbl Octos    | 7:00 AM            | 7:20 AM       | 7:30 AM     | 
-| Octos        | 9:30 AM            | 9:50 AM       | 10:00 AM    | 
-| Quarters     | 12:00 PM           | 12:20 PM      | 12:30 PM    | 
-| Semis        | 2:45 PM            | 3:05 PM       | 3:15 PM     | 
-| Final        | 4:45 PM            | 5:05 PM       | 5:15 PM     | 
+| Round        | Pairings Released | In Room Time | Start Time |
+| ------------ | ----------------- | ------------ | ---------- |
+| **Saturday** |                   |              |            |
+| 1            | 7:00 AM           | 7:20 AM      | 7:30 AM    |
+| 2            | 9:00 AM           | 9:20 AM      | 9:30 AM    |
+| 3            | 12:30 PM          | 12:50 PM     | 1:00 PM    |
+| 4            | 2:45 PM           | 3:05 PM      | 3:15 PM    |
+| 5            | 5:15 PM           | 5:35 PM      | 5:45 PM    |
+| **Sunday**   |                   |              |            |
+| Dbl Octos    | 7:00 AM           | 7:20 AM      | 7:30 AM    |
+| Octos        | 9:30 AM           | 9:50 AM      | 10:00 AM   |
+| Quarters     | 12:00 PM          | 12:20 PM     | 12:30 PM   |
+| Semis        | 2:45 PM           | 3:05 PM      | 3:15 PM    |
+| Final        | 4:45 PM           | 5:05 PM      | 5:15 PM    |
 
-**NOTE**:  We hope to release the pairings 30 minutes prior to start time but 
-rounds must start at the originally scheduled time even if that 
+**NOTE**: We hope to release the pairings 30 minutes prior to start time but
+rounds must start at the originally scheduled time even if that
 shortens pre-round prep.
 
 ## Judge Notes and Expectations
@@ -116,33 +120,32 @@ Judges: thank you! Tournaments do not exist without you!
 - **Update your paradigm.** Debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
 - Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
 
-
 ### Before Rounds
 
 - If you received a blast message for your round assignment:
-    - PLEASE CLICK “{{button}}” TO ACKNOWLEDGE YOU HAVE RECEIVED THE BALLOT. We don’t need to know when the round starts, we need to know that you know you are judging it. We trust you to start on time once you are on the way.
-    - ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE
-      ELSE TO JUDGE IN YOUR NAME. ONLY THE TABROOM CAN CHANGE A JUDGE.
-    - **You can be fined for not reporting to your room on time.** If the TAB Room has to substitute a new/different judge in for your assigned round, you will be fined. 
+  - PLEASE CLICK “{{button}}” TO ACKNOWLEDGE YOU HAVE RECEIVED THE BALLOT. We don’t need to know when the round starts, we need to know that you know you are judging it. We trust you to start on time once you are on the way.
+  - ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE
+    ELSE TO JUDGE IN YOUR NAME. ONLY THE TABROOM CAN CHANGE A JUDGE.
+  - **You can be fined for not reporting to your room on time.** If the Tab Room has to substitute a new/different judge in for your assigned round, you will be fined.
 
 - Once you are in your room:
-    - Confirm (verbally) that the debaters’ names/codes and sides listed on your ballot are correct.
-    - If your ballot shows the wrong sides according to the debaters, refresh the page! If you clicked in before they finished the flip, it might need to be reset.
-    - If debaters are missing at In Room Time, text or email tab or tell a member
-      of tab staff
-    - Do not start without three adults looking at ballots that all say the same
-      sides that the debaters think they are on!
+  - Confirm (verbally) that the debaters’ names/codes and sides listed on your ballot are correct.
+  - If your ballot shows the wrong sides according to the debaters, refresh the page! If you clicked in before they finished the flip, it might need to be reset.
+  - If debaters are missing at In Room Time, text or email Tab or tell a member
+    of Tab staff
+  - Do not start without three adults looking at ballots that all say the same
+    sides that the debaters think they are on!
 - If you did NOT receive a blast message for your round assignment:
-    - Double-check the pairings to be sure you are unassigned!
-    - Judges who are not assigned a round are on standby and must be in the
-      judges’ standby room at In Room Time for possible substitutions.
-    - You can be fined if we need you and cannot find you.
+  - Double-check the pairings to be sure you are unassigned!
+  - Judges who are not assigned a round are on standby and must be in the
+    judges’ standby room at In Room Time for possible substitutions.
+  - You can be fined if we need you and cannot find you.
 
 ### During Rounds
 
 - Flow (take notes)
 - Keep time
-- Enter comments on tabroom between speeches or during prep time
+- Enter comments on Tabroom between speeches or during prep time
 - That’s it. Do not ask questions, answer questions, comment on arguments, or get involved in the debate in any way
 
 ### After Rounds
@@ -155,20 +158,20 @@ Judges: thank you! Tournaments do not exist without you!
 - Enter points (following the scale; see ballot and below) and a decision (must
   be one winner and one loser).
 - Confirm decision in tabroom. Write the winning SCHOOL and SIDE in your RFD.
-  Help debaters and coaches by explaining the argument that caused you to vote.
+- Help debaters and coaches by explaining the argument that caused you to vote.
 - DISCLOSURE OF DECISIONS IS NOT ALLOWED FOR ANY REASON.
 - Complete comments later - they remain open until the end of the tournament
-- Your comments are a wonderful way to help students and coaches get constructive, 
+- Your comments are a wonderful way to help students and coaches get constructive,
   productive, educational feedback. Please provide robust comments for all competitors.
-  Remember: you are more than just a judge this weekend: you’re an educator, too. 
-- Additionally, as this has been an issue at other tournaments 
-  throughout the country: please  write your comments yourself and do not use AI generators to do it for you. 
-  These awesome kids took their time to create special presentations for you, so please take a few 
+  Remember: you are more than just a judge this weekend: you’re an educator, too.
+- Additionally, as this has been an issue at other tournaments
+  throughout the country: please write your comments yourself and do not use AI generators to do it for you.
+  These awesome kids took their time to create special presentations for you, so please take a few
   moments to write some personal thoughts for them, too.
 
 ### Rules Violations
 
-Please consult TAB before deciding that something in the round warrants
+Please consult Tab before deciding that something in the round warrants
 punishment for violating the rules, excepting the evidence violation process
 described below.
 
@@ -181,7 +184,7 @@ described below.
   rounds, and c) to prevent judges from over-analyzing every piece of evidence
   in a round.
 - This should create an incentive for all participants to start on time (or
-  early!), move swiftly through the round, and quickly notify tab of any tech
+  early!), move swiftly through the round, and quickly notify Tab of any tech
   issues or missing persons. It may NOT be used to justify cutting time from
   speeches, crossfires, prep, or tech time.
 - Judges who have not decided by the decision deadline will be visited by
@@ -196,12 +199,11 @@ described below.
   obligations are set by the diocese and determined before the tournament. Tab
   will not change assignments, except if you are volunteering for extra rounds!
 
-
 ## Event Rules
 
 ### Coin Flips
 
-- In Rounds 1-4, sides are assigned by tabroom. In Round 5, and in Elims
+- In Rounds 1-4, sides are assigned by Tabroom. In Round 5, and in Elims
   (unless opponents have met previously), the round begins with a coin flip.
   The winner of the flip may choose to affirm or negate. If the teams met in
   prelims, they will uphold the opposite side in elims.
@@ -211,14 +213,14 @@ described below.
   tabroom link! If they fail to choose within 5 minutes, the other team will
   receive the choice.
 - Missing the flip email, if it works for everyone else, is your problem. If a
-  system-wide error occurs, judges will manage the flip in the room - tab will
+  system-wide error occurs, judges will manage the flip in the room - Tab will
   notify judges if this is necessary, judges may NOT flip unless notified by
-  tab.
+  Tab.
 
 ### Structure of a Round
 
 | Speech                               | Time  |
-|--------------------------------------|-------|
+| ------------------------------------ | ----- |
 | 1st Affirmative Constructive         | 8 min |
 | Cross-examination by 2nd Negative    | 3 min |
 | 1st Negative Constructive            | 8 min |
@@ -279,7 +281,7 @@ issues:
   in the debate based solely on the evidence challenge. Please confirm that
   this is a team’s intent before stopping the debate.
 
-You can consult tab for help resolving these issues, but we cannot make the decision for you.
+You can consult Tab for help resolving these issues, but we cannot make the decision for you.
 
 ### Debate Speaker Point Scale
 
@@ -291,7 +293,7 @@ have a standard, points provide meaningful feedback instead of being arbitrary
 and useless!
 
 | Points    | Meaning                                                                   |
-|-----------|---------------------------------------------------------------------------|
+| --------- | ------------------------------------------------------------------------- |
 | 29.5‑30   | I wish I could frame your speeches – hard to imagine a better speaker     |
 | 29.1‑29.4 | you were consistently excellent                                           |
 | 28.8‑29.0 | you were effective and strategic, and made only minor mistakes            |
@@ -300,7 +302,7 @@ and useless!
 | 27.3‑27.7 | you missed major things and were hard to follow                           |
 | 27.0‑27.2 | you advanced little in the debate                                         |
 | 26.0‑26.9 | you cost your team the round                                              |
-| Below 26  | you were offensive, ignorant, rude, or tried to cheat (MUST come to tab)  |
+| Below 26  | you were offensive, ignorant, rude, or tried to cheat (MUST come to Tab)  |
 
 Low-point wins (where the winning team has fewer points than the losing team) are allowed.
 
@@ -324,7 +326,6 @@ Personal values of the judges should not influence the decision.
 ```{include="equity-contact.md"}
 
 ```
-
 
 ```{include="general.md"}
 

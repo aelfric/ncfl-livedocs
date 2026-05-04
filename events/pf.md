@@ -16,13 +16,13 @@ mustache:
 
 **PF Judge Standby Room**:
 
-- Saturday: Hilton Chicago - Normandie Lounge (2nd)
-- Sunday: Palmer House - State Ballroom (4th Floor)
+- Saturday: Convention Center - L1 - 146-ABC
+- Sunday: Westin - Potomac (Grand) 1 Ballroom
 
 **PF Tab Room**:
 
-- Saturday: Hilton Chicago - Astoria Room (3rd Floor)
-- Sunday: Palmer House - Harvard Room (3rd Floor)
+- Saturday: Convention Center - L1 - 154-A
+- Sunday: Westin - Dumbarton Oaks (Carnegie)
 
 **PF Tab Room Support** (text only): {{pfPhone}} or email [{{pfEmail}}](email)
 
@@ -36,11 +36,9 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-
 ```{include="sites.md"}
 
 ```
-
 
 ### Convention Center (Saturday)
 
@@ -72,29 +70,29 @@ Nothing yet. Check back here during the tournament for important information.
 
 (All times in Eastern)
 
-| Round        | Pairings Released  | In Room Time  | Start Time  |
-| ------------ | ------------------ | ------------- | ----------- |
+| Round        | Pairings Released | In Room Time | Start Time |
+| ------------ | ----------------- | ------------ | ---------- |
 | **Saturday** |
-| 1A           | 7:00 AM            | 7:20 AM       | 7:30 AM     |
-| 1B           | 8:00 AM            | 8:20 AM       | 8:30 AM     |
-| 2A           | 9:00 AM            | 9:20 AM       | 9:30 AM     |
-| 2B           | 10:00 AM           | 10:20 AM      | 10:30 AM    |
-| 3A           | 12:30 PM           | 12:50 PM      | 1:00 PM     |
-| 3B           | 1:30 PM            | 1:50 PM       | 2:00 PM     |
-| 4A           | 3:00 PM            | 3:20 PM       | 3:30 PM     |
-| 4B           | 4:00 PM            | 4:20 PM       | 4:30 PM     |
-| 5A           | 5:45 PM            | 6:05 PM       | 6:15 PM     |
-| 5B           | 6:45 PM            | 7:05 PM       | 7:15 PM     |
+| 1A           | 7:00 AM           | 7:20 AM      | 7:30 AM    |
+| 1B           | 8:00 AM           | 8:20 AM      | 8:30 AM    |
+| 2A           | 9:00 AM           | 9:20 AM      | 9:30 AM    |
+| 2B           | 10:00 AM          | 10:20 AM     | 10:30 AM   |
+| 3A           | 12:30 PM          | 12:50 PM     | 1:00 PM    |
+| 3B           | 1:30 PM           | 1:50 PM      | 2:00 PM    |
+| 4A           | 3:00 PM           | 3:20 PM      | 3:30 PM    |
+| 4B           | 4:00 PM           | 4:20 PM      | 4:30 PM    |
+| 5A           | 5:45 PM           | 6:05 PM      | 6:15 PM    |
+| 5B           | 6:45 PM           | 7:05 PM      | 7:15 PM    |
 | **Sunday**   |
-| Play-In      | 7:00 AM            | 7:20 AM       | 7:30 AM     |
-| Dbl Octos    | 9:00 AM            | 9:20 AM       | 9:30 AM     |
-| Octos        | 11:00 AM           | 11:20 AM      | 11:30 AM    |
-| Quarts       | 1:00 PM            | 1:20 PM       | 1:30 PM     |
-| Semis        | 2:30 PM            | 2:50 PM       | 3:00 PM     |
-| Finals       | 4:00 PM            | 4:20 PM       | 4:30 PM     |
+| Play-In      | 7:00 AM           | 7:20 AM      | 7:30 AM    |
+| Dbl Octos    | 9:00 AM           | 9:20 AM      | 9:30 AM    |
+| Octos        | 11:00 AM          | 11:20 AM     | 11:30 AM   |
+| Quarts       | 1:00 PM           | 1:20 PM      | 1:30 PM    |
+| Semis        | 2:30 PM           | 2:50 PM      | 3:00 PM    |
+| Finals       | 4:00 PM           | 4:20 PM      | 4:30 PM    |
 
-**NOTE**:  We hope to release the pairings 30 minutes prior to start time but 
-rounds must start at the originally scheduled time even if that 
+**NOTE**: We hope to release the pairings 30 minutes prior to start time but
+rounds must start at the originally scheduled time even if that
 shortens pre-round prep.
 
 ## Judge Notes and Expectations
@@ -199,10 +197,10 @@ rest of the tournament to include your comments.
 
 ### Coin Flips
 
-**Please note** in NCFL, there is NO coin flip for sides or for speaker order.
-There is only a coin flip for sides in Round 5 and in any elims when teams have
-not met before. The coin flip is managed automatically in tabroom.com. Pro
-always goes first.
+**Please note** in NCFL, there is NO coin flip for sides or for speaker order in 
+rounds 1 through 4. There is only a coin flip for sides in Round 5 and in any elims 
+when teams have not met before. The coin flip is managed automatically in tabroom.com. 
+Pro always speaks first.
 
 ### Structure of a Round
 
