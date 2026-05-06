@@ -262,26 +262,11 @@ very rapidly. If the time spent finding a piece of evidence is excessive, the
 judge may begin running prep time - however, the lack of prep time CANNOT be a
 reason to deny a team the chance to see their opponent’s evidence.
 
-### Evidence challenges
+### Evidence Challenges
 
-The quality of evidence may be a part of the debate. In fact, good debaters
-make evidence comparisons. Here is a way to consider the escalation of evidence
-issues:
+```{include="evidence.md"}
 
-- A team claims evidence is of low quality, from a disreputable source, uses a
-  flawed methodology, etc. - decide this issue in the course of the debate
-  based on the arguments made by the teams. Read the evidence after the debate
-  if you’d like.
-- A team cannot produce evidence they read - disregard the evidence in your
-  decision and pretend it was never mentioned
-- If a debater/team alleges that their opponent’s evidence is fabricated - you
-  can request to review the evidence and decide how it impacts your decision.
-- A team alleges that their opponent’s evidence is fabricated - this claim
-  would, under NSDA rules, stop the round for the judge to determine win/loss
-  in the debate based solely on the evidence challenge. Please confirm that
-  this is a team’s intent before stopping the debate.
-
-You can consult Tab for help resolving these issues, but we cannot make the decision for you.
+```
 
 ### Debate Speaker Point Scale
 

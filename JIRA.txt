@@ -41,6 +41,13 @@
 [ ] Extract paradigm langauge
 [ ] Extract speaker point scale
 
+[ ] No recording and video language
+- [ ] Speech
+- [ ] Congress
+- [ ] LD
+- [ ] PF
+- [ ] CX
+
 [ ] General Review Pass
 - [ ] Speech
   - [X] Student and Judge expectations
@@ -50,5 +57,5 @@
 - [ ] LD
 - [X] PF
 - [ ] CX
-  - [ ] evidence challenge rules NSDA?
+  - [X] evidence challenge rules NSDA?
 
