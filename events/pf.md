@@ -239,6 +239,12 @@ Good judges make decisions only on what was debated by the contestants in the
 round. The judges should distance themselves from the content of the debate.
 Personal values of the judges should not influence the decision.
 
+### Observers
+
+```{include="observers.md"}
+
+```
+
 ```{include="equity.md"}
 
 ```

@@ -107,6 +107,13 @@ See [Parliamentarian Expectations](https://www.ncfl.org/uploads/7/3/2/8/7328308/
 
 See the [NCFL Congress Manual](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncfl_congress_manual__fall2025_for_ncfl2026_.pdf)
 
+### Observers
+
+```{include="observers.md"}
+
+```
+
+
 ```{include="equity.md"}
 
 ```

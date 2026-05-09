@@ -5,11 +5,11 @@
 - [X] PF
 - [X] CX
 
-[ ] Update observer policy
+[X] Update observer policy
 - [X] Speech
-- [ ] Congress
-- [ ] LD
-- [ ] PF
+- [X] Congress
+- [X] LD
+- [X] PF
 - [X] CX
 
 
