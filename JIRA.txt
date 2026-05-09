@@ -41,12 +41,12 @@
 [ ] Extract paradigm langauge
 [ ] Extract speaker point scale
 
-[ ] No recording and video language
-- [ ] Speech
-- [ ] Congress
-- [ ] LD
-- [ ] PF
-- [ ] CX
+[X] No recording and video language
+- [X] Speech
+- [X] Congress
+- [X] LD
+- [X] PF
+- [X] CX
 
 [ ] General Review Pass
 - [ ] Speech

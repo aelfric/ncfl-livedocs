@@ -101,8 +101,6 @@ Nothing yet. Check back here during the tournament for important information.
   <https://share.tabroom.com>. A link to the sharing space for the round will
   be sent to each debater through the pairing
 
-- Audio and video recordings of the rounds are prohibited. NO ONE (neither competitors nor judges) may record rounds.
-
 ### Competitors
 
 - Forfeit time is 10 minutes after the Round is set to start.
