@@ -38,7 +38,7 @@
 [ ] Create protest contact form an procedures and add to doc
 [X] Can/Should we visualize the colors for the cubicles?
 [ ] Standardize coinflip language
-[ ] Extract paradigm langauge
+[X] Extract paradigm langauge
 [ ] Extract speaker point scale
 
 [X] No recording and video language
