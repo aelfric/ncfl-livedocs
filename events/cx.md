@@ -4,9 +4,8 @@ mustache:
   - vars.yaml
 ---
 
-::: {custom-style=current_status}
-[CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday.
-:::
+::: {custom-style=current_status} [CURRENT
+STATUS:]{custom-style=current_status_label} Tournament starts Saturday. :::
 
 ## Contact Information
 
@@ -24,7 +23,8 @@ mustache:
 - Saturday: Convention Center - L1 - 155
 - Sunday: Marriott Marquis - M3 - Capitol Hill
 
-**Policy Tab Room Support** (text only): {{cxPhone}} or email [{{cxEmail}}](email)
+**Policy Tab Room Support** (text only): {{cxPhone}} or email
+[{{cxEmail}}](email)
 
 **Equity Advocates**:
 
@@ -58,9 +58,9 @@ Nothing yet. Check back here during the tournament for important information.
 
 - Once Pairings are posted, judges should immediately access your ballot by
   hitting the “{{button}}” button
-- Everyone (competitors and judges) should be in competition rooms no later
-  than 10 minutes before the round is scheduled to start. Contact Tab if anyone
-  is missing at start time
+- Everyone (competitors and judges) should be in competition rooms no later than
+  10 minutes before the round is scheduled to start. Contact Tab if anyone is
+  missing at start time
 - Debaters, do not start debating until you have confirmed that all judges can
   see your correct names on the right sides on their ballots.
 - Evidence Sharing: Students should be prepared to share, electronically or by
@@ -71,13 +71,16 @@ Nothing yet. Check back here during the tournament for important information.
 
 ### Judges
 
-- There are three (3) judges per round (5 in Semis and Finals). Please confirm that all three judges see the same teams on their ballots before the round begins.
-- If you are assigned a round: push “{{button}}” as soon as you receive the ballot.
-- If you are not assigned a round: report to the event judge standby room
-  and wait until the Tab Room has released you. You will be released when all
-  rounds have started. We may need to ask you to substitute for a missing
-  judge, so it is critical that you report to and remain in the judge standby room if
-  you are not scheduled for a round.
+- There are three (3) judges per round (5 in Semis and Finals). Please confirm
+  that all three judges see the same teams on their ballots before the round
+  begins.
+- If you are assigned a round: push “{{button}}” as soon as you receive the
+  ballot.
+- If you are not assigned a round: report to the event judge standby room and
+  wait until the Tab Room has released you. You will be released when all rounds
+  have started. We may need to ask you to substitute for a missing judge, so it
+  is critical that you report to and remain in the judge standby room if you are
+  not scheduled for a round.
 - You can be fined for not reporting to your room on time. If the Tab Room has
   to substitute a new/different judge for your assigned round, you will be
   fined.
@@ -117,20 +120,37 @@ Judges: thank you! Tournaments do not exist without you!
 
 ### Before the Tournament
 
-- **Update your paradigm.** Debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
-- Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
+- **Update your paradigm.** Debaters use judge paradigms to decide how to best
+  adapt to the judge, so tell them what kind of debates you want to see! Be sure
+  your paradigm is honest and accurate - your jokes are both not funny and not
+  understood by people who don’t know you, which are the people who read your
+  paradigm.
+- Please remove lines in your paradigm that incentivize non-debate behavior to
+  earn speaker points. Speaker points matter and play a large role in
+  determining who debates who and who reaches elimination rounds. The published
+  speaker point scale that we use is designed to create consistency in points,
+  which is also useful to debaters and coaches as they work to improve, learn,
+  and grow. Please help us to help debaters know where they need to improve by
+  using your speaker points only in consistent, educational ways.
 
 ### Before Rounds
 
 - If you received a blast message for your round assignment:
-  - PLEASE CLICK “{{button}}” TO ACKNOWLEDGE YOU HAVE RECEIVED THE BALLOT. We don’t need to know when the round starts, we need to know that you know you are judging it. We trust you to start on time once you are on the way.
+  - PLEASE CLICK “{{button}}” TO ACKNOWLEDGE YOU HAVE RECEIVED THE BALLOT. We
+    don’t need to know when the round starts, we need to know that you know you
+    are judging it. We trust you to start on time once you are on the way.
   - ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE
     ELSE TO JUDGE IN YOUR NAME. ONLY THE TABROOM CAN CHANGE A JUDGE.
-  - **You can be fined for not reporting to your room on time.** If the Tab Room has to substitute a new/different judge in for your assigned round, you will be fined.
+  - **You can be fined for not reporting to your room on time.** If the Tab Room
+    has to substitute a new/different judge in for your assigned round, you will
+    be fined.
 
 - Once you are in your room:
-  - Confirm (verbally) that the debaters’ names/codes and sides listed on your ballot are correct.
-  - If your ballot shows the wrong sides according to the debaters, refresh the page! If you clicked in before they finished the flip, it might need to be reset.
+  - Confirm (verbally) that the debaters’ names/codes and sides listed on your
+    ballot are correct.
+  - If your ballot shows the wrong sides according to the debaters, refresh the
+    page! If you clicked in before they finished the flip, it might need to be
+    reset.
   - If debaters are missing at In Room Time, text or email Tab or tell a member
     of Tab staff
   - Do not start without three adults looking at ballots that all say the same
@@ -146,13 +166,14 @@ Judges: thank you! Tournaments do not exist without you!
 - Flow (take notes)
 - Keep time
 - Enter comments on Tabroom between speeches or during prep time
-- That’s it. Do not ask questions, answer questions, comment on arguments, or get involved in the debate in any way
+- That’s it. Do not ask questions, answer questions, comment on arguments, or
+  get involved in the debate in any way
 
 ### After Rounds
 
 - Quickly read any evidence that is crucial to making your decision.
-- Confirm again verbally that the debaters' names/codes and sides listed on your ballot
-  are correct.
+- Confirm again verbally that the debaters' names/codes and sides listed on your
+  ballot are correct.
 - DO NOT CONFER WITH OTHER JUDGES except to confirm that sides are correct.
   Judges must decide the winner independently.
 - Enter points (following the scale; see ballot and below) and a decision (must
@@ -161,13 +182,15 @@ Judges: thank you! Tournaments do not exist without you!
 - Help debaters and coaches by explaining the argument that caused you to vote.
 - DISCLOSURE OF DECISIONS IS NOT ALLOWED FOR ANY REASON.
 - Complete comments later - they remain open until the end of the tournament
-- Your comments are a wonderful way to help students and coaches get constructive,
-  productive, educational feedback. Please provide robust comments for all competitors.
-  Remember: you are more than just a judge this weekend: you’re an educator, too.
-- Additionally, as this has been an issue at other tournaments
-  throughout the country: please write your comments yourself and do not use AI generators to do it for you.
-  These awesome kids took their time to create special presentations for you, so please take a few
-  moments to write some personal thoughts for them, too.
+- Your comments are a wonderful way to help students and coaches get
+  constructive, productive, educational feedback. Please provide robust comments
+  for all competitors. Remember: you are more than just a judge this weekend:
+  you’re an educator, too.
+- Additionally, as this has been an issue at other tournaments throughout the
+  country: please write your comments yourself and do not use AI generators to
+  do it for you. These awesome kids took their time to create special
+  presentations for you, so please take a few moments to write some personal
+  thoughts for them, too.
 
 ### Rules Violations
 
@@ -187,31 +210,30 @@ described below.
   early!), move swiftly through the round, and quickly notify Tab of any tech
   issues or missing persons. It may NOT be used to justify cutting time from
   speeches, crossfires, prep, or tech time.
-- Judges who have not decided by the decision deadline will be visited by
-  grumpy Tab staff. The ballot does not disappear when the timer ends - even if
-  you exceed the time allotted, finish the round and vote as normal!
+- Judges who have not decided by the decision deadline will be visited by grumpy
+  Tab staff. The ballot does not disappear when the timer ends - even if you
+  exceed the time allotted, finish the round and vote as normal!
 - Remember that the decision timer is for points and the winner. You can always
   go back and enter more comments until the end of the tournament!
 
 ### Obligations
 
-- Judges are obligated for all preliminary rounds. Elimination round
-  obligations are set by the diocese and determined before the tournament. Tab
-  will not change assignments, except if you are volunteering for extra rounds!
+- Judges are obligated for all preliminary rounds. Elimination round obligations
+  are set by the diocese and determined before the tournament. Tab will not
+  change assignments, except if you are volunteering for extra rounds!
 
 ## Event Rules
 
 ### Coin Flips
 
-- In Rounds 1-4, sides are assigned by Tabroom. In Round 5, and in Elims
-  (unless opponents have met previously), the round begins with a coin flip.
-  The winner of the flip may choose to affirm or negate. If the teams met in
-  prelims, they will uphold the opposite side in elims.
-- Tabroom.com will manage the coin flip. Five minutes after a
-  pairing is released, the teams will be notified who won the flip, enabling
-  that team to make their selection. Debaters must check their email for the
-  tabroom link! If they fail to choose within 5 minutes, the other team will
-  receive the choice.
+- In Rounds 1-4, sides are assigned by Tabroom. In Round 5, and in Elims (unless
+  opponents have met previously), the round begins with a coin flip. The winner
+  of the flip may choose to affirm or negate. If the teams met in prelims, they
+  will uphold the opposite side in elims.
+- Tabroom.com will manage the coin flip. Five minutes after a pairing is
+  released, the teams will be notified who won the flip, enabling that team to
+  make their selection. Debaters must check their email for the tabroom link! If
+  they fail to choose within 5 minutes, the other team will receive the choice.
 - Missing the flip email, if it works for everyone else, is your problem. If a
   system-wide error occurs, judges will manage the flip in the room - Tab will
   notify judges if this is necessary, judges may NOT flip unless notified by
@@ -234,14 +256,14 @@ described below.
 | 2nd Negative Rebuttal                | 5 min |
 | 2nd Affirmative Rebuttal             | 5 min |
 
-The structure of a round is not modifiable, with the exception that speakers
-are not required to use all of their speech/crossfire time. That time is simply
+The structure of a round is not modifiable, with the exception that speakers are
+not required to use all of their speech/crossfire time. That time is simply
 absorbed, not transferred to other activities.
 
 #### Prep time
 
-8 minutes - teams may ask for prep time in between any two elements of the
-round and may divide their prep time in any increments.
+8 minutes - teams may ask for prep time in between any two elements of the round
+and may divide their prep time in any increments.
 
 #### Calling for and sharing evidence
 
@@ -254,13 +276,13 @@ The NCFL’s Rules of Evidence, Article II, Section C, Paragraph 5, Subparagraph
 > the start time of Policy CX rounds. The reading of complete citations is
 > required only when requested by the opponent.”
 
-Any evidence read/cited in the round must be made available to the opponent
-upon request. Requests for evidence, and the time spent finding the evidence,
-is untimed in the round and MAY NOT be used for prep time for any debater.
-Teams ought to be able to find and electronically share their evidence very,
-very rapidly. If the time spent finding a piece of evidence is excessive, the
-judge may begin running prep time - however, the lack of prep time CANNOT be a
-reason to deny a team the chance to see their opponent’s evidence.
+Any evidence read/cited in the round must be made available to the opponent upon
+request. Requests for evidence, and the time spent finding the evidence, is
+untimed in the round and MAY NOT be used for prep time for any debater. Teams
+ought to be able to find and electronically share their evidence very, very
+rapidly. If the time spent finding a piece of evidence is excessive, the judge
+may begin running prep time - however, the lack of prep time CANNOT be a reason
+to deny a team the chance to see their opponent’s evidence.
 
 ### Evidence Challenges
 
@@ -289,7 +311,8 @@ and useless!
 | 26.0‑26.9 | you cost your team the round                                              |
 | Below 26  | you were offensive, ignorant, rude, or tried to cheat (MUST come to Tab)  |
 
-Low-point wins (where the winning team has fewer points than the losing team) are allowed.
+Low-point wins (where the winning team has fewer points than the losing team)
+are allowed.
 
 ### No mavericks allowed
 

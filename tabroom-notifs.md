@@ -1,1 +1,3 @@
-**Note: Tabroom no longer texts and emails are inconsistent, but you can enable browser alerts on all devices.  Click the bell icon in the top right of tabroom on both your computer and phone to turn them on!**
+**Note: Tabroom no longer texts and emails are inconsistent, but you can enable
+browser alerts on all devices. Click the bell icon in the top right of tabroom
+on both your computer and phone to turn them on!**

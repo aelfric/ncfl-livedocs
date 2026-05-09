@@ -4,9 +4,8 @@ mustache:
   - vars.yaml
 ---
 
-::: {custom-style=current_status}
-[CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday.
-:::
+::: {custom-style=current_status} [CURRENT
+STATUS:]{custom-style=current_status_label} Tournament starts Saturday. :::
 
 ## Contact Information
 
@@ -41,14 +40,16 @@ Nothing yet. Check back here during the tournament for important information.
 ### Preliminary Sessions (Saturday)
 
 Preliminary Sessions are our opening congressional sessions on Saturday, May
-23, 2026. Every registered student competes in one of 10 chambers of 18
-students each. Students will share the same cohort experience for the entire
-day. Building relationships and demonstrating oneself as a knowledgeable and
+23, 2026. Every registered student competes in one of 10 chambers of 18 students
+each. Students will share the same cohort experience for the entire day.
+Building relationships and demonstrating oneself as a knowledgeable and
 open-minded decision-maker is a noble goal.
 
 Agendas will be set during the morning caucus, but can be amended.
 
-Following proper procedures, open or unaddressed legislation can be tabled for consideration at a later session. Items are limited to Preliminary Sessions ONLY. Voted legislation cannot be reconsidered.
+Following proper procedures, open or unaddressed legislation can be tabled for
+consideration at a later session. Items are limited to Preliminary Sessions
+ONLY. Voted legislation cannot be reconsidered.
 
 |                | Start    | End      |
 | -------------- | -------- | -------- |
@@ -62,9 +63,9 @@ Following proper procedures, open or unaddressed legislation can be tabled for c
 
 The top five legislators from each chamber, as ranked by all of the judges on
 Saturday and the Parliamentarian, are selected to participate in one of three
-chambers. Day Two involves new legislation and a new cohort of individuals,
-some of whom already know you from yesterday. Leadership skills and
-authoritative information sharing is the focus of this session.
+chambers. Day Two involves new legislation and a new cohort of individuals, some
+of whom already know you from yesterday. Leadership skills and authoritative
+information sharing is the focus of this session.
 
 |                             | Start    | End      |
 | --------------------------- | -------- | -------- |
@@ -75,10 +76,10 @@ authoritative information sharing is the focus of this session.
 ### Final Session (Sunday)
 
 The top eight legislators from each of the three semifinals sessions will
-demonstrate the "best of the best" for this tournament. A panel of judges
-will determine who is the top legislator present. Speeches are part of that,
-but so are participation, decorum, and authority. Connecting and noting
-references from colleagues is an important leadership skill.
+demonstrate the "best of the best" for this tournament. A panel of judges will
+determine who is the top legislator present. Speeches are part of that, but so
+are participation, decorum, and authority. Connecting and noting references from
+colleagues is an important leadership skill.
 
 |                        | Start    | End     |
 | ---------------------- | -------- | ------- |
@@ -88,7 +89,8 @@ references from colleagues is an important leadership skill.
 
 ## Round Procedures
 
-See the [NCFL Congress Manual](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncfl_congress_manual__fall2025_for_ncfl2026_.pdf)
+See the
+[NCFL Congress Manual](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncfl_congress_manual__fall2025_for_ncfl2026_.pdf)
 
 ## Judge Notes and Expectations
 
@@ -100,11 +102,14 @@ presentation. Personal values of the judges should not influence the decision.
 
 ### Parliamentarians
 
-See [Parliamentarian Expectations](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncflcongress-parliduties_2015_.pdf) on our website.
+See
+[Parliamentarian Expectations](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncflcongress-parliduties_2015_.pdf)
+on our website.
 
 ### Event Rules
 
-See the [NCFL Congress Manual](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncfl_congress_manual__fall2025_for_ncfl2026_.pdf)
+See the
+[NCFL Congress Manual](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncfl_congress_manual__fall2025_for_ncfl2026_.pdf)
 
 ### Observers
 

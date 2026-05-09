@@ -1,6 +1,7 @@
 ## Other General Information
 
-For general tournament logistics, such as the following, see the [tournament website](https://www.ncflnationals.org):
+For general tournament logistics, such as the following, see the
+[tournament website](https://www.ncflnationals.org):
 
 - Answers to frequently asked questions
 - Bus information

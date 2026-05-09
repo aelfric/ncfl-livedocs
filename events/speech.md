@@ -31,7 +31,8 @@ mustache:
 - Saturday: Convention Center - L1 - 152- B
 - Sunday: Marriott Marquis - M2 - Marquis 12,13
 
-**Speech Tab Room Support** (text only): {{speechPhone}} or email: [{{speechEmail}}](email)
+**Speech Tab Room Support** (text only): {{speechPhone}} or email:
+[{{speechEmail}}](email)
 
 **Equity Advocates**:
 
@@ -99,18 +100,25 @@ Nothing yet. Check back here during the tournament for important information.
 - Speakers may choose to exit the room after their presentation instead of
   sitting in the room with the others.
 - Please give all competitors your undivided attention. Please no texting or
-  other cell phone activities during the round. Be sure to applaud every
-  speaker in the room.
+  other cell phone activities during the round. Be sure to applaud every speaker
+  in the room.
 
 ### Judges
 
 #### Before Each Round
 
-- Once you receive a round assignment, please note the time and plan to arrive in the room 10 minutes prior to the start time. Please hit the "In the room" button once you have arrived in the room.
-- Do not begin the round until you have confirmed all three judges are present. (Do not assume another adult in the room is a judge.) Checkers will be checking rooms and will report missing judges to the tab room. Please only text about a missing judge if a checker has not been to your room 15 minutes after the round was scheduled to begin. We will send the checker to the room to help replace the judge.
+- Once you receive a round assignment, please note the time and plan to arrive
+  in the room 10 minutes prior to the start time. Please hit the "In the room"
+  button once you have arrived in the room.
+- Do not begin the round until you have confirmed all three judges are present.
+  (Do not assume another adult in the room is a judge.) Checkers will be
+  checking rooms and will report missing judges to the tab room. Please only
+  text about a missing judge if a checker has not been to your room 15 minutes
+  after the round was scheduled to begin. We will send the checker to the room
+  to help replace the judge.
 - You do not need every student present in order to start the round. If you are
-  missing students in your room **30 mins after** the posted start time -
-  please contact us!
+  missing students in your room **30 mins after** the posted start time - please
+  contact us!
   - TEXT ONLY TO {{speechPhone}}. Include in your Text:
     - The Room Number you are in AND
     - Your Issue -
@@ -122,14 +130,14 @@ Nothing yet. Check back here during the tournament for important information.
 
 - Take notes DURING the performance. You can type, the students are used to it!
   Do not wait until after each student to write your comments.
-- Keep time, and please provide time signals per the student’s request. If time signals are
-  requested and not provided as promised, DO NOT penalize the student if they
-  perform over the grace period of 30 seconds.
+- Keep time, and please provide time signals per the student’s request. If time
+  signals are requested and not provided as promised, DO NOT penalize the
+  student if they perform over the grace period of 30 seconds.
 - Record your comments using a ‘hard drive’ program (Word, Notepad, Pages). If
   the internet becomes unstable in your room or building, you might lose all
   your comments otherwise.
-- A good judge is a friendly judge - but a quiet judge. The only communication
-  a judge should have with the competitors is to assist the orderly flow of the
+- A good judge is a friendly judge - but a quiet judge. The only communication a
+  judge should have with the competitors is to assist the orderly flow of the
   round. Avoid any extraneous conversation, especially concerning students’
   names, schools, hometowns, or other personal information. Friendly ‘hellos’
   and a generic, round-wide ‘great job, everyone!’ or ‘thank you, everybody!’
@@ -151,7 +159,8 @@ Nothing yet. Check back here during the tournament for important information.
   change to convey the incremental ranking (1st through 6th place). Please
   double-check that each speaker is ranked correctly.
 - Copy/Paste your comments into Tabroom.com and hit ‘SAVE’ periodically. If you
-  need assistance, see [these instructions](https://static.nycfl.tech/AStepbyStepGuidetoSpeechE-Balloting.pdf).
+  need assistance, see
+  [these instructions](https://static.nycfl.tech/AStepbyStepGuidetoSpeechE-Balloting.pdf).
 - Please provide any general feedback in the Reason-For-Decision window (RFD)
   regarding the round. You might include what affected your top 3 decisions vs.
   your bottom 3 decisions. This is NOT the window for individual student
@@ -176,13 +185,19 @@ Nothing yet. Check back here during the tournament for important information.
 
 ### Judge Training
 
-See the Webinar recorded on Sunday: <https://www.youtube.com/watch?v=cWzTv4KxiQs>
+See the Webinar recorded on Sunday:
+<https://www.youtube.com/watch?v=cWzTv4KxiQs>
 
 ### Time Signals
 
-- Keep time (All events are 10 minutes with 30-second grace except Extemp which is 7 minutes with a 30-second grace)
-- Give whatever time signals speakers request - in Extemp it is EXPECTED that judges give time signals from 5 down. In all events, it is a sign of preparation, not lack of preparation, to ask for signals.
-- Before you penalize, please make sure you showed the speakers the requested time signals. The mandated penalty for going overtime is that the student may not be ranked first.
+- Keep time (All events are 10 minutes with 30-second grace except Extemp which
+  is 7 minutes with a 30-second grace)
+- Give whatever time signals speakers request - in Extemp it is EXPECTED that
+  judges give time signals from 5 down. In all events, it is a sign of
+  preparation, not lack of preparation, to ask for signals.
+- Before you penalize, please make sure you showed the speakers the requested
+  time signals. The mandated penalty for going overtime is that the student may
+  not be ranked first.
 - Examples of time signals can be found below:
 
 ![Illustration of time signals](./images/time-signals.png)
@@ -195,17 +210,16 @@ presentation. Personal values of the judges should not influence the decision.
 
 ### Rule Violations & Protest Procedures
 
-Please consult the TAB Room ({{speechPhone}}) before deciding that something
-in the round warrants a reduction in rank. Beyond going over the grace period
-on time, do not penalize a student for a rule infraction until you have
-discussed the matter with TAB. If you think a speaker should be disqualified,
-you must talk to the PROTEST committee. You cannot make that decision on your
-own.
+Please consult the TAB Room ({{speechPhone}}) before deciding that something in
+the round warrants a reduction in rank. Beyond going over the grace period on
+time, do not penalize a student for a rule infraction until you have discussed
+the matter with TAB. If you think a speaker should be disqualified, you must
+talk to the PROTEST committee. You cannot make that decision on your own.
 
 #### Protest Procedures
 
-If someone has a question regarding a protest, they can contact the
-Speech Tab Room directly, through the text line at {{speechPhone}} or
+If someone has a question regarding a protest, they can contact the Speech Tab
+Room directly, through the text line at {{speechPhone}} or
 [{{speechEmail}}](email).
 
 - Per NCFL bylaws, only a coach or a judge may submit a protest.
@@ -228,9 +242,9 @@ Speech Tab Room directly, through the text line at {{speechPhone}} or
 - The presentation must be from a single published play, single published
   script, or single fictional or non-fictional work (not poetry). It is the
   affirmative obligation of all NCFL coaches to ensure that all materials
-  presented in interpretation events must be available and readily accessible
-  to all members of the league. Lines which are attributed to one character in
-  a published play or script must not be attributed to another character in the
+  presented in interpretation events must be available and readily accessible to
+  all members of the league. Lines which are attributed to one character in a
+  published play or script must not be attributed to another character in the
   performance. The author's words as published in the literature must not be
   altered for the presentation with the exception that cutting is permitted.
 - No properties or costumes of any kind may be used. Using “properties” means
@@ -250,19 +264,18 @@ Speech Tab Room directly, through the text line at {{speechPhone}} or
   coaches to ensure that all materials presented in interpretation events must
   be available and readily accessible to all members of the league. Performing
   the author’s exact words from the published original work is a core value of
-  interpretation in NCFL. Cutting, the removal and rearrangement of the
-  author’s words to shape a 10 minute performance, is permitted.
-- The selection must be memorized. If the speaker(s) refers to prepared notes
-  of any kind or a script during the presentation, the team will be
-  disqualified.
+  interpretation in NCFL. Cutting, the removal and rearrangement of the author’s
+  words to shape a 10 minute performance, is permitted.
+- The selection must be memorized. If the speaker(s) refers to prepared notes of
+  any kind or a script during the presentation, the team will be disqualified.
 - No properties or costumes of any kind may be used. Using “properties” means
   manipulating articles of clothing or objects to enhance the performance.
   Speakers using properties and/or wearing costumes will be disqualified.
-- Performers are not allowed to make deliberate physical contact with each
-  other during the performance, except during the introduction. Physical
-  movement is restricted to performers moving around one another, switching
-  position, pivoting from side to side, or turning around completely. Should
-  the performers make deliberate physical contact with each other during the
+- Performers are not allowed to make deliberate physical contact with each other
+  during the performance, except during the introduction. Physical movement is
+  restricted to performers moving around one another, switching position,
+  pivoting from side to side, or turning around completely. Should the
+  performers make deliberate physical contact with each other during the
   performance, except during the introduction, or make deliberate physical
   movements other than those permitted herein, the performers will be
   disqualified.
@@ -273,15 +286,15 @@ Speech Tab Room directly, through the text line at {{speechPhone}} or
 
 ### Extemporaneous Speaking
 
-- The speech must be an original synthesis by the contestant of the current
-  fact and opinion on the designated topic as presented by numerous sources.
-  Source materials must be represented with relative accuracy in the speech.
-  The speaker is responsible for the ethical use of source information.
+- The speech must be an original synthesis by the contestant of the current fact
+  and opinion on the designated topic as presented by numerous sources. Source
+  materials must be represented with relative accuracy in the speech. The
+  speaker is responsible for the ethical use of source information.
 - The speech must be extemporaneous and delivered without notes. If the speaker
   refers to prepared notes of any kind or a script during the presentation, the
   speaker will be disqualified.
-- During the competition round, students must not access any research
-  materials, oral, written, or electronic, outside of the preparation room.
+- During the competition round, students must not access any research materials,
+  oral, written, or electronic, outside of the preparation room.
 - Speakers must not be penalized for expressing views with which the judge
   happens to disagree.
 - Positions other than standing should not be excessive in length or dominate
@@ -312,9 +325,8 @@ Speech Tab Room directly, through the text line at {{speechPhone}} or
   written to be delivered in real-life are prohibited.
 - Speakers may use a persona and/or character voices, but it is not necessary.
 - No properties except a manuscript or binder may be used. Using “properties”
-  means manipulating articles of clothing or objects to enhance the
-  performance. Speakers using properties and/or wearing costumes will be
-  disqualified.
+  means manipulating articles of clothing or objects to enhance the performance.
+  Speakers using properties and/or wearing costumes will be disqualified.
 - Only the performer’s feet may touch the ground.
 - Speakers should keep gesture and bodily movement to a minimum. The selection
   should be delivered from center stage. Movement and gestures, if used, should
@@ -326,14 +338,14 @@ Speech Tab Room directly, through the text line at {{speechPhone}} or
 
 ### Oratorical Declamation
 
-- A selection used in Oratorical Declamation must have been originally
-  delivered in the form a speech by its author, a person other than the present
-  speaker. The speaker must have an introduction which is at most one minute
-  and names the work, author, and describes the circumstances under which the
-  speech was originally presented. The original speaker's words must not be
-  altered for the presentation with the exception that cutting is permitted.
-  Selections may include professional speeches, public orations, eulogies, and
-  sermons. Stand-up comedy routines are prohibited.
+- A selection used in Oratorical Declamation must have been originally delivered
+  in the form a speech by its author, a person other than the present speaker.
+  The speaker must have an introduction which is at most one minute and names
+  the work, author, and describes the circumstances under which the speech was
+  originally presented. The original speaker's words must not be altered for the
+  presentation with the exception that cutting is permitted. Selections may
+  include professional speeches, public orations, eulogies, and sermons.
+  Stand-up comedy routines are prohibited.
 - The selection must be memorized. If the speaker refers to prepared notes of
   any kind or a script during the presentation, the speaker will be
   disqualified.
@@ -355,11 +367,10 @@ Speech Tab Room directly, through the text line at {{speechPhone}} or
 
 ### Original Oratory
 
-- The speaker should be expected to discuss with a degree of originality, and
-  in an interesting manner, the topic chosen.
-- The speakers should be given wide latitude in the ideas they express, but
-  they should be held closely accountable for the manner in which they are
-  expressed.
+- The speaker should be expected to discuss with a degree of originality, and in
+  an interesting manner, the topic chosen.
+- The speakers should be given wide latitude in the ideas they express, but they
+  should be held closely accountable for the manner in which they are expressed.
 - Speakers must not be penalized for expressing views with which the judge
   happens to disagree.
 - It is suggested, but not obligatory, that the topic be a subject of

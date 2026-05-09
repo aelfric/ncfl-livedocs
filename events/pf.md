@@ -4,9 +4,8 @@ mustache:
   - vars.yaml
 ---
 
-::: {custom-style=current_status}
-[CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday.
-:::
+::: {custom-style=current_status} [CURRENT
+STATUS:]{custom-style=current_status_label} Tournament starts Saturday. :::
 
 ## Contact Information
 
@@ -101,18 +100,30 @@ Judges: thank you! Tournaments do not exist without you!
 
 ### Before the Tournament
 
-- **Update your paradigm.** Debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
-- Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
+- **Update your paradigm.** Debaters use judge paradigms to decide how to best
+  adapt to the judge, so tell them what kind of debates you want to see! Be sure
+  your paradigm is honest and accurate - your jokes are both not funny and not
+  understood by people who don’t know you, which are the people who read your
+  paradigm.
+- Please remove lines in your paradigm that incentivize non-debate behavior to
+  earn speaker points. Speaker points matter and play a large role in
+  determining who debates who and who reaches elimination rounds. The published
+  speaker point scale that we use is designed to create consistency in points,
+  which is also useful to debaters and coaches as they work to improve, learn,
+  and grow. Please help us to help debaters know where they need to improve by
+  using your speaker points only in consistent, educational ways.
 
 ### Before Rounds
 
 - Move quickly to rounds – strive to be sitting down in round 10 minutes before
   round start time!
-- Confirm (verbally) that the debaters’ names/codes and sides listed on your ballot are correct.
-- If not scheduled - please wait in the judges’ standby room until “released.” ONLY
-  THE ASSIGNED JUDGES MAY JUDGE THE DEBATE. YOU MAY NOT (NEVER EVER) ALLOW
+- Confirm (verbally) that the debaters’ names/codes and sides listed on your
+  ballot are correct.
+- If not scheduled - please wait in the judges’ standby room until “released.”
+  ONLY THE ASSIGNED JUDGES MAY JUDGE THE DEBATE. YOU MAY NOT (NEVER EVER) ALLOW
   SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.
-- If you are not scheduled and not used as replacement, do NOT observe other rounds
+- If you are not scheduled and not used as replacement, do NOT observe other
+  rounds
 
 ### During Rounds
 
@@ -120,28 +131,30 @@ Judges: thank you! Tournaments do not exist without you!
   NOT to switch competitors. Confirm the teams and sides both before and after
   the round.
 - For round 5:
-  - Because the Coin Flip is pre-set to occur at a specific time in each
-    Flight we cannot start Flight 2 early in Round 5.
+  - Because the Coin Flip is pre-set to occur at a specific time in each Flight
+    we cannot start Flight 2 early in Round 5.
   - Students: Flight 1 should go to the floor immediately once Round 5 is
     posted!
 
 ### After Rounds
 
-- Confirm again verbally that the debaters' names/codes and sides listed on your ballot
-  are correct.
+- Confirm again verbally that the debaters' names/codes and sides listed on your
+  ballot are correct.
 - Enter the winner and points on the ballot and Confirm the Ballot (unconfirmed
   ballots are not complete).
-- Do NOT disclose the decision. Submit and confirm the first flight before the second
-  flight begins.
+- Do NOT disclose the decision. Submit and confirm the first flight before the
+  second flight begins.
 - RFDs should be given but kept short. There is no need to write an elaborately
   long ballot.
-- Your comments are a wonderful way to help students and coaches get constructive,
-  productive, educational feedback. Please provide robust comments for all competitors.
-  Remember: you are more than just a judge this weekend: you’re an educator, too.
-- Additionally, as this has been an issue at other tournaments
-  throughout the country: please write your comments yourself and do not use AI generators to do it for you.
-  These awesome kids took their time to create special presentations for you, so please take a few
-  moments to write some personal thoughts for them, too.
+- Your comments are a wonderful way to help students and coaches get
+  constructive, productive, educational feedback. Please provide robust comments
+  for all competitors. Remember: you are more than just a judge this weekend:
+  you’re an educator, too.
+- Additionally, as this has been an issue at other tournaments throughout the
+  country: please write your comments yourself and do not use AI generators to
+  do it for you. These awesome kids took their time to create special
+  presentations for you, so please take a few moments to write some personal
+  thoughts for them, too.
 
 ### Rules Violations
 
@@ -159,10 +172,10 @@ described below.
 
 Judges have **55 minutes** for each flight from the ROUND START TIME (not when
 you click start, not when you really start, but the scheduled start time) to
-submit their decisions for each flight. This countdown is visible on the
-ballot. This rule exists (a) to keep us on schedule, (b) to encourage debaters to
-minimize wasted time within rounds, and (c) to prevent judges from over-analyzing
-every piece of evidence in a round.
+submit their decisions for each flight. This countdown is visible on the ballot.
+This rule exists (a) to keep us on schedule, (b) to encourage debaters to
+minimize wasted time within rounds, and (c) to prevent judges from
+over-analyzing every piece of evidence in a round.
 
 This should create an incentive for all participants to start on time (or
 early!), move swiftly through the round, and quickly notify tab of any tech
@@ -170,8 +183,8 @@ issues or missing persons. It may NOT be used to justify cutting time from
 speeches, crossfires, prep, or tech time.
 
 Judges who have not voted by the decision deadline will be visited by a member
-of the tab staff, unless we are aware of the issues that caused a delay.
-The ballot does not disappear when the timer ends - even if you exceed the time
+of the tab staff, unless we are aware of the issues that caused a delay. The
+ballot does not disappear when the timer ends - even if you exceed the time
 allotted, finish the round and vote as normal!
 
 Remember that the decision timer is only for **points and the winner**. If you
@@ -181,18 +194,18 @@ rest of the tournament to include your comments.
 
 ### Obligations
 
-- Judges are obligated for all preliminary rounds. Elimination round
-  obligations are set by the diocese and determined before the tournament. Tab
-  will not change assignments, except if you are volunteering for extra rounds!
+- Judges are obligated for all preliminary rounds. Elimination round obligations
+  are set by the diocese and determined before the tournament. Tab will not
+  change assignments, except if you are volunteering for extra rounds!
 
 ## Event Rules
 
 ### Coin Flips
 
 **Please note** in NCFL, there is NO coin flip for sides or for speaker order in
-rounds 1 through 4. There is only a coin flip for sides in Round 5 and in any elims
-when teams have not met before. The coin flip is managed automatically in tabroom.com.
-Pro always speaks first.
+rounds 1 through 4. There is only a coin flip for sides in Round 5 and in any
+elims when teams have not met before. The coin flip is managed automatically in
+tabroom.com. Pro always speaks first.
 
 ### Structure of a Round
 
@@ -216,10 +229,12 @@ Pro always speaks first.
 
 ### Debate Speaker Point Scale
 
-Speaker points are used to give a holistic measurement of the effectiveness of the debater’s participation in the
-round - speaking, strategy, decorum, etc. Judges must follow the speaker point scale, regardless of what they are used
-to or may prefer, so that there is a fair standard across all rounds. Plus, if we have a standard, points provide
-meaningful feedback instead of being arbitrary and useless!
+Speaker points are used to give a holistic measurement of the effectiveness of
+the debater’s participation in the round - speaking, strategy, decorum, etc.
+Judges must follow the speaker point scale, regardless of what they are used to
+or may prefer, so that there is a fair standard across all rounds. Plus, if we
+have a standard, points provide meaningful feedback instead of being arbitrary
+and useless!
 
 | Points          | Meaning                                                                                  |
 | --------------- | ---------------------------------------------------------------------------------------- |
