@@ -36,7 +36,7 @@
 
 [ ] Any updates for Equity?
 [ ] Create protest contact form an procedures and add to doc
-[ ] Can/Should we visualize the colors for the cubicles?
+[X] Can/Should we visualize the colors for the cubicles?
 [ ] Standardize coinflip language
 [ ] Extract paradigm langauge
 [ ] Extract speaker point scale

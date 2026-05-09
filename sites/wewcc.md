@@ -1,15 +1,17 @@
-**Entrance**: 
+**Entrance**:
 
 **Network**:
 
 - **Network Name**:
-- **Username**: 
-- **Password**: 
+- **Username**:
+- **Password**:
 
 **Cubicle Colors by Event**
 
- - Policy Debate - Red
- - LD Debate - White
- - PF Debate - Blue
- - Extemp Speaking - Black
- - Declamation / Original Oratory - Gray
+| Color                                                   | Events        |
+| ------------------------------------------------------- | ------------- |
+| [Red]{style="background-color: red;"}                   | Policy Debate |
+| [White]{style="background-color: white;"}               | LD Debate     |
+| [Blue]{style="background-color: blue; color: white;"}   | PF Debate     |
+| [Black]{style="background-color: black; color: white;"} | Extemp        |
+| [Gray]{style="background-color: gray;"}                 | Dec / Oratory |
