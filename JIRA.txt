@@ -51,7 +51,7 @@
 [ ] General Review Pass
 - [ ] Speech
   - [X] Student and Judge expectations
-  - [ ] Update event rules
+  - [X] Update event rules
   - [ ] Update judge training link
 - [ ] Congress
 - [ ] LD
