@@ -4,9 +4,11 @@ mustache:
   - vars.yaml
 ---
 
+<!-- prettier-ignore-start -->
 ::: {custom-style=current_status}
 [CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday.
 :::
+<!-- prettier-ignore-end -->
 
 ## Contact Information
 
