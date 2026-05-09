@@ -39,7 +39,7 @@
 [X] Can/Should we visualize the colors for the cubicles?
 [ ] Standardize coinflip language
 [X] Extract paradigm langauge
-[ ] Extract speaker point scale
+[X] Extract speaker point scale
 
 [X] No recording and video language
 - [X] Speech
