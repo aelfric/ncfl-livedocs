@@ -121,7 +121,7 @@ Nothing yet. Check back here during the tournament for important information.
 #### During Rounds
 
 - Take notes DURING the performance. You can type, the students are used to it!
-  Do not wait until after each student to write your comments. 
+  Do not wait until after each student to write your comments.
 - Keep time, and please provide time signals per the student’s request. If time signals are
   requested and not provided as promised, DO NOT penalize the student if they
   perform over the grace period of 30 seconds.

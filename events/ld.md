@@ -27,6 +27,7 @@ mustache:
 **LD Tab Room Support** (text only): {{ldPhone}} or email [{{ldEmail}}](email)
 
 **Equity Advocates**:
+
 ```{include="equity-contact.md"}
 
 ```
@@ -35,11 +36,9 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-
 ```{include="sites.md"}
 
 ```
-
 
 ### Convention Center (Saturday)
 
@@ -137,24 +136,24 @@ Nothing yet. Check back here during the tournament for important information.
 
 (All times in Eastern)
 
-| Round        | Pairings Released  | In Room Time  | Start Time  |
-| ------------ | ------------------ | ------------- | ----------- |
-| **Saturday** |                    |               |             |
-| 1            | 7:00 AM            | 7:20 AM       | 7:30 AM     |
-| 2            | 9:00 AM            | 9:20 AM       | 9:30 AM     |
-| 3            | 12:30 PM           | 12:50 PM      | 1:00 PM     |
-| 4            | 3:00 PM            | 3:20 PM       | 3:30 PM     |
-| 5            | 5:45 PM            | 6:05 PM       | 6:15 PM     |
-| **Sunday**   |                    |               |             |   
-| Play-In      | 7:00 AM            | 7:20 AM       | 7:30 AM     |
-| Dbl Octos    | 9:00 AM            | 9:20 AM       | 9:30 AM     |
-| Octo         | 11:00 AM           | 11:20 AM      | 11:30 AM    |
-| Quarts       | 1:00 PM            | 1:20 PM       | 1:30 PM     |
-| Semis        | 2:30 PM            | 2:50 PM       | 3:00 PM     |
-| Final        | 4:00 PM            | 4:20 PM       | 4:30 PM     |
+| Round        | Pairings Released | In Room Time | Start Time |
+| ------------ | ----------------- | ------------ | ---------- |
+| **Saturday** |                   |              |            |
+| 1            | 7:00 AM           | 7:20 AM      | 7:30 AM    |
+| 2            | 9:00 AM           | 9:20 AM      | 9:30 AM    |
+| 3            | 12:30 PM          | 12:50 PM     | 1:00 PM    |
+| 4            | 3:00 PM           | 3:20 PM      | 3:30 PM    |
+| 5            | 5:45 PM           | 6:05 PM      | 6:15 PM    |
+| **Sunday**   |                   |              |            |
+| Play-In      | 7:00 AM           | 7:20 AM      | 7:30 AM    |
+| Dbl Octos    | 9:00 AM           | 9:20 AM      | 9:30 AM    |
+| Octo         | 11:00 AM          | 11:20 AM     | 11:30 AM   |
+| Quarts       | 1:00 PM           | 1:20 PM      | 1:30 PM    |
+| Semis        | 2:30 PM           | 2:50 PM      | 3:00 PM    |
+| Final        | 4:00 PM           | 4:20 PM      | 4:30 PM    |
 
-**NOTE**:  We hope to release the pairings 30 minutes prior to start time but 
-rounds must start at the originally scheduled time even if that 
+**NOTE**: We hope to release the pairings 30 minutes prior to start time but
+rounds must start at the originally scheduled time even if that
 shortens pre-round prep.
 
 ## Judge Notes and Expectations
@@ -226,12 +225,12 @@ A SUBSTITUTE JUDGE.**
     pm on Saturday. For Elimination Rounds, please work to have
     all comments for each Elimination Round on the ballot within 20 minutes of
     the round ending.
-- Your comments are a wonderful way to help students and coaches get constructive, 
+- Your comments are a wonderful way to help students and coaches get constructive,
   productive, educational feedback. Please provide robust comments for all competitors.
-  Remember: you are more than just a judge this weekend: you’re an educator, too. 
-- Additionally, as this has been an issue at other tournaments 
-  throughout the country: please  write your comments yourself and do not use AI generators to do it for you. 
-  These awesome kids took their time to create special presentations for you, so please take a few 
+  Remember: you are more than just a judge this weekend: you’re an educator, too.
+- Additionally, as this has been an issue at other tournaments
+  throughout the country: please write your comments yourself and do not use AI generators to do it for you.
+  These awesome kids took their time to create special presentations for you, so please take a few
   moments to write some personal thoughts for them, too.
 
 ### Debate speaker point scale
@@ -325,11 +324,11 @@ Procedures:
 > the start time of Policy CX rounds. The reading of complete citations is
 > required only when requested by the opponent.”
 
- A link to a room on <https://share.tabroom.com/> for the round will be available
- in your tabroom account.  The room name will be a randomized set of words and
- numbers (e.g., OpenOtter137).  Files can be shared by uploading them on the
- website linked or by emailing the address on that page (e.g.,
- OpenOtter137@share.tabroom.com ).
+A link to a room on <https://share.tabroom.com/> for the round will be available
+in your tabroom account. The room name will be a randomized set of words and
+numbers (e.g., OpenOtter137). Files can be shared by uploading them on the
+website linked or by emailing the address on that page (e.g.,
+OpenOtter137@share.tabroom.com ).
 
 In Lincoln-Douglas, any evidence read/cited in the round must be made available
 to the opponent upon request. Requests for evidence, and the time spent finding
@@ -359,7 +358,6 @@ Personal values of the judges should not influence the decision.
 ```{include="observers.md"}
 
 ```
-
 
 ```{include="equity.md"}
 

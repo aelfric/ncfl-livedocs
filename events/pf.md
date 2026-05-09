@@ -189,9 +189,9 @@ rest of the tournament to include your comments.
 
 ### Coin Flips
 
-**Please note** in NCFL, there is NO coin flip for sides or for speaker order in 
-rounds 1 through 4. There is only a coin flip for sides in Round 5 and in any elims 
-when teams have not met before. The coin flip is managed automatically in tabroom.com. 
+**Please note** in NCFL, there is NO coin flip for sides or for speaker order in
+rounds 1 through 4. There is only a coin flip for sides in Round 5 and in any elims
+when teams have not met before. The coin flip is managed automatically in tabroom.com.
 Pro always speaks first.
 
 ### Structure of a Round

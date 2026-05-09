@@ -18,7 +18,6 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-
 ```{include="sites.md"}
 
 ```
@@ -112,7 +111,6 @@ See the [NCFL Congress Manual](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncfl
 ```{include="observers.md"}
 
 ```
-
 
 ```{include="equity.md"}
 
