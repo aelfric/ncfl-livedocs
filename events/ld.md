@@ -281,19 +281,11 @@ punishment for violating the rules.
 
 ## Event Rules
 
-### Coin Flips - Round 5 and Elimination Rounds
+```{include="flips.md"}
 
-Following current NCFL rules, sides are set by the TAB Room. There are no coin
-flips in prelims until Round 5 and then in elimination rounds. In elims, unless
-opponents have met previously, the round begins with a coin flip. The winner of
-the flip may choose the side on which they want to compete.
+```
 
 In Lincoln-Douglas the affirmative will always speak first.
-
-Tabroom.com will manage the coin flip. Five minutes after a pairing is released,
-the teams will be notified who won the flip, enabling that team to make their
-selection. **Debaters must check their email for the Tabroom.com link!** If they
-miss their chance, the other team will be given the choice.
 
 ### Structure of a Round
 

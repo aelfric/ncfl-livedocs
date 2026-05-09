@@ -35,9 +35,8 @@
     - [ ] CX
 
 [ ] Any updates for Equity?
-[ ] Create protest contact form an procedures and add to doc
 [X] Can/Should we visualize the colors for the cubicles?
-[ ] Standardize coinflip language
+[X] Standardize coinflip language
 [X] Extract paradigm langauge
 [X] Extract speaker point scale
 
@@ -59,3 +58,5 @@
 - [ ] CX
   - [X] evidence challenge rules NSDA?
 
+
+[ ] Create protest contact form an procedures and add to doc
