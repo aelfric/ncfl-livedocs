@@ -75,8 +75,7 @@ Nothing yet. Check back here during the tournament for important information.
 ### Judges
 
 - There are three (3) judges per round (5 in Semis and Finals). Please confirm
-  that all three judges see the same teams on their ballots before the round
-  begins.
+  that all judges see the same teams on their ballots before the round begins.
 - If you are assigned a round: push “{{button}}” as soon as you receive the
   ballot.
 - If you are not assigned a round: report to the event judge standby room and
@@ -102,7 +101,7 @@ Nothing yet. Check back here during the tournament for important information.
 | ------------ | ----------------- | ------------ | ---------- |
 | **Saturday** |                   |              |            |
 | 1            | 7:00 AM           | 7:20 AM      | 7:30 AM    |
-| 2            | 9:00 AM           | 9:20 AM      | 9:30 AM    |
+| 2            | 9:15 AM           | 9:25 AM      | 9:30 AM    |
 | 3            | 12:30 PM          | 12:50 PM     | 1:00 PM    |
 | 4            | 2:45 PM           | 3:05 PM      | 3:15 PM    |
 | 5            | 5:15 PM           | 5:35 PM      | 5:45 PM    |
@@ -147,8 +146,8 @@ Judges: thank you! Tournaments do not exist without you!
     reset.
   - If debaters are missing at In Room Time, text or email Tab or tell a member
     of Tab staff
-  - Do not start without three adults looking at ballots that all say the same
-    sides that the debaters think they are on!
+  - Do not start without three adults (five in Semis and Finals) looking at
+    ballots that all say the same sides that the debaters think they are on!
 - If you did NOT receive a blast message for your round assignment:
   - Double-check the pairings to be sure you are unassigned!
   - Judges who are not assigned a round are on standby and must be in the
@@ -166,20 +165,20 @@ Judges: thank you! Tournaments do not exist without you!
 ### After Rounds
 
 - Quickly read any evidence that is crucial to making your decision.
-- Confirm again verbally that the debaters' names/codes and sides listed on your
+- Confirm again verbally that the debaters’ names/codes and sides listed on your
   ballot are correct.
 - DO NOT CONFER WITH OTHER JUDGES except to confirm that sides are correct.
   Judges must decide the winner independently.
 - Enter points (following the scale; see ballot and below) and a decision (must
   be one winner and one loser).
 - Confirm decision in tabroom. Write the winning SCHOOL and SIDE in your RFD.
-- Help debaters and coaches by explaining the argument that caused you to vote.
 - DISCLOSURE OF DECISIONS IS NOT ALLOWED FOR ANY REASON.
-- Complete comments later - they remain open until the end of the tournament
-- Your comments are a wonderful way to help students and coaches get
+- Help debaters and coaches by explaining the argument that caused you to vote.
+  Your comments are a wonderful way to help students and coaches get
   constructive, productive, educational feedback. Please provide robust comments
   for all competitors. Remember: you are more than just a judge this weekend:
   you’re an educator, too.
+- Complete comments later \- they remain open until the end of the tournament
 - Additionally, as this has been an issue at other tournaments throughout the
   country: please write your comments yourself and do not use AI generators to
   do it for you. These awesome kids took their time to create special
@@ -189,8 +188,7 @@ Judges: thank you! Tournaments do not exist without you!
 ### Rules Violations
 
 Please consult Tab before deciding that something in the round warrants
-punishment for violating the rules, excepting the evidence violation process
-described below.
+punishment for violating the rules.
 
 ### Decision Timer
 
@@ -280,7 +278,7 @@ to deny a team the chance to see their opponent’s evidence.
 ```
 
 Low-point wins (where the winning team has fewer points than the losing team)
-are allowed.
+ARE allowed.
 
 ### No mavericks allowed
 
