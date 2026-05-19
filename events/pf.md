@@ -101,6 +101,10 @@ shortens pre-round prep.
 
 Judges: thank you! Tournaments do not exist without you!
 
+We are very tight on judging for this tournament. Most judges will be assigned
+five double-flighted rounds on Saturday. There is a built-in lunch break in the
+schedule.
+
 ### Before the Tournament
 
 ```{include="paradigm.md"}
@@ -138,8 +142,8 @@ Judges: thank you! Tournaments do not exist without you!
   ballots are not complete).
 - Do NOT disclose the decision. Submit and confirm the first flight before the
   second flight begins.
-- RFDs should be given but kept short. There is no need to write an elaborately
-  long ballot.
+- RFDs should be written but kept short. There is no need to write an
+  elaborately long ballot.
 - Your comments are a wonderful way to help students and coaches get
   constructive, productive, educational feedback. Please provide robust comments
   for all competitors. Remember: you are more than just a judge this weekend:

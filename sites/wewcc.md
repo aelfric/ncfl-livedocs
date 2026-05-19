@@ -6,6 +6,8 @@
 - **Username**:
 - **Password**:
 
+Map: LINK GOES HERE
+
 **Cubicle Colors by Event**
 
 | Color                                                   | Events        |

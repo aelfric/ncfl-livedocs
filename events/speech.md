@@ -185,10 +185,10 @@ Nothing yet. Check back here during the tournament for important information.
 
 ## Judge Notes and Expectations
 
-### Judge Training
+### Judge Orientation
 
 See the Webinar recorded on Sunday:
-<https://www.youtube.com/watch?v=cWzTv4KxiQs>
+<https://www.youtube.com/watch?v=1-MIf8Bi07E/>
 
 ### Time Signals
 
