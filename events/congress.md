@@ -16,6 +16,21 @@ mustache:
 
 ```
 
+**Congress Tab Room**:
+
+- Saturday: Convention Center \- L1 \- 149 B
+- Sunday: Marriott Marquis \- M4 \- Senate Boardroom
+
+**Congress Tab Room Support** (email only):
+[ncflclerkofcongress@gmail.com](mailto:ncflclerkofcongress@gmail.com) \- all
+communications should be from Judges or Coaches only
+
+**Equity Advocates**:
+
+```{include="equity-contact.md"}
+
+```
+
 ## Announcements / Updates
 
 Nothing yet. Check back here during the tournament for important information.
@@ -43,7 +58,7 @@ Nothing yet. Check back here during the tournament for important information.
 ### Preliminary Sessions (Saturday)
 
 Preliminary Sessions are our opening congressional sessions on Saturday, May
-23, 2026. Every registered student competes in one of 10 chambers of 18 students
+23, 2026. Every registered student competes in one of 11 chambers of 18 students
 each. Students will share the same cohort experience for the entire day.
 Building relationships and demonstrating oneself as a knowledgeable and
 open-minded decision-maker is a noble goal.
@@ -92,7 +107,7 @@ colleagues is an important leadership skill.
 ## Round Procedures
 
 See the
-[NCFL Congress Manual](https://www.ncfl.org/uploads/7/3/2/8/7328308/ncfl_congress_manual__fall2025_for_ncfl2026_.pdf)
+[NCFL Congress Manual](https://drive.google.com/file/d/1YVvnh9LhE59wAITNG8ZkQtpHLse8iToP/view)
 
 ## Judge Notes and Expectations
 
