@@ -1,10 +1,16 @@
 **Entrance**:
 
+- [8501 Allen Y. Lew Place](https://maps.app.goo.gl/A8fDqMrp5yV9SG6A8)
+- A connector tunnel is also available from the Marriott M2 level two floors
+  down from the main lobby
+
 **Network**:
 
-- **Network Name**:
-- **Username**:
-- **Password**:
+Public WiFi is available use in between rounds. Please only use the below
+network on your primary device for use during rounds only.
+
+- **Network Name**: `NCFLWiFiForRounds`
+- **Password**: `NCFL2026`
 
 Map: LINK GOES HERE
 

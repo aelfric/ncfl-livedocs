@@ -51,7 +51,7 @@
 - [ ] Speech
   - [X] Student and Judge expectations
   - [X] Update event rules
-  - [ ] Update judge training link
+  - [X] Update judge training link
 - [ ] Congress
 - [ ] LD
 - [X] PF
