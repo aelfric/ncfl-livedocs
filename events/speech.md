@@ -23,9 +23,7 @@ mustache:
 
 **Speech Judge Standby Room**:
 
-- Saturday:
-  - Convention Center - L1 - 146-ABC
-  - Marriott Marquis - M2 - Marquis 5,6
+- Saturday: Convention Center - L1 - 146-ABC
 - Sunday: Marriott Marquis - M4 - Treasury
 
 **Speech Tab Room**:

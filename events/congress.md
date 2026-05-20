@@ -18,8 +18,8 @@ mustache:
 
 **Congress Tab Room**:
 
-- Saturday: Convention Center \- L1 \- 149 B
-- Sunday: Marriott Marquis \- M4 \- Senate Boardroom
+- Saturday: Convention Center - L1 - 149 B
+- Sunday: Marriott Marquis - M4 - Senate Boardroom
 
 **Congress Tab Room Support** (email only):
 [ncflclerkofcongress@gmail.com](mailto:ncflclerkofcongress@gmail.com) \- all

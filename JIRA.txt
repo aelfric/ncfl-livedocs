@@ -21,18 +21,18 @@
 - [ ] CX
 
 [ ] Review locations for all events
-  - [ ] Saturday
-    - [ ] Speech
-    - [ ] Congress
-    - [ ] LD
-    - [ ] PF
-    - [ ] CX
-  - [ ] Sunday
-    - [ ] Speech
-    - [ ] Congress
-    - [ ] LD
-    - [ ] PF
-    - [ ] CX
+  - [X] Saturday
+    - [X] Speech
+    - [X] Congress
+    - [X] LD
+    - [X] PF
+    - [X] CX
+  - [X] Sunday
+    - [X] Speech
+    - [X] Congress
+    - [X] LD
+    - [X] PF
+    - [X] CX
 
 [X] Any updates for Equity?
 [X] Can/Should we visualize the colors for the cubicles?
@@ -48,14 +48,14 @@
 - [X] CX
 
 [ ] General Review Pass
-- [ ] Speech
+- [X] Speech
   - [X] Student and Judge expectations
   - [X] Update event rules
   - [X] Update judge training link
-- [ ] Congress
-- [ ] LD
-- [X] PF
-- [ ] CX
+- [X] Congress
+- [X] LD
+- [ ] PF
+- [X] CX
   - [X] evidence challenge rules NSDA?
 
 
