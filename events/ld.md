@@ -271,9 +271,8 @@ punishment for violating the rules.
 
 ### Advice
 
-&#8209; A great resource for judge training:
-[https://sites.google.com/view/judge-training/home](https://sites.google.com/view/judge-training/home)
-
+- A great resource for judge training:
+  [https://sites.google.com/view/judge-training/home](https://sites.google.com/view/judge-training/home)
 - A description of good and bad ballot writing:
   [Debate Ballot Examples](https://docs.google.com/document/d/1qzqbP65igdvTpcmW-boiEC2En5yuqPVRquVvhJ_3fxw/edit?usp=sharing)
 - A video explaining how to use tabroom.com:

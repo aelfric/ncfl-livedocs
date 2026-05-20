@@ -83,10 +83,10 @@ Nothing yet. Check back here during the tournament for important information.
 | 8:30 AM      | Octofinals - all events              |
 | 11:00 AM     | EX Quarterfinal (Draw)               |
 | 11:30 AM     | Quarterfinals - all events           |
-| 1:30 PM      | EX Semifinal (Draw)                  |
-| 2:00 PM      | Semifinals - all events              |
-| 3:45 PM      | EX Final (Draw)                      |
-| 4:15 PM      | Finals - all events                  |
+| 1:45 PM      | EX Semifinal (Draw)                  |
+| 2:15 PM      | Semifinals - all events              |
+| 4:00 PM      | EX Final (Draw)                      |
+| 4:30 PM      | Finals - all events                  |
 
 ## Round Procedures
 

@@ -134,9 +134,9 @@ Judges: thank you! Tournaments do not exist without you!
     are judging it. We trust you to start on time once you are on the way.
   - ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE
     ELSE TO JUDGE IN YOUR NAME. ONLY THE TABROOM CAN CHANGE A JUDGE.
-  - **You can be fined for not reporting to your room on time.** If the Tab Room
-    has to substitute a new/different judge in for your assigned round, you will
-    be fined.
+  - **You can be fined for not reporting to your room on time even if you have
+    acknowledged your ballot.** If the Tab Room has to substitute a
+    new/different judge in for your assigned round, you will be fined.
 
 - Once you are in your room:
   - Confirm (verbally) that the debaters’ names/codes and sides listed on your
@@ -158,7 +158,10 @@ Judges: thank you! Tournaments do not exist without you!
 
 - Flow (take notes)
 - Keep time
-- Enter comments on Tabroom between speeches or during prep time
+- Enter comments on your using a ‘hard drive’ program (Word, Notepad, Pages) in
+  between speeches or during prep time. If the internet becomes unstable in your
+  room or building, you might lose all your comments otherwise. You can then
+  copy/paste into Tabroom.
 - That’s it. Do not ask questions, answer questions, comment on arguments, or
   get involved in the debate in any way
 
@@ -171,7 +174,9 @@ Judges: thank you! Tournaments do not exist without you!
   Judges must decide the winner independently.
 - Enter points (following the scale; see ballot and below) and a decision (must
   be one winner and one loser).
-- Confirm decision in tabroom. Write the winning SCHOOL and SIDE in your RFD.
+- Confirm decision in tabroom. Write the winning CODE and SIDE in your RFD. This
+  helps the Tabroom ensure your decision is recorded correctly. The first line
+  of your RFD should be "I vote for the AFF/NEG which is code \_\_\_\_.
 - DISCLOSURE OF DECISIONS IS NOT ALLOWED FOR ANY REASON.
 - Help debaters and coaches by explaining the argument that caused you to vote.
   Your comments are a wonderful way to help students and coaches get

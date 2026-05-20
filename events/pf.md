@@ -128,6 +128,10 @@ schedule.
 - DO NOT MIX FLIGHTS!!! If you need to start Flight 2 first, fine, but be sure
   NOT to switch competitors. Confirm the teams and sides both before and after
   the round.
+- Enter comments on your using a ‘hard drive’ program (Word, Notepad, Pages) in
+  between speeches or during prep time. If the internet becomes unstable in your
+  room or building, you might lose all your comments otherwise. You can then
+  copy/paste into Tabroom.
 - For round 5:
   - Because the Coin Flip is pre-set to occur at a specific time in each Flight
     we cannot start Flight 2 early in Round 5.
@@ -157,8 +161,7 @@ schedule.
 ### Rules Violations
 
 Please consult TAB before deciding that something in the round warrants
-punishment for violating the rules, excepting the evidence violation process
-described below.
+punishment for violating the rules.
 
 ### Evidence Challenges
 
