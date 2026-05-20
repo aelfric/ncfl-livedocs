@@ -65,8 +65,8 @@ Nothing yet. Check back here during the tournament for important information.
     - However: DO NOT MIX AND MATCH
       - Flight 1 debaters MUST debate each other
       - Flight 2 debaters MUST debate each other
-    - Judges: ONCE the first flight is done - move immediately to the next
-      flight
+    - Judges: ONCE the first flight is done - enter points and decision for the
+      first flight, and move immediately to the next flight.
   - For round 5:
     - Because the Coin Flip is pre-set to occur at a specific time in each
       Flight we cannot start Flight 2 early in Round 5.
@@ -77,19 +77,17 @@ Nothing yet. Check back here during the tournament for important information.
 - Judges: Do NOT disclose your decision or provide oral critique - the decision
   and all comments go on the ballot.
 - Judges: Do NOT confer with the other judges in the round.
-- ALL: There is Wi-Fi - but please Do NOT stream music or video on the Wi-Fi or
+- ALL: There is Wi-Fi - but please DO NOT stream music or video on the Wi-Fi or
   otherwise use it for personal activities. We need the Wi-Fi for rounds to run
   smoothly, ballots to be submitted, and the tournament to run on time!
 
 ### How It Works
 
-- Judges: once Pairings are posted, as soon as possible: (1) get to your room;
-  and (2) access your ballot by hitting the “{{button}}” button on the Flight 1
-  ballot immediately.
+- Judges: once Pairings are posted, as soon as possible: (1) access your ballot
+  by hitting the “{{button}}” button on the Flight 1 ballot immediately, and (2)
+  get to your room.
   - If you end up running the Flight 2 first - that’s ok. You can click
-    {{button}} on the Flight 2 ballot and Tabroom can unstart Flight 1 for you.
-    You can then click {{button}} on the Flight 1 ballot once you run that
-    flight.
+    {{button}} on the Flight 2 ballot.
   - We want judges to press the {{button}} on the Flight 1 ballot as soon as
     possible, so we know you are here, and we do not need to find a substitute!
 - Judges: to be very clear: do not wait for the beginning of the Flight 1 debate
@@ -106,7 +104,8 @@ Nothing yet. Check back here during the tournament for important information.
 
 ### Competitors
 
-- Forfeit time is 10 minutes after the Round is set to start.
+- Whether you are assigned Flight 1 or Flight 2, head to your room when the
+  round is blasted. Forfeit time is 10 minutes after the Round is set to start.
 - If you are not in your room - you will forfeit the round.
 - Debaters, do not start debating until you have confirmed that all judges can
   see your correct names on the right sides on their ballots.
@@ -125,17 +124,17 @@ Nothing yet. Check back here during the tournament for important information.
 - We are very tight on judges - so please plan to judge all 5 rounds (10
   flights) on Saturday.
 - If you are assigned a round: push “{{button}}” to acknowledge the ballot as
-  soon as you are in the room and able. If it is a double flighted round, press
-  the {{button}} for the Flight 1 ballot.
+  soon receive the ballot. If it is a double flighted round, press the
+  {{button}} for the Flight 1 ballot.
 - If you are not assigned a round: report to the Judge Standby Room and wait
   until you have been released by the TAB Room Staff. You will be released when
   all rounds have started.
 - We may need to ask you to substitute for a missing judge, so it is critical
   that you report to and remain in the Judge Standby Room if you are not
   scheduled for a round.
-- **You can be fined for not reporting to your room on time**. If the TAB Room
-  has to substitute a new/different judge for your assigned round, you will be
-  fined.
+- **You can be fined for not reporting to your room on time even if you have
+  acknowledged your ballot**. If the TAB Room has to substitute a new/different
+  judge for your assigned round, you will be fined.
 
 ## Schedule
 
@@ -200,8 +199,10 @@ TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.**
 - Flow (take notes)
 - Keep time (NOTE: Students will likely time themselves as well, which is
   perfectly acceptable.)
-- Enter comments on your Ballot on Tabroom.com between speeches or during prep
-  time.
+- Enter comments on your using a ‘hard drive’ program (Word, Notepad, Pages) in
+  between speeches or during prep time. If the internet becomes unstable in your
+  room or building, you might lose all your comments otherwise. You can then
+  copy/paste into Tabroom.
 - A good judge is a silent judge. The only communication a judge should have
   with the competitors is to assist the orderly flow of the round. Do not ask
   questions, do not comment on arguments, and do not get involved in the debate
@@ -227,8 +228,9 @@ TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.**
   - Points cannot be tied
   - There are NO low point wins
 - Confirm your decision in Tabroom.com.
-- Write the winning SCHOOL and SIDE in your RFD on the Ballot. This helps the
-  Tabroom ensure your decision is recorded correctly.
+- Write the winning CODE and SIDE in your RFD on the Ballot. This helps the
+  Tabroom ensure your decision is recorded correctly. The first line of your RFD
+  should be "I vote for the AFF/NEG which is code \_\_\_\_.
 - You must stay in your room until your decision is submitted.
 - Help debaters and coaches by explaining on the Ballot the argument that caused
   you to vote the way you did (remember, **NO oral critique & NO disclosure**)

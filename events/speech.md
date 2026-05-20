@@ -112,12 +112,12 @@ Nothing yet. Check back here during the tournament for important information.
 - Once you receive a round assignment, please note the time and plan to arrive
   in the room 10 minutes prior to the start time. Please hit the "In the room"
   button once you have arrived in the room.
-- Do not begin the round until you have confirmed all three judges are present.
-  (Do not assume another adult in the room is a judge.) Checkers will be
-  checking rooms and will report missing judges to the tab room. Please only
-  text about a missing judge if a checker has not been to your room 15 minutes
-  after the round was scheduled to begin. We will send the checker to the room
-  to help replace the judge.
+- Do not begin the round until you have confirmed all judges are present. (Do
+  not assume another adult in the room is a judge.) Checkers will be checking
+  rooms and will report missing judges to the tab room. Please only text about a
+  missing judge if a checker has not been to your room 15 minutes after the
+  round was scheduled to begin. We will send the checker to the room to help
+  replace the judge.
 - You do not need every student present in order to start the round. If you are
   missing students in your room **30 mins after** the posted start time - please
   contact us!
