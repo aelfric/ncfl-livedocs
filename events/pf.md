@@ -152,6 +152,10 @@ schedule.
   constructive, productive, educational feedback. Please provide robust comments
   for all competitors. Remember: you are more than just a judge this weekend:
   you’re an educator, too.
+- If you need, you can complete comments later:
+  - All comments for Rounds 1-5 must be entered by 8:00 pm on Saturday. For
+    Elimination Rounds, please work to have all comments for each Elimination
+    Round on the ballot within 20 minutes of the round ending.
 - Additionally, as this has been an issue at other tournaments throughout the
   country: please write your comments yourself and do not use AI generators to
   do it for you. Students will dismiss feedback that sounds like it was
@@ -191,11 +195,6 @@ Remember that the decision timer is only for **points and the winner**. If you
 find yourself approaching the end of the decision time, you can submit speaker
 points and a decision without comments and revisit your ballot throughout the
 rest of the tournament to include your comments.
-
-If you need, you can complete comments later. All comments for Rounds 1-5 must
-be entered by 8:00 pm on Saturday. For Elimination Rounds, please work to have
-all comments for each Elimination Round on the ballot within 20 minutes of the
-round ending.
 
 ### Obligations
 

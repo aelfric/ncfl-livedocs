@@ -183,7 +183,10 @@ Judges: thank you! Tournaments do not exist without you!
   constructive, productive, educational feedback. Please provide robust comments
   for all competitors. Remember: you are more than just a judge this weekend:
   you’re an educator, too.
-- Complete comments later \- they remain open until the end of the tournament
+- If you need, you can complete comments later:
+  - All comments for Rounds 1-5 must be entered by 8:00 pm on Saturday. For
+    Elimination Rounds, please work to have all comments for each Elimination
+    Round on the ballot within 20 minutes of the round ending.
 - Additionally, as this has been an issue at other tournaments throughout the
   country: please write your comments yourself and do not use AI generators to
   do it for you. Students will dismiss feedback that sounds like it was

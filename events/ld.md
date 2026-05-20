@@ -237,9 +237,9 @@ TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.**
 - Please provide a reason for your decision on the Ballot so the debaters can
   improve their arguments and debate skills in the future!
 - If you need, you can complete comments later:
-  - For Lincoln-Douglas - all comments for Rounds 1-5 must be entered by 8:00 pm
-    on Saturday. For Elimination Rounds, please work to have all comments for
-    each Elimination Round on the ballot within 20 minutes of the round ending.
+  - All comments for Rounds 1-5 must be entered by 8:00 pm on Saturday. For
+    Elimination Rounds, please work to have all comments for each Elimination
+    Round on the ballot within 20 minutes of the round ending.
 - Your comments are a wonderful way to help students and coaches get
   constructive, productive, educational feedback. Please provide robust comments
   for all competitors. Remember: you are more than just a judge this weekend:
