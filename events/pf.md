@@ -60,8 +60,8 @@ Nothing yet. Check back here during the tournament for important information.
   before the start of the round via judge/competitor notifications. Students
   must connect their accounts on Tabroom to get notifications or simply look at
   pairings online. All prelim rounds are double flighted.
-- All 4 debaters should report to the room. If Flight 2 is there and ready and
-  Flight 1 is not, the Flight 2 may debate first. Do NOT mix flights.
+- All 4 debate teams should report to the room. If Flight 2 is there and ready
+  and Flight 1 is not, the Flight 2 may debate first. Do NOT mix flights.
 - There are 3 judges in every round + 2 teams. Please wait for all three judges
 - FORFEIT is 10 mins after start of round. Tab Chairs are THE ONLY ONES WHO CAN
   AWARD A FORFEIT. TEXT US AT {{pfPhone}}.
@@ -189,6 +189,11 @@ Remember that the decision timer is only for **points and the winner**. If you
 find yourself approaching the end of the decision time, you can submit speaker
 points and a decision without comments and revisit your ballot throughout the
 rest of the tournament to include your comments.
+
+If you need, you can complete comments later. All comments for Rounds 1-5 must
+be entered by 8:00 pm on Saturday. For Elimination Rounds, please work to have
+all comments for each Elimination Round on the ballot within 20 minutes of the
+round ending.
 
 ### Obligations
 
