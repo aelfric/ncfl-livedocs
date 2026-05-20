@@ -12,7 +12,7 @@ network on your primary device for use during rounds only.
 - **Network Name**: `NCFLWiFiForRounds`
 - **Password**: `NCFL2026`
 
-Map: LINK GOES HERE
+Map: <https://maps.ncflnationals.org/>
 
 **Cubicle Colors by Event**
 
