@@ -7,7 +7,7 @@ affect our decisions. When judging, our implicit biases negatively impact
 students who are traditionally marginalized and disenfranchised. Before writing
 comments or making a decision, please take a moment to reflect on any biases
 that may impact your decision-making process. If you have not already, please
-take the [Implicit Bias Training](https://forms.gle/2ptT89EWCTULkNYW6).
+take the [Implicit Bias Training](https://forms.gle/2uf9XfecamWrjGp99).
 
 ### NCFL Harassment & Discrimination Policy
 

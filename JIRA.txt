@@ -34,7 +34,7 @@
     - [ ] PF
     - [ ] CX
 
-[ ] Any updates for Equity?
+[X] Any updates for Equity?
 [X] Can/Should we visualize the colors for the cubicles?
 [X] Standardize coinflip language
 [X] Extract paradigm langauge
