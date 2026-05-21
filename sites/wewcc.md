@@ -6,7 +6,7 @@
 
 **Network**:
 
-Public WiFi is available use in between rounds. Please only use the below
+Public WiFi is available for use in between rounds. Please only use the below
 network on your primary device for use during rounds only.
 
 - **Network Name**: `NCFLWiFiForRounds`

@@ -124,7 +124,7 @@ Nothing yet. Check back here during the tournament for important information.
 - We are very tight on judges - so please plan to judge all 5 rounds (10
   flights) on Saturday.
 - If you are assigned a round: push “{{button}}” to acknowledge the ballot as
-  soon receive the ballot. If it is a double flighted round, press the
+  soon as you receive the ballot. If it is a double flighted round, press the
   {{button}} for the Flight 1 ballot.
 - If you are not assigned a round: report to the Judge Standby Room and wait
   until you have been released by the TAB Room Staff. You will be released when

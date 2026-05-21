@@ -99,10 +99,11 @@ determine who is the top legislator present. Speeches are part of that, but so
 are participation, decorum, and authority. Connecting and noting references from
 colleagues is an important leadership skill.
 
-| | Start | End | | ---------------------- |
---------https://www.ncfl.org/uploads/7/3/2/8/7328308/ncfl_congress_manual__fall2025_for_ncfl2026_.pdf
-| ------- | | Finals General Meeting | 12:30 PM | 1:00 PM | | Finals, Session 1
-| 1:15 PM | 3:30 PM | | Finals, Session 2 | 3:45 PM | 5:45 PM |
+|                        | Start    | End     |
+| ---------------------- | -------- | ------- |
+| Finals General Meeting | 12:30 PM | 1:00 PM |
+| Finals, Session 1      | 1:15 PM  | 3:30 PM |
+| Finals, Session 2      | 3:45 PM  | 5:45 PM |
 
 ## Round Procedures
 
