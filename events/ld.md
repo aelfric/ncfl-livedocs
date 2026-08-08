@@ -1,12 +1,14 @@
 ---
-title: "{{current_year}} NCFL Lincoln-Douglas Debate Live Doc"
+title: "{{currentYear}} NCFL Lincoln-Douglas Debate Live Doc"
 mustache:
   - vars.yaml
 ---
 
+<!-- prettier-ignore-start -->
 ::: {custom-style=current_status}
-[CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday.
+[CURRENT STATUS:]{custom-style=current_status_label} Tournament starts Saturday. 
 :::
+<!-- prettier-ignore-end -->
 
 ## Contact Information
 
@@ -16,17 +18,18 @@ mustache:
 
 **LD Judge Standby Room**:
 
-- Saturday: Hilton Chicago - Normandie Lounge (2nd Floor)
-- Sunday: Palmer House - Red Lacquer Room (4th Floor)
+- Saturday: Convention Center - L1 - 146-ABC
+- Sunday: Westin - Potomac (Grand) 3 Ballroom
 
 **LD Tab Room**:
 
-- Saturday: Hilton Chicago - Mobley Room (Lower Lobby)
-- Sunday: Palmer House - Ashland (3rd Floor)
+- Saturday: Convention Center - L1 - 154-B
+- Sunday: Westin - Foundry Branch (Lafayette)
 
-**LD Tab Room Support** (text only): {{ld_phone}} or email [{{ld_email}}](email)
+**LD Tab Room Support** (text only): {{ldPhone}} or email [{{ldEmail}}](email)
 
 **Equity Advocates**:
+
 ```{include="equity-contact.md"}
 
 ```
@@ -35,21 +38,19 @@ mustache:
 
 Nothing yet. Check back here during the tournament for important information.
 
-
 ```{include="sites.md"}
 
 ```
 
+### Convention Center (Saturday)
 
-### Hilton Chicago (Saturday)
-
-```{include="sites/hilton.md"}
+```{include="sites/wewcc.md"}
 
 ```
 
-### Palmer House Hilton (Sunday)
+### Westin DC (Sunday)
 
-```{include="sites/palmer-house.md"}
+```{include="sites/westin.md"}
 
 ```
 
@@ -57,16 +58,15 @@ Nothing yet. Check back here during the tournament for important information.
 
 ### Important Notes
 
-- **Topic** Resolved: In the United States, public K-12 schools ought to eliminate
-  academic tracking.
 - Saturday rounds are DOUBLE-flighted.
   - For rounds 1 through 4:
-    - Judges: if you do NOT have both A-flight debaters, but you do have
-      both B-flight debaters, you can let the B-flight debaters go first
+    - Judges: if you do NOT have both A-flight debaters, but you do have both
+      B-flight debaters, you can let the B-flight debaters go first
     - However: DO NOT MIX AND MATCH
       - Flight 1 debaters MUST debate each other
       - Flight 2 debaters MUST debate each other
-    - Judges: ONCE the first flight is done - move immediately to the next flight
+    - Judges: ONCE the first flight is done - enter points and decision for the
+      first flight, and move immediately to the next flight.
   - For round 5:
     - Because the Coin Flip is pre-set to occur at a specific time in each
       Flight we cannot start Flight 2 early in Round 5.
@@ -77,116 +77,118 @@ Nothing yet. Check back here during the tournament for important information.
 - Judges: Do NOT disclose your decision or provide oral critique - the decision
   and all comments go on the ballot.
 - Judges: Do NOT confer with the other judges in the round.
-- ALL: There is Wi-Fi - but please Do NOT stream music or video on the Wi-Fi
-  or otherwise use it for personal activities. We need the Wi-Fi for rounds to
-  run smoothly, ballots to be submitted, and the tournament to run on time!
+- ALL: There is Wi-Fi - but please DO NOT stream music or video on the Wi-Fi or
+  otherwise use it for personal activities. We need the Wi-Fi for rounds to run
+  smoothly, ballots to be submitted, and the tournament to run on time!
 
 ### How It Works
 
-- Judges: once Pairings are posted, as soon as possible: (1) get to your room;
-  and (2) access your ballot by hitting the “{{button}}” button (formerly known
-  as “Start”) on the Flight 1 ballot immediately.
+- Judges: once Pairings are posted, as soon as possible: (1) access your ballot
+  by hitting the “{{button}}” button on the Flight 1 ballot immediately, and (2)
+  get to your room.
   - If you end up running the Flight 2 first - that’s ok. You can click
-    {{button}} on the Flight 2 ballot and Tabroom can unstart Flight 1 for you.
-    You can then click {{button}} on the Flight 1 ballot once you run that
-    flight.
-  - We want judges to press the {{button}} (formerly known as the "Start
-    Button") on the Flight 1 ballot as soon as possible, so we know you are here,
-    and we do not need to find a substitute!
-- Judges: to be very clear: do not wait for the beginning of the Flight 1
-  debate to press the {{button}} (formerly known as the "Start Button") . Press
-  {{button}} on the Flight 1 ballot the moment you are on your way.
-  Reminder: competitors will forfeit their Round if they are not in the
-  competition room 10 minutes after the Round is posted to start.
-- Judges - if you need a forfeit declared - Text Tab at {{ld_phone}}!! You cannot declare
-  the forfeit. Only the Tab Chair can declare a forfeit.
-
+    {{button}} on the Flight 2 ballot.
+  - We want judges to press the {{button}} on the Flight 1 ballot as soon as
+    possible, so we know you are here, and we do not need to find a substitute!
+- Judges: to be very clear: do not wait for the beginning of the Flight 1 debate
+  to press the {{button}}. Press {{button}} on the Flight 1 ballot the moment
+  you are on your way. Reminder: competitors will forfeit their Round if they
+  are not in the competition room 10 minutes after the Round is posted to start.
+- Judges - if you need a forfeit declared - Text Tab at {{ldPhone}}!! You cannot
+  declare the forfeit. Only the Tab Chair can declare a forfeit.
 - Evidence Sharing: Students should be prepared to share, electronically or by
   paper, any evidence they read in the round with their opponent and the judge.
   If you want to share evidence online, it should be done using
-  <https://share.tabroom.com/>. A link to the sharing space for the round will
-  be sent to each debater through the pairing
-
-- Audio and video recordings of the rounds are prohibited. NO ONE (neither competitors nor judges) may record rounds.
+  <https://share.tabroom.com>. A link to the sharing space for the round will be
+  sent to each debater through the pairing
 
 ### Competitors
 
-- Forfeit time is 10 minutes after the Round is set to start.
+- Whether you are assigned Flight 1 or Flight 2, head to your room when the
+  round is blasted. Forfeit time is 10 minutes after the Round is set to start.
 - If you are not in your room - you will forfeit the round.
 - Debaters, do not start debating until you have confirmed that all judges can
   see your correct names on the right sides on their ballots.
-- Just a Reminder: The use of computers, electronic storage, and retrieval devices, etc., is allowed in LD Rounds.
+- Just a Reminder: The use of computers, electronic storage, and retrieval
+  devices, etc., is allowed in LD Rounds.
   - Connectivity to any persons other than the competitors or judges in the
     round is not allowed. Competitors violating this rule will be disqualified
     from the competition.
 
 ### Judges
 
-- For Lincoln-Douglas - there are three (3) judges per round (5 in Semis and Finals).
-- Please confirm that all three judges see the same teams on their ballots before the round begins.
-- We are very tight on judges - so please plan to judge all 5 rounds (10 flights) on Saturday.
+- For Lincoln-Douglas - there are three (3) judges per round (5 in Semis and
+  Finals).
+- Please confirm that all three judges see the same teams on their ballots
+  before the round begins.
+- We are very tight on judges - so please plan to judge all 5 rounds (10
+  flights) on Saturday.
 - If you are assigned a round: push “{{button}}” to acknowledge the ballot as
-  soon as you are in the room and able. If it is a double flighted round, press
-  the {{button}} (formerly known as the "Start Button") for the Flight 1
-  ballot.
-- If you are not assigned a round: report to the Judge Standby Room and wait until
-  you have been released by the TAB Room Staff. You will be released when all
-  rounds have started.
+  soon as you receive the ballot. If it is a double flighted round, press the
+  {{button}} for the Flight 1 ballot.
+- If you are not assigned a round: report to the Judge Standby Room and wait
+  until you have been released by the TAB Room Staff. You will be released when
+  all rounds have started.
 - We may need to ask you to substitute for a missing judge, so it is critical
-  that you report to and remain in the Judge Standby Room if you are not scheduled
-  for a round.
-- **You can be fined for not reporting to your room on time**. If the TAB Room
-  has to substitute a new/different judge for your assigned round, you will be
-  fined.
+  that you report to and remain in the Judge Standby Room if you are not
+  scheduled for a round.
+- **You can be fined for not reporting to your room on time even if you have
+  acknowledged your ballot**. If the TAB Room has to substitute a new/different
+  judge for your assigned round, you will be fined.
 
 ## Schedule
 
-(All times in Central)
+(All times in Eastern)
 
-| Round        | Pairings Released  | In Room Time  | Start Time  |
-| ------------ | ------------------ | ------------- | ----------- |
-| **Saturday** |                    |               |             |
-| 1            | 7:00 AM            | 7:20 AM       | 7:30 AM     |
-| 2            | 9:00 AM            | 9:20 AM       | 9:30 AM     |
-| 3            | 12:30 PM           | 12:50 PM      | 1:00 PM     |
-| 4            | 3:00 PM            | 3:20 PM       | 3:30 PM     |
-| 5            | 5:45 PM            | 6:05 PM       | 6:15 PM     |
-| **Sunday**   |                    |               |             |   
-| Play-In      | 7:00 AM            | 7:20 AM       | 7:30 AM     |
-| Dbl Octos    | 9:00 AM            | 9:20 AM       | 9:30 AM     |
-| Octo         | 11:00 AM           | 11:20 AM      | 11:30 AM    |
-| Quarts       | 1:00 PM            | 1:20 PM       | 1:30 PM     |
-| Semis        | 2:30 PM            | 2:50 PM       | 3:00 PM     |
-| Final        | 4:00 PM            | 4:20 PM       | 4:30 PM     |
+| Round        | Pairings Released | In Room Time | Start Time |
+| ------------ | ----------------- | ------------ | ---------- |
+| **Saturday** |                   |              |            |
+| 1            | 7:00 AM           | 7:20 AM      | 7:30 AM    |
+| 2            | 9:00 AM           | 9:20 AM      | 9:30 AM    |
+| 3            | 12:30 PM          | 12:50 PM     | 1:00 PM    |
+| 4            | 3:00 PM           | 3:20 PM      | 3:30 PM    |
+| 5            | 5:45 PM           | 6:05 PM      | 6:15 PM    |
+| **Sunday**   |                   |              |            |
+| Play-In      | 7:00 AM           | 7:20 AM      | 7:30 AM    |
+| Dbl Octos    | 9:00 AM           | 9:20 AM      | 9:30 AM    |
+| Octo         | 11:00 AM          | 11:20 AM     | 11:30 AM   |
+| Quarts       | 1:00 PM           | 1:20 PM      | 1:30 PM    |
+| Semis        | 2:30 PM           | 2:50 PM      | 3:00 PM    |
+| Final        | 4:00 PM           | 4:20 PM      | 4:30 PM    |
 
-**NOTE**:  We hope to release the pairings 30 minutes prior to start time but 
-rounds must start at the originally scheduled time even if that 
+**NOTE**: We hope to release the pairings 30 minutes prior to start time but
+rounds must start at the originally scheduled time even if that
 shortens pre-round prep.
 
 ## Judge Notes and Expectations
 
-Judges not assigned a round are on standby and must be in the Judges Standby Room when rounds are posted for possible
-substitutions.
+Judges not assigned a round are on standby and must be in the Judges Standby
+Room when rounds are posted for possible substitutions.
 
-We are very tight on judges, so please be prepared to judge all five rounds (10 flights) on Saturday.
+We are very tight on judges, so please be prepared to judge all five rounds (10
+flights) on Saturday.
 
-Note: if you are on standby for consecutive preliminary rounds, there might be
-a problem, and you should notify Tabroom. This is especially true this year,
-given how tight we are on judges.
+Note: if you are on standby for consecutive preliminary rounds, there might be a
+problem, and you should notify Tabroom. This is especially true this year, given
+how tight we are on judges.
 
-**ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE ELSE TO JUDGE IN YOUR NAME. YOU MAY NOT FIND
-A SUBSTITUTE JUDGE.**
+**ONLY THE ASSIGNED JUDGE MAY JUDGE. YOU MAY NOT (NEVER EVER) ALLOW SOMEONE ELSE
+TO JUDGE IN YOUR NAME. YOU MAY NOT FIND A SUBSTITUTE JUDGE.**
 
 ### Before the Tournament
 
-- **Update your paradigm.** Debaters use judge paradigms to decide how to best adapt to the judge, so tell them what kind of debates you want to see! Be sure your paradigm is honest and accurate - your jokes are both not funny and not understood by people who don’t know you, which are the people who read your paradigm.
-- Please remove lines in your paradigm that incentivize non-debate behavior to earn speaker points. Speaker points matter and play a large role in determining who debates who and who reaches elimination rounds. The published speaker point scale that we use is designed to create consistency in points, which is also useful to debaters and coaches as they work to improve, learn, and grow. Please help us to help debaters know where they need to improve by using your speaker points only in consistent, educational ways.
+```{include="paradigm.md"}
+
+```
 
 ### Before Each Round
 
-- Once you receive your round assignment, click “{{button}}” on your Flight 1 ballot.
-- Please report to the room ASAP and no later than ten minutes prior to the scheduled start time if possible.
-- Confirm (verbally) that the debaters’ names/codes and sides listed on your ballot are correct.
+- Once you receive your round assignment, click “{{button}}” on your Flight 1
+  ballot.
+- Please report to the room ASAP and no later than ten minutes prior to the
+  scheduled start time if possible.
+- Confirm (verbally) that the debaters’ names/codes and sides listed on your
+  ballot are correct.
 
 ### Prep Time
 
@@ -195,8 +197,12 @@ A SUBSTITUTE JUDGE.**
 ### During Rounds
 
 - Flow (take notes)
-- Keep time (NOTE: Students will likely time themselves as well, which is perfectly acceptable.)
-- Enter comments on your Ballot on Tabroom.com between speeches or during prep time.
+- Keep time (NOTE: Students will likely time themselves as well, which is
+  perfectly acceptable.)
+- Enter comments on your using a ‘hard drive’ program (Word, Notepad, Pages) in
+  between speeches or during prep time. If the internet becomes unstable in your
+  room or building, you might lose all your comments otherwise. You can then
+  copy/paste into Tabroom.
 - A good judge is a silent judge. The only communication a judge should have
   with the competitors is to assist the orderly flow of the round. Do not ask
   questions, do not comment on arguments, and do not get involved in the debate
@@ -212,56 +218,44 @@ A SUBSTITUTE JUDGE.**
 
 ### After Rounds
 
-- Quickly read any contested evidence you have not already reviewed that is crucial to your decision.
-- Confirm again verbally that the debaters' names/codes and sides listed on your ballot
-  are correct.
-- Enter points (following the scale below) and a decision (there must be one winner and one loser).
+- Quickly read any contested evidence you have not already reviewed that is
+  crucial to your decision.
+- Confirm again verbally that the debaters' names/codes and sides listed on your
+  ballot are correct.
+- Enter points (following the scale below) and a decision (there must be one
+  winner and one loser).
   - We are using tenths of points
   - Points cannot be tied
   - There are NO low point wins
 - Confirm your decision in Tabroom.com.
-- Write the winning SCHOOL and SIDE in your RFD on the Ballot. This helps the Tabroom ensure your decision is recorded
-  correctly.
+- Write the winning CODE and SIDE in your RFD on the Ballot. This helps the
+  Tabroom ensure your decision is recorded correctly. The first line of your RFD
+  should be "I vote for the AFF/NEG which is code \_\_\_\_.
 - You must stay in your room until your decision is submitted.
-- Help debaters and coaches by explaining on the Ballot the argument that caused you to vote the way you did (remember,
-  **NO oral critique & NO disclosure**)
-- Please provide a reason for your decision on the Ballot so the debaters can improve their arguments and debate skills
-  in the future!
+- Help debaters and coaches by explaining on the Ballot the argument that caused
+  you to vote the way you did (remember, **NO oral critique & NO disclosure**)
+- Please provide a reason for your decision on the Ballot so the debaters can
+  improve their arguments and debate skills in the future!
 - If you need, you can complete comments later:
-  - For Lincoln-Douglas - all comments for Rounds 1-5 must be entered by 8:00
-    pm on Saturday. For Elimination Rounds, please work to have
-    all comments for each Elimination Round on the ballot within 20 minutes of
-    the round ending.
-- Your comments are a wonderful way to help students and coaches get constructive, 
-  productive, educational feedback. Please provide robust comments for all competitors.
-  Remember: you are more than just a judge this weekend: you’re an educator, too. 
-- Additionally, as this has been an issue at other tournaments 
-  throughout the country: please  write your comments yourself and do not use AI generators to do it for you. 
-  These awesome kids took their time to create special presentations for you, so please take a few 
-  moments to write some personal thoughts for them, too.
+  - All comments for Rounds 1-5 must be entered by 8:00 pm on Saturday. For
+    Elimination Rounds, please work to have all comments for each Elimination
+    Round on the ballot within 20 minutes of the round ending.
+- Your comments are a wonderful way to help students and coaches get
+  constructive, productive, educational feedback. Please provide robust comments
+  for all competitors. Remember: you are more than just a judge this weekend:
+  you’re an educator, too.
+- Additionally, as this has been an issue at other tournaments throughout the
+  country: please write your comments yourself and do not use AI generators to
+  do it for you. Students will dismiss feedback that sounds like it was
+  generated by AI rather than by a human"
 
-### Debate speaker point scale
+### Debate Speaker Point Scale
 
-Speaker points are used to give a holistic measurement of the effectiveness of
-the debater’s participation in the round - speaking, strategy, decorum, etc.
-Judges must follow the speaker point scale, regardless of what they are used to
-or may prefer so that there is a fair standard across all rounds. Plus, if we
-have a standard, points provide meaningful feedback instead of being arbitrary
-and useless!
+```{include="speaks.md"}
+
+```
 
 **Low Point Wins are NOT Allowed in Lincoln-Douglas**
-
-|           | SPEAKER POINT GUIDE                                                       |
-| --------- | ------------------------------------------------------------------------- |
-| 29.5‑30   | I wish I could frame your speeches – hard to imagine a better speaker     |
-| 29.1‑29.4 | you were consistently excellent                                           |
-| 28.8‑29.0 | you were effective and strategic, and made only minor mistakes            |
-| 28.3‑28.7 | you hit all the right notes, but could improve (e.g. depth or efficiency) |
-| 27.8‑28.2 | you mainly did the right thing, but left something to be desired          |
-| 27.3‑27.7 | you missed major things and were hard to follow                           |
-| 27.0‑27.2 | you advanced little in the debate                                         |
-| 26.0‑26.9 | you cost your team the round                                              |
-| Below 26  | you were offensive, ignorant, rude, or tried to cheat (MUST come to tab)  |
 
 ### Forfeits
 
@@ -271,39 +265,32 @@ your own.
 
 ### Rules Violations
 
-Please consult the TAB Room before deciding that something in the round warrants punishment for violating the rules.
+Please consult the TAB Room before deciding that something in the round warrants
+punishment for violating the rules.
 
 ### Advice
 
-- A great resource for judge
-  training: [https://sites.google.com/view/judge-training/home](https://sites.google.com/view/judge-training/home)
-- A description of good and bad ballot
-  writing: [Debate Ballot Examples](https://docs.google.com/document/d/1qzqbP65igdvTpcmW-boiEC2En5yuqPVRquVvhJ_3fxw/edit?usp=sharing)
-- A video explaining how to use tabroom.com: [https://youtu.be/lEHBHm5itGY](https://youtu.be/lEHBHm5itGY)
-- A set of event explainers and sample rounds with
-  commentary: [PCFL Resources and Video](https://sites.google.com/view/pcfl/training-videos-and-faq?authuser=0)
+- A great resource for judge training:
+  [https://sites.google.com/view/judge-training/home](https://sites.google.com/view/judge-training/home)
+- A description of good and bad ballot writing:
+  [Debate Ballot Examples](https://docs.google.com/document/d/1qzqbP65igdvTpcmW-boiEC2En5yuqPVRquVvhJ_3fxw/edit?usp=sharing)
+- A video explaining how to use tabroom.com:
+  [https://youtu.be/lEHBHm5itGY](https://youtu.be/lEHBHm5itGY)
+- A set of event explainers and sample rounds with commentary:
+  [PCFL Resources and Video](https://sites.google.com/view/pcfl/training-videos-and-faq?authuser=0)
 
 ## Event Rules
 
-### Coin Flips - Round 5 and Elimination Rounds
+```{include="flips.md"}
 
-Following current NCFL rules, sides are set by the TAB Room. There are no coin
-flips in prelims until Round 5 and then in elimination rounds. In elims, unless
-opponents have met previously, the round begins with a coin flip. The winner of
-the flip may choose the side on which they want to compete.
+```
 
 In Lincoln-Douglas the affirmative will always speak first.
 
-Tabroom.com **will** manage the coin flip. Five minutes after a
-pairing is released, the teams will be notified who won the flip, enabling that
-team to make their selection. **Debaters must check their email for the
-Tabroom.com link!** If they miss their chance, the other team will be given the
-choice.
-
 ### Structure of a Round
 
-The structure of a round is not modifiable, with the exception that speakers
-are not required to use all of their speech or prep time. That time is simply
+The structure of a round is not modifiable, with the exception that speakers are
+not required to use all of their speech or prep time. That time is simply
 absorbed, not transferred to other activities.
 
 Lincoln-Douglas:
@@ -322,8 +309,8 @@ Lincoln-Douglas:
 
 ### Calling for and sharing evidence
 
-**All Debate Events**: the NCFL’s Rules of Evidence, Article II, Section C, Paragraph 5, Subparagraph (e) - Debate Judge
-Procedures:
+**All Debate Events**: the NCFL’s Rules of Evidence, Article II, Section C,
+Paragraph 5, Subparagraph (e) - Debate Judge Procedures:
 
 > “Judges may read any materials in any speech, including reading while the
 > debate is in progress. All decisions must be submitted within 55 minutes of
@@ -331,11 +318,11 @@ Procedures:
 > the start time of Policy CX rounds. The reading of complete citations is
 > required only when requested by the opponent.”
 
- A link to a room on <https://share.tabroom.com/> for the round will be available
- in your tabroom account.  The room name will be a randomized set of words and
- numbers (e.g., OpenOtter137).  Files can be shared by uploading them on the
- website linked or by emailing the address on that page (e.g.,
- OpenOtter137@share.tabroom.com ).
+A link to a room on <https://share.tabroom.com/> for the round will be available
+in your tabroom account. The room name will be a randomized set of words and
+numbers (e.g., OpenOtter137). Files can be shared by uploading them on the
+website linked or by emailing the address on that page (e.g.,
+OpenOtter137@share.tabroom.com ).
 
 In Lincoln-Douglas, any evidence read/cited in the round must be made available
 to the opponent upon request. Requests for evidence, and the time spent finding
@@ -350,27 +337,21 @@ prep time or while another speech/crossfire is underway.
 
 ### Evidence Challenges
 
-In Lincoln-Douglas the quality of evidence may be a part of the debate. Below are some ways you could consider evidence
-issues:
+```{include="evidence.md"}
 
-1. Per the Bylaws, Debaters MUST read complete citations ONLY if requested by the
-   opponent.
-2. If a debater/team claims evidence is of low quality, from a disreputable
-   source, uses a flawed methodology, etc. - you should decide this issue in the
-   course of the debate based on the arguments made by the teams. You can also
-   read the evidence if you would like.
-3. If a debater/team cannot produce evidence they read when requested by their
-   opponent - you should disregard the evidence in your decision.
-4. If a debater/team alleges that their opponent’s evidence is fabricated - you
-   can request to review the evidence and decide how it impacts your decision.
-
-You can consult the TAB Room for help resolving these issues, but we cannot make the decision for you.
+```
 
 ### Judge Reminder
 
 Good judges make decisions only on what was debated by the contestants in the
 round. The judges should distance themselves from the content of the debate.
 Personal values of the judges should not influence the decision.
+
+### Observers
+
+```{include="observers.md"}
+
+```
 
 ```{include="equity.md"}
 

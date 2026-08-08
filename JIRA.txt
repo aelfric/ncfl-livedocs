@@ -1,0 +1,62 @@
+[X] Update schedules in all events
+- [X] Speech
+- [X] Congress
+- [X] LD
+- [X] PF
+- [X] CX
+
+[X] Update observer policy
+- [X] Speech
+- [X] Congress
+- [X] LD
+- [X] PF
+- [X] CX
+
+
+[ ] Mask language?
+- [X] Speech
+- [ ] Congress
+- [ ] LD
+- [X] PF
+- [ ] CX
+
+[ ] Review locations for all events
+  - [X] Saturday
+    - [X] Speech
+    - [X] Congress
+    - [X] LD
+    - [X] PF
+    - [X] CX
+  - [X] Sunday
+    - [X] Speech
+    - [X] Congress
+    - [X] LD
+    - [X] PF
+    - [X] CX
+
+[X] Any updates for Equity?
+[X] Can/Should we visualize the colors for the cubicles?
+[X] Standardize coinflip language
+[X] Extract paradigm langauge
+[X] Extract speaker point scale
+
+[X] No recording and video language
+- [X] Speech
+- [X] Congress
+- [X] LD
+- [X] PF
+- [X] CX
+
+[ ] General Review Pass
+- [X] Speech
+  - [X] Student and Judge expectations
+  - [X] Update event rules
+  - [X] Update judge training link
+- [X] Congress
+- [X] LD
+- [ ] PF
+- [X] CX
+  - [X] evidence challenge rules NSDA?
+
+
+[ ] Create protest contact form an procedures and add to doc
